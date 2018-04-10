@@ -1,0 +1,7329 @@
+﻿amount,check,category
+1000,24,Fraud
+2162,24,Not Fraud
+6283,13,Product
+5699,29,Fraud
+6479,1,Not Fraud
+4225,23,Product
+5644,14,Fraud
+3799,9,Not Fraud
+4516,14,Product
+4325,8,Fraud
+6248,3,Not Fraud
+4530,23,Product
+1967,21,Fraud
+5203,30,Not Fraud
+5939,22,Product
+3259,1,Fraud
+3996,6,Not Fraud
+2001,4,Product
+3913,12,Fraud
+680,26,Not Fraud
+3132,11,Product
+6143,19,Fraud
+5501,27,Not Fraud
+2445,17,Product
+5149,1,Fraud
+520,12,Not Fraud
+3251,16,Product
+1110,26,Fraud
+727,5,Not Fraud
+2264,2,Product
+1059,16,Fraud
+1769,16,Not Fraud
+1210,7,Product
+4173,30,Fraud
+527,26,Not Fraud
+1054,27,Product
+4400,2,Fraud
+3000,8,Not Fraud
+5835,13,Product
+645,17,Fraud
+2634,16,Not Fraud
+6151,15,Product
+4963,30,Fraud
+5902,25,Not Fraud
+6651,1,Product
+3876,19,Fraud
+4248,14,Not Fraud
+2761,16,Product
+6955,20,Fraud
+6330,10,Not Fraud
+1299,30,Product
+3451,24,Fraud
+2716,2,Not Fraud
+1164,1,Product
+3115,27,Fraud
+3336,5,Not Fraud
+6192,13,Product
+617,13,Fraud
+598,17,Not Fraud
+4712,27,Product
+6739,17,Fraud
+5333,7,Not Fraud
+1334,16,Product
+979,13,Fraud
+1434,12,Not Fraud
+768,11,Product
+495,2,Fraud
+4718,6,Not Fraud
+2708,19,Product
+6267,27,Fraud
+6994,4,Not Fraud
+3516,22,Product
+1251,14,Fraud
+6826,29,Not Fraud
+3875,30,Product
+6159,19,Fraud
+2990,3,Not Fraud
+2031,28,Product
+5835,17,Fraud
+2053,11,Not Fraud
+2804,18,Product
+5046,29,Fraud
+330,25,Not Fraud
+3818,22,Product
+1480,11,Fraud
+3993,10,Not Fraud
+6900,8,Product
+1563,18,Fraud
+993,2,Not Fraud
+3439,27,Product
+6105,20,Fraud
+1061,6,Not Fraud
+5078,13,Product
+4732,2,Fraud
+6489,3,Not Fraud
+3544,9,Product
+699,14,Fraud
+2489,12,Not Fraud
+1552,7,Product
+3135,28,Fraud
+1293,26,Not Fraud
+4247,19,Product
+3976,12,Fraud
+1736,10,Not Fraud
+3938,16,Product
+6344,5,Fraud
+1749,19,Not Fraud
+240,26,Product
+4481,6,Fraud
+617,28,Not Fraud
+2462,16,Product
+6142,13,Fraud
+1472,6,Not Fraud
+1629,2,Product
+5523,23,Fraud
+601,28,Not Fraud
+2162,5,Product
+2016,5,Fraud
+3829,20,Not Fraud
+1314,12,Product
+2671,11,Fraud
+3553,24,Not Fraud
+499,1,Product
+339,22,Fraud
+6747,23,Not Fraud
+5765,15,Product
+325,24,Fraud
+1791,21,Not Fraud
+4799,2,Product
+2602,10,Fraud
+2257,19,Not Fraud
+5302,8,Product
+5857,14,Fraud
+2289,26,Not Fraud
+5166,4,Product
+1084,9,Fraud
+3761,17,Not Fraud
+2674,7,Product
+4467,16,Fraud
+283,6,Not Fraud
+3939,18,Product
+5960,20,Fraud
+6442,26,Not Fraud
+6183,10,Product
+4219,23,Fraud
+687,20,Not Fraud
+5291,5,Product
+1674,21,Fraud
+3479,12,Not Fraud
+6259,17,Product
+4175,10,Fraud
+6392,16,Not Fraud
+6824,11,Product
+4977,18,Fraud
+3005,3,Not Fraud
+1020,19,Product
+4268,20,Fraud
+2422,5,Not Fraud
+3101,23,Product
+866,10,Fraud
+3974,7,Not Fraud
+5668,24,Product
+505,7,Fraud
+5685,25,Not Fraud
+5995,29,Product
+6057,3,Fraud
+4122,5,Not Fraud
+6056,6,Product
+5578,27,Fraud
+1483,12,Not Fraud
+2335,4,Product
+3900,18,Fraud
+3771,7,Not Fraud
+3873,19,Product
+5660,21,Fraud
+6876,6,Not Fraud
+6454,21,Product
+1269,9,Fraud
+5058,29,Not Fraud
+6261,5,Product
+2698,3,Fraud
+5379,1,Not Fraud
+476,1,Product
+829,5,Fraud
+6715,28,Not Fraud
+3198,21,Product
+3479,25,Fraud
+2564,2,Not Fraud
+5225,30,Product
+300,2,Fraud
+5911,15,Not Fraud
+3867,20,Product
+1259,12,Fraud
+2798,7,Not Fraud
+6997,30,Product
+514,12,Fraud
+3135,30,Not Fraud
+486,18,Product
+3386,10,Fraud
+3922,26,Not Fraud
+5021,16,Product
+1512,5,Fraud
+4322,8,Not Fraud
+4117,18,Product
+208,25,Fraud
+3926,20,Not Fraud
+3795,3,Product
+3452,26,Fraud
+4031,11,Not Fraud
+1798,18,Product
+5309,28,Fraud
+3666,8,Not Fraud
+2963,13,Product
+4514,7,Fraud
+1022,10,Not Fraud
+2161,14,Product
+1126,13,Fraud
+4879,2,Not Fraud
+2567,7,Product
+3223,26,Fraud
+1995,25,Not Fraud
+2334,29,Product
+3887,24,Fraud
+5063,19,Not Fraud
+6409,26,Product
+2163,16,Fraud
+4083,9,Not Fraud
+1596,16,Product
+6162,7,Fraud
+6883,4,Not Fraud
+4813,24,Product
+3113,12,Fraud
+6228,10,Not Fraud
+2241,27,Product
+4287,23,Fraud
+3874,9,Not Fraud
+2352,14,Product
+3976,18,Fraud
+4705,2,Not Fraud
+4476,23,Product
+2297,24,Fraud
+2412,22,Not Fraud
+4021,25,Product
+2704,8,Fraud
+566,8,Not Fraud
+931,12,Product
+3908,26,Fraud
+2933,18,Not Fraud
+5620,28,Product
+799,10,Fraud
+4681,22,Not Fraud
+3381,8,Product
+3611,25,Fraud
+1966,20,Not Fraud
+2164,29,Product
+1318,22,Fraud
+5649,18,Not Fraud
+2806,28,Product
+1474,2,Fraud
+2241,23,Not Fraud
+2227,22,Product
+3753,29,Fraud
+4985,16,Not Fraud
+4601,9,Product
+4714,10,Fraud
+5931,12,Not Fraud
+4473,20,Product
+3462,8,Fraud
+1137,14,Not Fraud
+5674,8,Product
+3260,15,Fraud
+1205,30,Not Fraud
+1371,13,Product
+5472,27,Fraud
+266,23,Not Fraud
+4861,26,Product
+3725,26,Fraud
+5859,12,Not Fraud
+4503,17,Product
+6466,3,Fraud
+5356,12,Not Fraud
+4686,1,Product
+1418,14,Fraud
+3956,21,Not Fraud
+1038,3,Product
+2177,6,Fraud
+4884,28,Not Fraud
+4932,2,Product
+6625,19,Fraud
+3115,14,Not Fraud
+708,8,Product
+1392,13,Fraud
+5955,27,Not Fraud
+6570,19,Product
+6602,6,Fraud
+3275,20,Not Fraud
+3923,25,Product
+660,23,Fraud
+1023,5,Not Fraud
+6889,17,Product
+2345,22,Fraud
+608,15,Not Fraud
+6853,12,Product
+742,30,Fraud
+2176,29,Not Fraud
+1475,16,Product
+6702,14,Fraud
+1507,27,Not Fraud
+6430,19,Product
+628,7,Fraud
+2800,15,Not Fraud
+6848,21,Product
+4841,25,Fraud
+5282,14,Not Fraud
+957,3,Product
+1761,21,Fraud
+1235,23,Not Fraud
+2464,2,Product
+5998,5,Fraud
+429,7,Not Fraud
+2469,7,Product
+2368,26,Fraud
+4718,14,Not Fraud
+5656,26,Product
+5350,3,Fraud
+2968,16,Not Fraud
+5180,23,Product
+6790,21,Fraud
+6739,1,Not Fraud
+6969,3,Product
+3288,28,Fraud
+5501,28,Not Fraud
+1194,13,Product
+6843,21,Fraud
+5609,19,Not Fraud
+1448,25,Product
+3659,30,Fraud
+6904,19,Not Fraud
+221,22,Product
+4002,10,Fraud
+4640,23,Not Fraud
+6221,20,Product
+5982,23,Fraud
+5702,1,Not Fraud
+5758,13,Product
+4560,15,Fraud
+3218,12,Not Fraud
+5729,16,Product
+877,15,Fraud
+4774,18,Not Fraud
+5157,14,Product
+3477,20,Fraud
+709,21,Not Fraud
+3952,27,Product
+6134,12,Fraud
+5424,8,Not Fraud
+4529,7,Product
+3048,29,Fraud
+4956,19,Not Fraud
+4927,21,Product
+2230,14,Fraud
+6809,12,Not Fraud
+2067,27,Product
+3199,23,Fraud
+1423,13,Not Fraud
+4029,23,Product
+4210,12,Fraud
+4060,9,Not Fraud
+3448,6,Product
+4489,5,Fraud
+2453,8,Not Fraud
+2643,20,Product
+1777,10,Fraud
+5640,10,Not Fraud
+246,9,Product
+3993,25,Fraud
+2625,21,Not Fraud
+455,23,Product
+2176,21,Fraud
+5228,16,Not Fraud
+3989,2,Product
+3684,14,Fraud
+1177,1,Not Fraud
+1379,10,Product
+5236,6,Fraud
+845,7,Not Fraud
+5055,3,Product
+4334,7,Fraud
+3643,14,Not Fraud
+4886,24,Product
+4315,15,Fraud
+6064,30,Not Fraud
+6761,17,Product
+846,20,Fraud
+5674,7,Not Fraud
+5453,15,Product
+5635,9,Fraud
+2347,1,Not Fraud
+1899,9,Product
+1123,27,Fraud
+2665,8,Not Fraud
+210,15,Product
+3588,2,Fraud
+3929,17,Not Fraud
+3758,11,Product
+4487,17,Fraud
+6508,6,Not Fraud
+4988,7,Product
+1592,8,Fraud
+3417,14,Not Fraud
+6769,19,Product
+1383,18,Fraud
+1156,26,Not Fraud
+2857,16,Product
+1153,26,Fraud
+2980,29,Not Fraud
+6268,27,Product
+2086,26,Fraud
+2581,14,Not Fraud
+1685,11,Product
+4829,11,Fraud
+3070,7,Not Fraud
+1833,27,Product
+1463,24,Fraud
+5943,15,Not Fraud
+6524,26,Product
+5289,28,Fraud
+2246,6,Not Fraud
+2180,25,Product
+6298,19,Fraud
+3801,2,Not Fraud
+6085,27,Product
+2424,29,Fraud
+5599,20,Not Fraud
+2058,17,Product
+970,19,Fraud
+6634,5,Not Fraud
+835,3,Product
+600,10,Fraud
+1403,22,Not Fraud
+6936,11,Product
+319,5,Fraud
+1846,20,Not Fraud
+3157,25,Product
+553,7,Fraud
+6672,9,Not Fraud
+4467,30,Product
+6265,24,Fraud
+3885,19,Not Fraud
+3953,15,Product
+1065,8,Fraud
+4603,28,Not Fraud
+5612,4,Product
+4135,5,Fraud
+840,24,Not Fraud
+5335,17,Product
+225,13,Fraud
+3825,18,Not Fraud
+4367,8,Product
+6814,20,Fraud
+4448,1,Not Fraud
+1145,9,Product
+6326,9,Fraud
+3860,19,Not Fraud
+2065,28,Product
+5107,10,Fraud
+4154,20,Not Fraud
+4135,18,Product
+970,26,Fraud
+6878,27,Not Fraud
+464,30,Product
+494,22,Fraud
+1051,7,Not Fraud
+2816,26,Product
+5850,26,Fraud
+5608,1,Not Fraud
+1710,30,Product
+6424,29,Fraud
+2820,19,Not Fraud
+6471,19,Product
+5379,6,Fraud
+4231,5,Not Fraud
+3617,1,Product
+3894,16,Fraud
+4039,2,Not Fraud
+1185,24,Product
+338,21,Fraud
+3764,19,Not Fraud
+5521,20,Product
+2717,10,Fraud
+3419,4,Not Fraud
+308,16,Product
+3607,15,Fraud
+3086,28,Not Fraud
+1690,8,Product
+3587,7,Fraud
+2983,1,Not Fraud
+3228,25,Product
+4613,1,Fraud
+401,18,Not Fraud
+1469,11,Product
+2226,14,Fraud
+4817,11,Not Fraud
+2173,10,Product
+714,29,Fraud
+6846,10,Not Fraud
+2681,6,Product
+861,9,Fraud
+6395,14,Not Fraud
+5673,27,Product
+4932,25,Fraud
+5088,13,Not Fraud
+3361,1,Product
+1648,24,Fraud
+5857,7,Not Fraud
+2493,8,Product
+1892,19,Fraud
+529,27,Not Fraud
+5598,19,Product
+1040,13,Fraud
+5875,30,Not Fraud
+6990,28,Product
+2373,6,Fraud
+1562,16,Not Fraud
+4720,1,Product
+1116,1,Fraud
+917,6,Not Fraud
+6647,20,Product
+3846,28,Fraud
+5787,9,Not Fraud
+6116,22,Product
+5928,3,Fraud
+3839,2,Not Fraud
+6267,1,Product
+4382,4,Fraud
+830,7,Not Fraud
+557,23,Product
+699,5,Fraud
+2378,3,Not Fraud
+5312,6,Product
+6465,19,Fraud
+2471,6,Not Fraud
+5902,6,Product
+3815,14,Fraud
+5786,2,Not Fraud
+2354,11,Product
+231,8,Fraud
+6279,14,Not Fraud
+2603,11,Product
+5018,30,Fraud
+483,29,Not Fraud
+827,22,Product
+3193,9,Fraud
+685,21,Not Fraud
+4827,8,Product
+659,22,Fraud
+6494,19,Not Fraud
+484,5,Product
+2805,22,Fraud
+1653,13,Not Fraud
+1994,11,Product
+4916,5,Fraud
+6982,6,Not Fraud
+6431,6,Product
+6018,14,Fraud
+6839,25,Not Fraud
+1917,30,Product
+3672,30,Fraud
+5415,21,Not Fraud
+5642,3,Product
+640,27,Fraud
+2003,1,Not Fraud
+2354,4,Product
+6380,7,Fraud
+2846,28,Not Fraud
+2191,25,Product
+2976,24,Fraud
+2456,12,Not Fraud
+3621,29,Product
+5859,7,Fraud
+212,19,Not Fraud
+1812,1,Product
+2408,14,Fraud
+3021,10,Not Fraud
+5359,3,Product
+4297,24,Fraud
+3275,26,Not Fraud
+348,17,Product
+2238,27,Fraud
+5074,29,Not Fraud
+6253,29,Product
+4096,15,Fraud
+6819,14,Not Fraud
+4780,12,Product
+1117,18,Fraud
+658,19,Not Fraud
+5450,19,Product
+324,4,Fraud
+3132,3,Not Fraud
+1109,17,Product
+2758,4,Fraud
+1090,7,Not Fraud
+4110,12,Product
+2615,21,Fraud
+5062,6,Not Fraud
+6316,18,Product
+6335,19,Fraud
+3570,20,Not Fraud
+1789,18,Product
+4678,5,Fraud
+531,13,Not Fraud
+3107,20,Product
+5839,10,Fraud
+1378,8,Not Fraud
+5695,25,Product
+4886,10,Fraud
+1536,1,Not Fraud
+6398,14,Product
+6085,12,Fraud
+6300,2,Not Fraud
+3534,28,Product
+1696,11,Fraud
+6564,14,Not Fraud
+1106,14,Product
+4344,6,Fraud
+6365,22,Not Fraud
+5094,30,Product
+378,17,Fraud
+4753,20,Not Fraud
+1951,10,Product
+1465,1,Fraud
+2145,3,Not Fraud
+4663,5,Product
+2695,15,Fraud
+3946,17,Not Fraud
+717,10,Product
+3442,10,Fraud
+1932,6,Not Fraud
+2380,17,Product
+993,29,Fraud
+3639,5,Not Fraud
+6181,19,Product
+4053,8,Fraud
+2588,22,Not Fraud
+1170,27,Product
+4444,8,Fraud
+5988,16,Not Fraud
+3034,1,Product
+4142,22,Fraud
+2722,6,Not Fraud
+6885,3,Product
+992,25,Fraud
+3640,10,Not Fraud
+1513,23,Product
+3611,28,Fraud
+4466,10,Not Fraud
+3743,23,Product
+5123,18,Fraud
+4069,1,Not Fraud
+720,8,Product
+3463,11,Fraud
+5396,18,Not Fraud
+2205,10,Product
+1781,30,Fraud
+6416,24,Not Fraud
+3691,27,Product
+5481,13,Fraud
+3425,9,Not Fraud
+6063,3,Product
+5116,26,Fraud
+2644,6,Not Fraud
+4689,27,Product
+5902,11,Fraud
+5667,13,Not Fraud
+6563,27,Product
+5503,3,Fraud
+1775,21,Not Fraud
+6709,3,Product
+907,8,Fraud
+6668,21,Not Fraud
+4783,12,Product
+1812,16,Fraud
+4023,20,Not Fraud
+761,11,Product
+5735,5,Fraud
+2341,15,Not Fraud
+5435,10,Product
+6762,22,Fraud
+3610,4,Not Fraud
+6431,26,Product
+3390,3,Fraud
+4962,4,Not Fraud
+3295,10,Product
+5373,7,Fraud
+2886,16,Not Fraud
+4078,2,Product
+1396,23,Fraud
+5230,7,Not Fraud
+3181,12,Product
+5754,21,Fraud
+3980,10,Not Fraud
+2674,29,Not Fraud
+5168,5,Fraud
+2347,13,Not Fraud
+4631,26,Fraud
+4734,24,Not Fraud
+2917,6,Fraud
+3605,4,Not Fraud
+3453,25,Fraud
+4266,27,Not Fraud
+4369,26,Fraud
+3355,27,Not Fraud
+6109,19,Fraud
+200,6,Not Fraud
+4862,16,Fraud
+1438,2,Not Fraud
+6843,16,Fraud
+3759,2,Not Fraud
+4775,27,Fraud
+4597,6,Not Fraud
+4775,19,Fraud
+1067,17,Not Fraud
+4195,25,Fraud
+3446,5,Not Fraud
+3864,8,Fraud
+5650,15,Not Fraud
+5233,26,Fraud
+4802,10,Not Fraud
+4488,4,Fraud
+536,23,Not Fraud
+5149,15,Fraud
+2635,24,Not Fraud
+6929,28,Fraud
+6869,1,Not Fraud
+3336,20,Fraud
+4881,20,Not Fraud
+3275,15,Fraud
+4156,1,Not Fraud
+4660,30,Fraud
+4188,3,Not Fraud
+653,20,Fraud
+2250,3,Not Fraud
+2194,7,Fraud
+480,15,Not Fraud
+5035,14,Fraud
+5613,24,Not Fraud
+6589,25,Fraud
+5394,2,Not Fraud
+856,13,Fraud
+6338,5,Not Fraud
+1541,27,Fraud
+5822,10,Not Fraud
+2104,18,Fraud
+2031,3,Not Fraud
+867,25,Fraud
+5050,22,Not Fraud
+3662,22,Fraud
+2940,1,Not Fraud
+6911,3,Fraud
+3742,30,Not Fraud
+6602,11,Fraud
+5691,14,Not Fraud
+6559,10,Fraud
+3133,23,Not Fraud
+3481,1,Fraud
+5152,15,Not Fraud
+2654,13,Fraud
+2928,29,Not Fraud
+6662,8,Fraud
+204,22,Not Fraud
+5608,5,Fraud
+3800,28,Not Fraud
+4496,22,Fraud
+4356,9,Not Fraud
+2703,14,Fraud
+3968,23,Not Fraud
+753,18,Fraud
+3441,30,Not Fraud
+4096,6,Fraud
+2112,9,Not Fraud
+4176,23,Fraud
+6885,5,Not Fraud
+3928,19,Fraud
+288,3,Not Fraud
+6130,30,Fraud
+2803,18,Not Fraud
+6000,23,Fraud
+590,25,Not Fraud
+6981,25,Fraud
+4806,28,Not Fraud
+6384,23,Fraud
+4467,3,Not Fraud
+2421,12,Fraud
+2907,11,Not Fraud
+2944,4,Fraud
+4078,14,Not Fraud
+2742,9,Fraud
+2489,10,Not Fraud
+4716,7,Fraud
+5244,7,Not Fraud
+6231,5,Fraud
+6170,19,Not Fraud
+5982,3,Fraud
+6766,17,Not Fraud
+607,4,Fraud
+400,30,Not Fraud
+364,9,Fraud
+1276,18,Not Fraud
+5487,11,Fraud
+5581,23,Not Fraud
+1640,2,Fraud
+3465,6,Not Fraud
+5809,11,Fraud
+1352,25,Not Fraud
+4471,24,Fraud
+1646,5,Not Fraud
+4820,12,Fraud
+2682,11,Not Fraud
+1628,5,Fraud
+3087,5,Not Fraud
+3053,18,Fraud
+2135,6,Not Fraud
+5297,28,Fraud
+2921,6,Not Fraud
+5237,28,Fraud
+4568,19,Not Fraud
+6823,17,Fraud
+4422,25,Not Fraud
+1958,12,Fraud
+4367,7,Not Fraud
+1238,30,Fraud
+2857,14,Not Fraud
+1530,19,Fraud
+561,12,Not Fraud
+5919,13,Fraud
+5614,20,Not Fraud
+658,6,Fraud
+5492,9,Not Fraud
+6280,16,Fraud
+2227,23,Not Fraud
+2430,19,Fraud
+3211,30,Not Fraud
+4550,17,Fraud
+2553,8,Not Fraud
+1369,29,Fraud
+3521,2,Not Fraud
+5540,25,Fraud
+235,5,Not Fraud
+2815,26,Fraud
+3381,17,Not Fraud
+3359,23,Fraud
+5801,5,Not Fraud
+6166,4,Fraud
+3106,4,Not Fraud
+6222,15,Fraud
+5831,19,Not Fraud
+6259,18,Fraud
+228,2,Not Fraud
+4908,12,Fraud
+6587,27,Not Fraud
+647,10,Fraud
+1385,16,Not Fraud
+4743,19,Fraud
+2379,13,Not Fraud
+6792,1,Fraud
+1292,1,Not Fraud
+4996,18,Fraud
+6173,5,Not Fraud
+1105,18,Fraud
+6142,5,Not Fraud
+4949,9,Fraud
+5039,8,Not Fraud
+6181,22,Fraud
+6941,18,Not Fraud
+833,20,Fraud
+5513,16,Not Fraud
+1830,10,Fraud
+553,19,Not Fraud
+3812,3,Fraud
+1006,20,Not Fraud
+5501,13,Fraud
+6044,20,Not Fraud
+209,22,Fraud
+2824,9,Not Fraud
+4841,21,Fraud
+4805,14,Not Fraud
+4791,5,Fraud
+6535,13,Not Fraud
+5027,14,Fraud
+4766,27,Not Fraud
+6872,12,Fraud
+3806,8,Not Fraud
+6362,30,Fraud
+6242,19,Not Fraud
+3548,3,Fraud
+4011,7,Not Fraud
+974,3,Fraud
+579,17,Not Fraud
+4807,4,Fraud
+3615,5,Not Fraud
+3624,27,Fraud
+3746,20,Not Fraud
+6573,13,Fraud
+2206,10,Not Fraud
+4202,28,Fraud
+5089,3,Not Fraud
+3278,10,Fraud
+3322,1,Not Fraud
+5220,21,Fraud
+1137,20,Not Fraud
+6444,27,Fraud
+6455,17,Not Fraud
+5415,6,Fraud
+4524,8,Not Fraud
+2081,2,Fraud
+4144,13,Not Fraud
+6632,18,Fraud
+524,19,Not Fraud
+3451,3,Fraud
+3528,7,Not Fraud
+2979,7,Fraud
+6953,20,Not Fraud
+6257,4,Fraud
+6077,5,Not Fraud
+6990,5,Fraud
+3428,12,Not Fraud
+1682,30,Fraud
+891,29,Not Fraud
+5479,5,Fraud
+4166,25,Not Fraud
+836,10,Fraud
+3516,22,Not Fraud
+5431,22,Fraud
+1663,21,Not Fraud
+6928,1,Fraud
+1609,1,Not Fraud
+5362,13,Fraud
+5921,3,Not Fraud
+4751,1,Fraud
+3587,11,Not Fraud
+4507,8,Fraud
+5429,25,Not Fraud
+6234,10,Fraud
+5796,1,Not Fraud
+1739,3,Fraud
+2444,29,Not Fraud
+4282,10,Fraud
+5954,3,Not Fraud
+4575,18,Fraud
+6039,15,Not Fraud
+3498,1,Fraud
+6231,22,Not Fraud
+3265,1,Fraud
+4388,21,Not Fraud
+986,5,Fraud
+5740,10,Not Fraud
+365,26,Fraud
+803,10,Not Fraud
+6844,14,Fraud
+5732,26,Not Fraud
+2245,4,Fraud
+4364,3,Not Fraud
+6999,17,Fraud
+1756,12,Not Fraud
+489,16,Fraud
+5543,13,Not Fraud
+2021,30,Fraud
+2129,6,Not Fraud
+4663,7,Fraud
+6658,5,Not Fraud
+453,21,Fraud
+3132,9,Not Fraud
+479,3,Fraud
+534,3,Not Fraud
+1968,2,Fraud
+1272,3,Not Fraud
+2098,5,Fraud
+776,26,Not Fraud
+3336,25,Fraud
+2374,3,Not Fraud
+6129,6,Fraud
+1742,16,Not Fraud
+4566,11,Fraud
+4773,23,Not Fraud
+2252,29,Fraud
+5345,3,Not Fraud
+6418,9,Fraud
+1676,28,Not Fraud
+5125,14,Fraud
+4922,8,Not Fraud
+6522,20,Fraud
+5737,15,Not Fraud
+1106,2,Fraud
+2621,11,Not Fraud
+2755,8,Fraud
+5552,23,Not Fraud
+4031,17,Fraud
+2776,21,Not Fraud
+4617,17,Fraud
+1287,1,Not Fraud
+4008,30,Fraud
+4962,14,Not Fraud
+5574,24,Fraud
+5332,4,Not Fraud
+5254,26,Fraud
+1317,11,Not Fraud
+4064,26,Fraud
+5387,14,Not Fraud
+5856,14,Fraud
+3494,7,Not Fraud
+4501,23,Fraud
+3608,4,Not Fraud
+6011,22,Fraud
+3795,17,Not Fraud
+4440,2,Fraud
+6942,10,Not Fraud
+5954,8,Fraud
+2478,23,Not Fraud
+5159,17,Fraud
+4501,16,Not Fraud
+778,16,Fraud
+6555,6,Not Fraud
+1932,18,Fraud
+6698,15,Not Fraud
+4244,20,Fraud
+753,22,Not Fraud
+3419,14,Fraud
+5911,21,Not Fraud
+2584,21,Fraud
+960,3,Not Fraud
+3485,13,Fraud
+6697,25,Not Fraud
+1692,18,Fraud
+5569,30,Not Fraud
+4519,1,Fraud
+1937,28,Not Fraud
+4036,9,Fraud
+4407,14,Not Fraud
+3986,23,Fraud
+4914,25,Not Fraud
+3598,5,Fraud
+4452,23,Not Fraud
+6722,7,Fraud
+2571,15,Not Fraud
+694,21,Fraud
+3072,30,Not Fraud
+4435,8,Fraud
+996,11,Not Fraud
+714,6,Fraud
+2492,8,Not Fraud
+6888,18,Fraud
+3733,6,Not Fraud
+4285,7,Fraud
+3783,24,Not Fraud
+2515,19,Fraud
+1995,12,Not Fraud
+6065,7,Fraud
+1307,22,Not Fraud
+4335,24,Fraud
+4690,13,Not Fraud
+1013,12,Fraud
+6767,9,Not Fraud
+887,5,Fraud
+5357,11,Not Fraud
+3635,9,Fraud
+6346,22,Not Fraud
+5822,20,Fraud
+3453,22,Not Fraud
+4547,21,Fraud
+4324,6,Not Fraud
+1845,19,Fraud
+963,15,Not Fraud
+6280,27,Fraud
+3403,29,Not Fraud
+2809,18,Fraud
+618,5,Not Fraud
+6795,24,Fraud
+497,24,Not Fraud
+3657,8,Fraud
+976,24,Not Fraud
+1229,8,Fraud
+6394,3,Not Fraud
+511,21,Fraud
+1963,24,Not Fraud
+2275,28,Fraud
+3093,15,Not Fraud
+4704,19,Fraud
+2582,8,Not Fraud
+868,5,Fraud
+2700,21,Not Fraud
+3069,3,Fraud
+6771,19,Not Fraud
+6441,9,Fraud
+4744,17,Not Fraud
+3312,7,Fraud
+2213,24,Not Fraud
+6882,25,Fraud
+4407,19,Not Fraud
+6037,21,Fraud
+668,22,Not Fraud
+2144,17,Fraud
+2958,12,Not Fraud
+3446,7,Fraud
+4686,2,Not Fraud
+2105,16,Fraud
+1772,1,Not Fraud
+1143,12,Fraud
+1417,15,Not Fraud
+4320,11,Fraud
+6863,9,Not Fraud
+4538,5,Fraud
+1969,3,Not Fraud
+5642,25,Fraud
+886,14,Not Fraud
+1323,24,Fraud
+3695,5,Not Fraud
+5252,5,Fraud
+3285,30,Not Fraud
+1109,3,Fraud
+2551,14,Not Fraud
+6790,30,Fraud
+3203,27,Not Fraud
+4957,4,Fraud
+3246,8,Not Fraud
+2920,26,Fraud
+1075,12,Not Fraud
+3732,18,Fraud
+2471,13,Not Fraud
+6721,2,Fraud
+537,26,Not Fraud
+5633,9,Fraud
+5774,8,Not Fraud
+3265,19,Fraud
+4915,27,Not Fraud
+4924,14,Fraud
+1754,29,Not Fraud
+232,18,Fraud
+3674,16,Not Fraud
+1395,24,Fraud
+3821,12,Not Fraud
+2032,24,Fraud
+2341,12,Not Fraud
+3643,17,Fraud
+3000,29,Not Fraud
+5904,6,Fraud
+1003,21,Not Fraud
+3282,23,Fraud
+5538,29,Not Fraud
+4577,28,Fraud
+5981,3,Not Fraud
+3854,16,Fraud
+5520,8,Not Fraud
+6306,9,Fraud
+1591,9,Not Fraud
+1694,27,Fraud
+5627,29,Not Fraud
+6278,4,Fraud
+6105,2,Not Fraud
+2390,4,Fraud
+5365,22,Not Fraud
+4664,6,Fraud
+3661,1,Not Fraud
+5966,9,Fraud
+2509,18,Not Fraud
+6773,3,Fraud
+6295,15,Not Fraud
+1668,25,Fraud
+5066,6,Not Fraud
+952,7,Fraud
+4839,18,Not Fraud
+5224,26,Fraud
+2315,8,Not Fraud
+2370,7,Fraud
+746,27,Not Fraud
+5189,27,Fraud
+1044,26,Not Fraud
+239,9,Fraud
+6465,11,Not Fraud
+2880,22,Fraud
+4681,22,Not Fraud
+4785,2,Fraud
+5609,22,Not Fraud
+6729,19,Fraud
+2559,23,Not Fraud
+1083,5,Fraud
+884,19,Not Fraud
+4582,8,Fraud
+1417,10,Not Fraud
+3299,3,Fraud
+4310,29,Not Fraud
+1879,11,Fraud
+6768,15,Not Fraud
+5837,20,Fraud
+451,11,Not Fraud
+4309,10,Fraud
+2558,19,Not Fraud
+5821,26,Fraud
+3015,21,Not Fraud
+647,21,Fraud
+2692,30,Not Fraud
+1363,8,Fraud
+2186,10,Not Fraud
+660,24,Fraud
+5157,22,Not Fraud
+5789,28,Fraud
+4543,27,Not Fraud
+421,11,Fraud
+322,22,Not Fraud
+2854,10,Fraud
+4657,9,Not Fraud
+3307,3,Fraud
+1948,26,Not Fraud
+5858,21,Fraud
+2964,30,Not Fraud
+5136,15,Fraud
+3136,10,Not Fraud
+5033,10,Fraud
+5368,23,Not Fraud
+2744,15,Fraud
+2315,12,Not Fraud
+2277,25,Fraud
+5498,29,Not Fraud
+6708,29,Fraud
+5994,16,Not Fraud
+1166,8,Fraud
+3936,15,Not Fraud
+316,7,Fraud
+3681,28,Not Fraud
+3038,19,Fraud
+4986,9,Not Fraud
+3936,7,Fraud
+1000,27,Not Fraud
+6561,26,Fraud
+4585,5,Not Fraud
+6775,29,Fraud
+4214,1,Not Fraud
+2337,9,Fraud
+4909,30,Not Fraud
+214,20,Fraud
+675,27,Not Fraud
+2102,2,Fraud
+2106,30,Not Fraud
+1613,7,Fraud
+870,29,Not Fraud
+2348,15,Fraud
+5414,8,Not Fraud
+5867,26,Fraud
+3254,30,Not Fraud
+873,1,Fraud
+509,16,Not Fraud
+923,23,Fraud
+4536,29,Not Fraud
+6997,2,Fraud
+4133,9,Not Fraud
+5329,4,Fraud
+2684,15,Not Fraud
+1223,19,Fraud
+1092,28,Not Fraud
+1282,9,Fraud
+700,5,Not Fraud
+6305,7,Fraud
+4550,14,Not Fraud
+2159,1,Fraud
+796,3,Not Fraud
+4736,23,Fraud
+6600,8,Not Fraud
+3320,2,Fraud
+3241,10,Not Fraud
+5724,4,Fraud
+803,14,Not Fraud
+6367,1,Fraud
+3713,3,Not Fraud
+742,15,Fraud
+6645,13,Not Fraud
+780,13,Fraud
+365,12,Not Fraud
+1741,6,Fraud
+1836,10,Not Fraud
+6871,27,Fraud
+3147,13,Not Fraud
+2537,1,Fraud
+1355,11,Not Fraud
+1493,26,Fraud
+6275,22,Not Fraud
+2546,28,Fraud
+6505,6,Not Fraud
+2112,6,Fraud
+699,6,Not Fraud
+5436,8,Fraud
+596,1,Not Fraud
+3773,7,Fraud
+4394,15,Not Fraud
+1625,23,Fraud
+337,8,Not Fraud
+903,12,Fraud
+5003,18,Not Fraud
+517,10,Fraud
+804,22,Not Fraud
+5567,15,Fraud
+5416,25,Not Fraud
+3383,12,Fraud
+6576,11,Not Fraud
+3591,3,Fraud
+6236,28,Not Fraud
+4206,4,Fraud
+4234,25,Not Fraud
+4999,3,Fraud
+4513,30,Not Fraud
+2221,21,Fraud
+3618,6,Not Fraud
+2577,5,Fraud
+2750,26,Not Fraud
+6353,14,Fraud
+3547,21,Not Fraud
+5934,5,Fraud
+4586,29,Not Fraud
+5014,6,Fraud
+4327,9,Not Fraud
+6932,23,Fraud
+6298,2,Not Fraud
+3020,17,Fraud
+6216,28,Not Fraud
+4030,28,Fraud
+4958,18,Not Fraud
+1743,30,Fraud
+967,1,Not Fraud
+5393,29,Fraud
+4857,29,Not Fraud
+6417,25,Fraud
+3487,15,Not Fraud
+2471,7,Fraud
+3751,3,Not Fraud
+3935,14,Fraud
+4909,27,Not Fraud
+1095,17,Fraud
+4220,12,Not Fraud
+6628,12,Fraud
+6983,4,Not Fraud
+5832,27,Fraud
+5121,21,Not Fraud
+1893,26,Fraud
+1054,29,Not Fraud
+1584,22,Fraud
+4929,26,Not Fraud
+281,6,Fraud
+3010,12,Not Fraud
+6077,4,Fraud
+4340,27,Not Fraud
+1625,17,Fraud
+2878,10,Not Fraud
+6699,6,Fraud
+1822,10,Not Fraud
+5193,5,Fraud
+2361,2,Not Fraud
+4018,7,Fraud
+6137,23,Not Fraud
+788,18,Fraud
+584,4,Not Fraud
+1133,15,Fraud
+3572,19,Not Fraud
+6801,4,Fraud
+4443,25,Not Fraud
+755,6,Fraud
+2129,7,Not Fraud
+2265,14,Fraud
+4928,6,Not Fraud
+5008,22,Fraud
+6638,8,Not Fraud
+1864,26,Fraud
+2698,21,Not Fraud
+1066,25,Fraud
+983,5,Not Fraud
+855,6,Fraud
+4698,6,Not Fraud
+4025,6,Fraud
+6771,28,Not Fraud
+2265,27,Fraud
+2536,16,Not Fraud
+5436,29,Fraud
+2363,13,Not Fraud
+3764,27,Fraud
+605,16,Not Fraud
+5850,4,Fraud
+2234,13,Not Fraud
+904,27,Fraud
+1023,27,Not Fraud
+6606,8,Fraud
+2118,1,Not Fraud
+600,27,Fraud
+2019,27,Not Fraud
+1341,22,Fraud
+2526,18,Not Fraud
+6695,14,Fraud
+3342,10,Not Fraud
+775,26,Fraud
+5720,30,Not Fraud
+5979,21,Fraud
+2538,18,Not Fraud
+2038,8,Fraud
+3413,15,Not Fraud
+3311,18,Fraud
+2459,21,Not Fraud
+2899,30,Fraud
+4827,25,Not Fraud
+5129,27,Fraud
+3645,21,Not Fraud
+3285,10,Fraud
+5760,24,Not Fraud
+4331,28,Fraud
+3600,27,Not Fraud
+3992,21,Fraud
+1375,10,Not Fraud
+1770,19,Fraud
+4974,5,Not Fraud
+2020,10,Fraud
+3909,13,Not Fraud
+6923,3,Fraud
+1104,29,Not Fraud
+6607,30,Fraud
+5634,4,Not Fraud
+4761,14,Fraud
+2970,26,Not Fraud
+6072,10,Fraud
+5216,18,Not Fraud
+2986,2,Fraud
+5340,30,Not Fraud
+6125,16,Fraud
+3741,15,Not Fraud
+3429,5,Fraud
+6967,3,Not Fraud
+2965,7,Fraud
+6059,24,Not Fraud
+903,19,Fraud
+219,20,Not Fraud
+1621,27,Fraud
+2954,25,Not Fraud
+4260,15,Fraud
+2872,17,Not Fraud
+5109,7,Fraud
+2850,9,Not Fraud
+5548,3,Fraud
+3720,2,Not Fraud
+4536,9,Fraud
+3681,30,Not Fraud
+5056,25,Fraud
+6798,9,Not Fraud
+5782,30,Fraud
+1196,7,Not Fraud
+5589,29,Fraud
+2954,1,Not Fraud
+1689,9,Fraud
+3836,28,Not Fraud
+337,25,Fraud
+3488,5,Not Fraud
+3349,6,Fraud
+242,27,Not Fraud
+1428,21,Fraud
+3009,21,Not Fraud
+4644,25,Fraud
+5006,3,Not Fraud
+5921,20,Fraud
+1643,17,Not Fraud
+5589,24,Fraud
+1510,16,Not Fraud
+4711,19,Fraud
+2896,8,Not Fraud
+2681,7,Fraud
+6507,10,Not Fraud
+5872,10,Fraud
+606,13,Not Fraud
+4964,4,Fraud
+3779,13,Not Fraud
+2877,5,Fraud
+968,18,Not Fraud
+2127,16,Fraud
+396,15,Not Fraud
+6356,27,Fraud
+4478,17,Not Fraud
+3520,17,Fraud
+439,24,Not Fraud
+2093,29,Fraud
+354,12,Not Fraud
+2933,3,Fraud
+2290,26,Not Fraud
+4925,18,Fraud
+1574,10,Not Fraud
+4594,8,Fraud
+6452,8,Not Fraud
+1105,30,Fraud
+1157,12,Not Fraud
+5452,29,Fraud
+3571,12,Not Fraud
+3981,17,Fraud
+2674,28,Not Fraud
+2334,8,Fraud
+6849,6,Not Fraud
+5976,24,Fraud
+4658,3,Not Fraud
+1741,5,Fraud
+3166,23,Not Fraud
+4352,4,Fraud
+2554,22,Not Fraud
+866,16,Fraud
+1362,11,Not Fraud
+2758,15,Fraud
+6406,9,Not Fraud
+5558,25,Fraud
+2089,5,Not Fraud
+517,22,Fraud
+3293,25,Not Fraud
+2251,17,Fraud
+6112,14,Not Fraud
+2569,19,Fraud
+5270,29,Not Fraud
+1486,17,Fraud
+6272,5,Not Fraud
+6033,22,Fraud
+4686,18,Not Fraud
+6458,27,Fraud
+6130,14,Not Fraud
+1394,14,Fraud
+4431,24,Not Fraud
+5248,11,Fraud
+6315,10,Not Fraud
+298,26,Fraud
+3581,13,Not Fraud
+5873,27,Fraud
+4888,14,Not Fraud
+3401,15,Fraud
+508,14,Not Fraud
+2578,30,Fraud
+2205,10,Not Fraud
+2228,27,Fraud
+2681,15,Not Fraud
+6030,14,Fraud
+4283,24,Not Fraud
+2333,25,Fraud
+3209,19,Not Fraud
+2858,22,Fraud
+626,16,Not Fraud
+4449,29,Fraud
+3061,18,Not Fraud
+5322,6,Fraud
+2062,2,Not Fraud
+6894,11,Fraud
+2607,27,Not Fraud
+4264,14,Fraud
+2065,23,Not Fraud
+4296,14,Fraud
+903,4,Not Fraud
+2705,5,Fraud
+4263,8,Not Fraud
+2778,25,Fraud
+6784,30,Not Fraud
+6735,20,Fraud
+295,20,Not Fraud
+5713,24,Fraud
+1509,19,Not Fraud
+1589,3,Fraud
+1755,13,Not Fraud
+2480,3,Fraud
+4759,9,Not Fraud
+6614,14,Fraud
+3674,28,Not Fraud
+4495,7,Fraud
+315,29,Not Fraud
+1988,2,Fraud
+6689,23,Not Fraud
+5251,9,Fraud
+4306,1,Not Fraud
+5417,16,Fraud
+3321,16,Not Fraud
+1729,3,Fraud
+6930,22,Not Fraud
+5170,12,Fraud
+2144,30,Not Fraud
+685,1,Fraud
+6458,21,Not Fraud
+1567,1,Fraud
+2597,28,Not Fraud
+3623,6,Fraud
+2368,4,Not Fraud
+3808,9,Fraud
+2309,27,Not Fraud
+1725,19,Fraud
+3604,27,Not Fraud
+2005,25,Fraud
+4962,6,Not Fraud
+485,21,Fraud
+991,4,Not Fraud
+1709,2,Fraud
+5504,9,Not Fraud
+5946,16,Fraud
+5190,14,Not Fraud
+1351,25,Fraud
+1255,16,Not Fraud
+5107,22,Fraud
+4303,16,Not Fraud
+4162,28,Fraud
+4654,13,Not Fraud
+1467,15,Fraud
+5816,23,Not Fraud
+2664,9,Fraud
+3710,3,Not Fraud
+2352,28,Fraud
+2530,2,Not Fraud
+4342,21,Fraud
+4352,1,Not Fraud
+6907,1,Fraud
+1293,4,Not Fraud
+3825,30,Fraud
+4337,29,Not Fraud
+456,18,Fraud
+3493,12,Not Fraud
+4019,10,Fraud
+611,29,Not Fraud
+4733,26,Fraud
+3122,6,Not Fraud
+1293,2,Fraud
+2501,9,Not Fraud
+5908,10,Fraud
+1315,16,Not Fraud
+692,7,Fraud
+2725,2,Not Fraud
+3431,21,Fraud
+2640,16,Not Fraud
+2137,16,Fraud
+365,13,Not Fraud
+2711,19,Fraud
+4567,30,Not Fraud
+556,15,Fraud
+5310,25,Not Fraud
+4719,20,Fraud
+2529,7,Not Fraud
+2171,8,Fraud
+3126,8,Not Fraud
+516,10,Fraud
+5751,22,Not Fraud
+1622,18,Fraud
+6320,12,Not Fraud
+6276,28,Fraud
+2423,7,Not Fraud
+5883,30,Fraud
+4999,29,Not Fraud
+1792,7,Fraud
+5593,19,Not Fraud
+5377,27,Fraud
+1279,19,Not Fraud
+5708,22,Fraud
+6313,7,Not Fraud
+4128,19,Fraud
+5598,20,Not Fraud
+1661,3,Fraud
+3658,11,Not Fraud
+1134,30,Fraud
+404,16,Not Fraud
+4267,15,Fraud
+2833,19,Not Fraud
+1132,22,Fraud
+1684,26,Not Fraud
+3062,20,Fraud
+6269,25,Not Fraud
+6978,25,Fraud
+1331,14,Not Fraud
+232,17,Fraud
+5857,15,Not Fraud
+5359,17,Fraud
+3572,15,Not Fraud
+2095,4,Fraud
+1007,14,Not Fraud
+5527,3,Fraud
+5144,9,Not Fraud
+625,12,Fraud
+4662,12,Not Fraud
+3960,27,Fraud
+1466,28,Not Fraud
+2116,27,Fraud
+5724,17,Not Fraud
+1350,13,Fraud
+2299,17,Not Fraud
+2560,11,Fraud
+5919,9,Not Fraud
+6110,28,Fraud
+2948,12,Not Fraud
+2350,19,Fraud
+5096,9,Not Fraud
+200,21,Fraud
+2988,18,Not Fraud
+5554,13,Fraud
+3724,11,Not Fraud
+5392,4,Fraud
+4041,15,Not Fraud
+2353,10,Fraud
+3135,13,Not Fraud
+4167,23,Fraud
+1754,7,Not Fraud
+1243,13,Fraud
+2360,27,Not Fraud
+4536,18,Fraud
+5166,23,Not Fraud
+710,17,Fraud
+4963,1,Not Fraud
+5932,21,Fraud
+5637,13,Not Fraud
+273,5,Fraud
+3642,29,Not Fraud
+2438,3,Fraud
+1461,27,Not Fraud
+3748,11,Fraud
+2827,7,Not Fraud
+5554,24,Fraud
+2387,13,Not Fraud
+2174,29,Fraud
+2526,28,Not Fraud
+5784,2,Fraud
+6543,30,Not Fraud
+1385,3,Fraud
+3003,20,Not Fraud
+2513,28,Fraud
+2705,21,Not Fraud
+3930,8,Fraud
+3917,12,Not Fraud
+716,5,Fraud
+1259,14,Not Fraud
+6674,22,Fraud
+4264,10,Not Fraud
+2781,26,Fraud
+5875,30,Not Fraud
+1256,19,Fraud
+5410,4,Not Fraud
+4422,15,Fraud
+1860,16,Not Fraud
+4879,14,Fraud
+3288,30,Not Fraud
+6285,18,Fraud
+2123,21,Not Fraud
+6562,5,Fraud
+1026,14,Not Fraud
+6443,19,Fraud
+457,5,Not Fraud
+4909,21,Fraud
+4837,12,Not Fraud
+6559,25,Fraud
+4971,8,Not Fraud
+4191,17,Fraud
+6774,30,Not Fraud
+4115,24,Fraud
+6571,3,Not Fraud
+5560,23,Fraud
+4997,12,Not Fraud
+305,26,Fraud
+2966,20,Not Fraud
+5734,17,Fraud
+1965,11,Not Fraud
+6544,6,Fraud
+2773,15,Not Fraud
+2978,11,Fraud
+3537,6,Not Fraud
+581,10,Fraud
+4572,6,Not Fraud
+5779,29,Fraud
+2455,25,Not Fraud
+764,8,Fraud
+4628,27,Not Fraud
+5735,21,Fraud
+5897,30,Not Fraud
+3343,27,Fraud
+3779,30,Not Fraud
+3402,22,Fraud
+1779,20,Not Fraud
+6979,3,Fraud
+5586,10,Not Fraud
+5535,1,Fraud
+572,28,Not Fraud
+3008,21,Fraud
+4041,8,Not Fraud
+203,27,Fraud
+327,12,Not Fraud
+1162,17,Fraud
+3178,27,Not Fraud
+4335,20,Fraud
+2025,27,Not Fraud
+6074,29,Fraud
+6806,9,Not Fraud
+5792,17,Fraud
+4423,7,Not Fraud
+339,21,Fraud
+2747,16,Not Fraud
+5035,5,Fraud
+6353,25,Not Fraud
+866,24,Fraud
+2555,15,Not Fraud
+3731,23,Fraud
+4691,6,Not Fraud
+3972,24,Fraud
+4831,26,Not Fraud
+2172,16,Fraud
+3375,24,Not Fraud
+4969,6,Fraud
+1521,2,Not Fraud
+847,4,Fraud
+6604,19,Not Fraud
+2189,12,Fraud
+5727,25,Not Fraud
+6900,24,Fraud
+3633,15,Not Fraud
+4751,2,Fraud
+3936,30,Not Fraud
+3461,24,Fraud
+1754,30,Not Fraud
+6216,20,Fraud
+1150,28,Not Fraud
+4343,27,Fraud
+6529,15,Not Fraud
+2893,2,Fraud
+4941,12,Not Fraud
+2379,17,Fraud
+6309,11,Not Fraud
+4713,21,Fraud
+5957,9,Not Fraud
+3120,8,Fraud
+6194,1,Not Fraud
+2877,13,Fraud
+3160,4,Not Fraud
+4657,11,Fraud
+233,12,Not Fraud
+5179,2,Fraud
+6860,28,Not Fraud
+1537,27,Fraud
+5152,23,Not Fraud
+451,21,Fraud
+4694,17,Not Fraud
+6547,20,Fraud
+2876,28,Not Fraud
+3618,2,Fraud
+5270,18,Not Fraud
+1166,21,Fraud
+6911,2,Not Fraud
+1337,21,Fraud
+6054,13,Not Fraud
+5026,16,Fraud
+4581,24,Not Fraud
+3847,27,Fraud
+5800,29,Not Fraud
+4800,13,Fraud
+5168,12,Not Fraud
+1321,26,Fraud
+1403,29,Not Fraud
+2713,23,Fraud
+4005,29,Not Fraud
+1939,28,Fraud
+396,29,Not Fraud
+6241,16,Fraud
+475,2,Not Fraud
+2115,2,Fraud
+4804,2,Not Fraud
+4284,6,Fraud
+6671,6,Not Fraud
+2444,5,Fraud
+6805,28,Not Fraud
+5239,2,Fraud
+4168,4,Not Fraud
+3840,25,Fraud
+217,8,Not Fraud
+3677,21,Fraud
+2696,29,Not Fraud
+4648,20,Fraud
+2182,4,Not Fraud
+504,26,Fraud
+1575,14,Not Fraud
+1415,29,Fraud
+2745,3,Not Fraud
+4383,3,Fraud
+4109,13,Not Fraud
+3377,22,Fraud
+4603,19,Not Fraud
+2600,11,Fraud
+2546,6,Not Fraud
+2357,24,Fraud
+4201,30,Not Fraud
+4833,13,Fraud
+720,14,Not Fraud
+4093,10,Fraud
+4872,7,Not Fraud
+1957,23,Fraud
+1311,18,Not Fraud
+6461,7,Fraud
+4047,20,Not Fraud
+4022,21,Fraud
+4329,4,Not Fraud
+2638,26,Fraud
+4417,10,Not Fraud
+257,13,Fraud
+4306,6,Not Fraud
+766,22,Fraud
+3785,15,Not Fraud
+2830,30,Fraud
+2009,1,Not Fraud
+2004,20,Fraud
+2154,2,Not Fraud
+6202,8,Fraud
+3985,26,Not Fraud
+2350,19,Fraud
+2051,30,Not Fraud
+304,5,Fraud
+2531,26,Not Fraud
+2426,15,Fraud
+2004,2,Not Fraud
+5346,3,Fraud
+580,27,Not Fraud
+1084,21,Fraud
+1906,2,Not Fraud
+5950,15,Fraud
+6373,20,Not Fraud
+6636,22,Fraud
+2091,9,Not Fraud
+2794,27,Fraud
+2602,14,Not Fraud
+2928,27,Fraud
+1167,4,Not Fraud
+6660,1,Fraud
+5301,28,Not Fraud
+4121,12,Fraud
+1442,16,Not Fraud
+5590,28,Fraud
+6014,5,Not Fraud
+3828,22,Fraud
+4331,4,Not Fraud
+6158,14,Fraud
+3809,24,Not Fraud
+4973,12,Fraud
+5172,6,Not Fraud
+6310,15,Fraud
+2245,22,Not Fraud
+6771,23,Fraud
+6058,28,Not Fraud
+534,17,Fraud
+4547,7,Not Fraud
+4885,4,Fraud
+4491,18,Not Fraud
+242,22,Fraud
+2078,24,Not Fraud
+6039,3,Fraud
+6186,20,Not Fraud
+1526,25,Fraud
+4435,15,Not Fraud
+6041,3,Fraud
+4987,26,Not Fraud
+1979,30,Fraud
+5378,25,Not Fraud
+6555,15,Fraud
+6971,23,Not Fraud
+5197,10,Fraud
+3315,14,Not Fraud
+583,19,Fraud
+2693,3,Not Fraud
+1395,2,Fraud
+539,4,Not Fraud
+5502,15,Fraud
+4223,11,Not Fraud
+6328,17,Fraud
+6328,15,Not Fraud
+6508,19,Fraud
+3181,14,Not Fraud
+3653,14,Fraud
+930,29,Not Fraud
+6881,17,Fraud
+1158,28,Not Fraud
+4289,4,Fraud
+2899,18,Not Fraud
+6580,28,Fraud
+2760,9,Not Fraud
+2153,20,Fraud
+1701,6,Not Fraud
+3141,26,Fraud
+6699,30,Not Fraud
+1171,21,Fraud
+2479,25,Not Fraud
+443,24,Fraud
+6838,8,Not Fraud
+1398,13,Fraud
+3211,26,Not Fraud
+4707,9,Fraud
+5513,20,Not Fraud
+3871,25,Fraud
+2527,24,Not Fraud
+6280,26,Fraud
+769,5,Not Fraud
+5424,1,Fraud
+3579,22,Not Fraud
+1561,27,Fraud
+3706,16,Not Fraud
+1961,5,Fraud
+2489,29,Not Fraud
+1639,17,Fraud
+5699,22,Not Fraud
+1264,4,Fraud
+4009,24,Not Fraud
+6803,13,Fraud
+3821,6,Not Fraud
+2418,15,Fraud
+3947,20,Not Fraud
+3031,16,Fraud
+5233,1,Not Fraud
+5900,12,Fraud
+343,22,Not Fraud
+3547,21,Fraud
+534,30,Not Fraud
+850,4,Fraud
+3662,23,Not Fraud
+2826,5,Fraud
+4508,1,Not Fraud
+1431,23,Fraud
+1739,23,Not Fraud
+811,14,Fraud
+1996,25,Not Fraud
+6536,15,Fraud
+3773,7,Not Fraud
+571,16,Fraud
+5033,22,Not Fraud
+654,17,Fraud
+5737,7,Not Fraud
+1201,27,Fraud
+3615,7,Not Fraud
+4865,28,Fraud
+4838,29,Not Fraud
+1969,3,Fraud
+2744,21,Not Fraud
+4322,20,Fraud
+2160,20,Not Fraud
+2397,21,Fraud
+1402,12,Not Fraud
+5120,12,Fraud
+916,8,Not Fraud
+3102,13,Fraud
+2799,13,Not Fraud
+512,23,Fraud
+6119,15,Not Fraud
+3911,12,Fraud
+6380,6,Not Fraud
+1993,27,Fraud
+4072,18,Not Fraud
+5061,2,Fraud
+6033,6,Not Fraud
+3848,18,Fraud
+2481,24,Not Fraud
+6065,26,Fraud
+4505,23,Not Fraud
+2734,7,Fraud
+235,4,Not Fraud
+2893,3,Fraud
+4098,24,Not Fraud
+1530,5,Fraud
+467,23,Not Fraud
+3918,24,Fraud
+2391,4,Not Fraud
+4745,22,Fraud
+5737,2,Not Fraud
+2054,15,Fraud
+2490,9,Not Fraud
+5738,29,Fraud
+3693,12,Not Fraud
+1130,3,Fraud
+6990,22,Not Fraud
+1447,15,Fraud
+935,14,Not Fraud
+5905,23,Fraud
+3713,28,Not Fraud
+2838,9,Fraud
+4090,16,Not Fraud
+1193,15,Fraud
+4907,5,Not Fraud
+2643,28,Fraud
+5073,18,Not Fraud
+1705,12,Fraud
+614,3,Not Fraud
+5027,23,Fraud
+1667,27,Not Fraud
+668,27,Fraud
+2751,3,Not Fraud
+6104,16,Fraud
+5042,10,Not Fraud
+923,11,Fraud
+3611,12,Not Fraud
+5599,15,Fraud
+3629,23,Not Fraud
+5874,18,Fraud
+798,3,Not Fraud
+4760,11,Fraud
+5875,12,Not Fraud
+6932,10,Fraud
+448,18,Not Fraud
+3832,25,Fraud
+5252,7,Not Fraud
+3951,14,Fraud
+3348,1,Not Fraud
+1764,29,Fraud
+6420,25,Not Fraud
+5457,21,Fraud
+6003,7,Not Fraud
+1589,26,Fraud
+2724,3,Not Fraud
+5076,5,Fraud
+4953,9,Not Fraud
+941,28,Fraud
+6655,27,Not Fraud
+1034,23,Fraud
+5728,8,Not Fraud
+6708,20,Fraud
+4298,28,Not Fraud
+3876,6,Fraud
+4401,29,Not Fraud
+4812,15,Fraud
+415,7,Not Fraud
+3175,18,Fraud
+3551,16,Not Fraud
+2393,9,Fraud
+2513,28,Not Fraud
+1012,5,Fraud
+2131,21,Not Fraud
+6417,26,Fraud
+4951,17,Not Fraud
+3094,24,Fraud
+1392,7,Not Fraud
+4283,23,Fraud
+4077,13,Not Fraud
+3617,12,Fraud
+4458,16,Not Fraud
+247,6,Fraud
+6233,5,Not Fraud
+2039,24,Fraud
+1683,16,Not Fraud
+5027,24,Fraud
+1625,9,Not Fraud
+6750,7,Fraud
+2705,8,Not Fraud
+372,1,Fraud
+528,25,Not Fraud
+4466,20,Fraud
+4036,16,Not Fraud
+947,29,Fraud
+6077,26,Not Fraud
+5686,27,Fraud
+1040,23,Not Fraud
+234,18,Fraud
+283,29,Not Fraud
+379,28,Fraud
+5939,24,Not Fraud
+2958,26,Fraud
+1366,26,Not Fraud
+4825,10,Fraud
+4888,23,Not Fraud
+2830,19,Fraud
+6547,29,Not Fraud
+1679,12,Fraud
+2533,17,Not Fraud
+4699,15,Fraud
+6312,27,Not Fraud
+6984,25,Fraud
+6205,6,Not Fraud
+650,27,Fraud
+5816,12,Not Fraud
+3735,16,Fraud
+5087,4,Not Fraud
+3653,8,Fraud
+3361,27,Not Fraud
+1720,24,Fraud
+1987,9,Not Fraud
+1487,24,Fraud
+5791,14,Not Fraud
+2869,20,Fraud
+955,24,Not Fraud
+5305,26,Fraud
+3514,6,Not Fraud
+4217,21,Fraud
+988,21,Not Fraud
+6800,29,Fraud
+6227,18,Not Fraud
+6634,12,Fraud
+6002,19,Not Fraud
+3592,9,Fraud
+507,19,Not Fraud
+5592,21,Fraud
+1372,11,Not Fraud
+1897,7,Fraud
+2184,5,Not Fraud
+2528,19,Fraud
+4087,28,Not Fraud
+1252,19,Fraud
+405,27,Not Fraud
+6989,9,Fraud
+4141,24,Not Fraud
+549,20,Fraud
+4531,15,Not Fraud
+543,1,Fraud
+429,1,Not Fraud
+6245,12,Fraud
+3216,27,Not Fraud
+6324,29,Fraud
+6526,5,Not Fraud
+2149,7,Fraud
+4753,18,Not Fraud
+5800,3,Fraud
+1129,7,Not Fraud
+314,23,Fraud
+5907,10,Not Fraud
+1962,1,Fraud
+6876,20,Not Fraud
+1749,26,Fraud
+954,15,Not Fraud
+4601,18,Fraud
+6788,18,Not Fraud
+4164,3,Fraud
+5470,9,Not Fraud
+5793,4,Fraud
+1696,9,Not Fraud
+352,20,Fraud
+282,3,Not Fraud
+3111,20,Fraud
+878,19,Not Fraud
+4385,7,Fraud
+5148,3,Not Fraud
+2575,20,Fraud
+1165,27,Not Fraud
+1373,21,Fraud
+4832,14,Not Fraud
+4108,14,Fraud
+4764,24,Not Fraud
+1599,13,Fraud
+5989,13,Not Fraud
+2052,9,Fraud
+1565,10,Not Fraud
+2525,8,Fraud
+1968,10,Not Fraud
+986,17,Fraud
+6169,21,Not Fraud
+6875,8,Fraud
+2844,8,Not Fraud
+6748,1,Fraud
+3588,9,Not Fraud
+808,29,Fraud
+4519,20,Not Fraud
+6810,26,Fraud
+5771,29,Not Fraud
+3044,12,Fraud
+328,15,Not Fraud
+5157,28,Fraud
+719,19,Not Fraud
+4124,8,Fraud
+4391,26,Not Fraud
+3909,27,Fraud
+676,23,Not Fraud
+1796,25,Fraud
+6816,18,Not Fraud
+1012,6,Fraud
+1244,23,Not Fraud
+3480,3,Fraud
+6872,27,Not Fraud
+5243,7,Fraud
+3197,2,Not Fraud
+2832,2,Fraud
+1125,12,Not Fraud
+1651,17,Fraud
+3289,13,Not Fraud
+1946,30,Fraud
+6713,19,Not Fraud
+1570,25,Fraud
+594,4,Not Fraud
+6140,22,Fraud
+3392,8,Not Fraud
+4238,16,Fraud
+4131,23,Not Fraud
+5254,22,Fraud
+449,8,Not Fraud
+3035,29,Fraud
+3263,27,Not Fraud
+1086,21,Fraud
+4730,11,Not Fraud
+6180,29,Fraud
+3455,9,Not Fraud
+5859,20,Fraud
+1353,23,Not Fraud
+829,30,Fraud
+2510,9,Not Fraud
+1128,21,Fraud
+1985,3,Not Fraud
+3622,30,Fraud
+2321,8,Not Fraud
+1254,14,Fraud
+1104,15,Not Fraud
+5942,2,Fraud
+5112,21,Not Fraud
+3164,7,Fraud
+4586,1,Not Fraud
+4638,9,Fraud
+3673,10,Not Fraud
+942,5,Fraud
+1501,1,Not Fraud
+2428,28,Fraud
+6449,29,Not Fraud
+1333,29,Fraud
+3977,9,Not Fraud
+2933,28,Fraud
+3347,25,Not Fraud
+1226,1,Fraud
+3351,15,Not Fraud
+4116,10,Fraud
+3863,28,Not Fraud
+2371,7,Fraud
+6988,3,Not Fraud
+567,10,Fraud
+5800,10,Not Fraud
+1863,13,Fraud
+1786,29,Not Fraud
+5047,4,Fraud
+1189,8,Not Fraud
+4749,2,Fraud
+6246,14,Not Fraud
+5262,5,Fraud
+6594,1,Not Fraud
+4958,16,Fraud
+2380,15,Not Fraud
+5685,29,Fraud
+4483,25,Not Fraud
+6439,6,Fraud
+6993,27,Not Fraud
+279,7,Fraud
+3374,5,Not Fraud
+410,25,Fraud
+5961,11,Not Fraud
+5594,14,Fraud
+5052,7,Not Fraud
+3070,3,Fraud
+5045,1,Not Fraud
+4880,22,Fraud
+3320,8,Not Fraud
+1416,25,Fraud
+5051,25,Not Fraud
+3226,27,Fraud
+5638,28,Not Fraud
+1931,6,Fraud
+4583,27,Not Fraud
+1770,18,Fraud
+3321,2,Not Fraud
+662,30,Fraud
+2546,4,Not Fraud
+2680,30,Fraud
+2691,29,Not Fraud
+4119,11,Fraud
+291,3,Not Fraud
+4403,10,Fraud
+463,11,Not Fraud
+307,17,Fraud
+903,25,Not Fraud
+5924,1,Fraud
+3476,4,Not Fraud
+5638,2,Fraud
+6288,18,Not Fraud
+2846,30,Fraud
+680,3,Not Fraud
+5333,3,Fraud
+3368,13,Not Fraud
+6484,9,Fraud
+953,8,Not Fraud
+2841,21,Fraud
+3387,22,Not Fraud
+6670,15,Fraud
+3410,8,Not Fraud
+6975,26,Fraud
+3177,22,Not Fraud
+4115,5,Fraud
+306,1,Not Fraud
+5860,13,Fraud
+2193,27,Not Fraud
+5350,12,Fraud
+1833,30,Not Fraud
+4403,21,Fraud
+6244,22,Not Fraud
+6101,9,Fraud
+6811,5,Not Fraud
+2187,17,Fraud
+5089,4,Not Fraud
+598,6,Fraud
+2256,27,Not Fraud
+3754,28,Fraud
+5514,8,Not Fraud
+1468,6,Fraud
+2915,18,Not Fraud
+4093,28,Fraud
+811,20,Not Fraud
+5043,21,Fraud
+2954,25,Not Fraud
+2334,1,Fraud
+5539,4,Not Fraud
+2374,4,Fraud
+4397,26,Not Fraud
+5552,27,Fraud
+5698,10,Not Fraud
+2931,18,Fraud
+1441,5,Not Fraud
+630,3,Fraud
+6623,21,Not Fraud
+5730,16,Fraud
+538,10,Not Fraud
+1540,14,Fraud
+3661,5,Not Fraud
+5679,1,Fraud
+1230,2,Not Fraud
+4175,8,Fraud
+6468,22,Not Fraud
+1138,26,Fraud
+6943,18,Not Fraud
+1829,21,Fraud
+965,9,Not Fraud
+2683,19,Fraud
+2317,2,Not Fraud
+2764,9,Fraud
+4834,9,Not Fraud
+988,25,Fraud
+6654,19,Not Fraud
+354,20,Fraud
+4842,8,Not Fraud
+2550,19,Fraud
+3816,5,Not Fraud
+6480,28,Fraud
+1214,30,Not Fraud
+5065,24,Fraud
+6703,29,Not Fraud
+4759,16,Fraud
+1136,12,Not Fraud
+1417,3,Fraud
+943,6,Not Fraud
+820,17,Fraud
+3411,29,Not Fraud
+6466,3,Fraud
+2283,30,Not Fraud
+477,22,Fraud
+4146,13,Not Fraud
+462,28,Fraud
+5329,5,Not Fraud
+5712,29,Fraud
+3670,28,Not Fraud
+5735,10,Fraud
+3051,6,Not Fraud
+2957,18,Fraud
+1582,3,Not Fraud
+6910,24,Fraud
+656,19,Not Fraud
+1813,9,Fraud
+813,23,Not Fraud
+4464,16,Fraud
+2711,6,Not Fraud
+5923,8,Fraud
+3636,30,Not Fraud
+3454,18,Fraud
+6921,14,Not Fraud
+1696,4,Fraud
+3926,11,Not Fraud
+4802,11,Fraud
+4971,3,Not Fraud
+5817,20,Fraud
+2813,4,Not Fraud
+5266,1,Fraud
+3301,27,Not Fraud
+5763,19,Fraud
+4051,9,Not Fraud
+3885,8,Fraud
+4120,26,Not Fraud
+3157,1,Fraud
+6382,28,Not Fraud
+3628,29,Fraud
+4868,20,Not Fraud
+1104,16,Fraud
+5923,13,Not Fraud
+5320,11,Fraud
+3920,8,Not Fraud
+6414,16,Fraud
+6990,25,Not Fraud
+711,18,Fraud
+5783,16,Not Fraud
+5019,30,Fraud
+533,15,Not Fraud
+1369,3,Fraud
+6843,25,Not Fraud
+5506,21,Fraud
+5918,6,Not Fraud
+1786,2,Fraud
+5092,3,Not Fraud
+2632,23,Fraud
+4614,7,Not Fraud
+6785,12,Fraud
+674,5,Not Fraud
+4587,11,Fraud
+1687,11,Not Fraud
+2940,3,Fraud
+5597,26,Not Fraud
+6543,19,Fraud
+300,10,Not Fraud
+2681,20,Fraud
+4671,5,Not Fraud
+3390,23,Fraud
+6498,3,Not Fraud
+973,11,Fraud
+3907,13,Not Fraud
+226,5,Fraud
+999,20,Not Fraud
+4920,18,Fraud
+5144,20,Not Fraud
+1130,2,Fraud
+4291,11,Not Fraud
+4257,4,Fraud
+6851,30,Not Fraud
+5433,19,Fraud
+2135,12,Not Fraud
+4004,18,Fraud
+6390,15,Not Fraud
+2275,4,Fraud
+5884,5,Not Fraud
+774,26,Fraud
+1691,24,Not Fraud
+3552,18,Fraud
+4775,22,Not Fraud
+4215,10,Fraud
+1583,26,Not Fraud
+533,8,Fraud
+5454,18,Not Fraud
+6495,15,Fraud
+2872,20,Not Fraud
+1943,20,Fraud
+4999,4,Not Fraud
+3500,29,Fraud
+3968,10,Not Fraud
+485,4,Fraud
+5162,17,Not Fraud
+4069,11,Fraud
+5005,3,Not Fraud
+5204,20,Fraud
+6858,21,Not Fraud
+3328,25,Fraud
+2509,30,Not Fraud
+1280,23,Fraud
+3551,7,Not Fraud
+3598,21,Fraud
+2868,2,Not Fraud
+4053,4,Fraud
+2420,19,Not Fraud
+589,12,Fraud
+2801,4,Not Fraud
+5302,5,Fraud
+3033,3,Not Fraud
+5645,7,Fraud
+1217,13,Not Fraud
+4094,21,Fraud
+6233,12,Not Fraud
+3088,22,Fraud
+4920,15,Not Fraud
+1599,17,Fraud
+5079,20,Not Fraud
+3041,7,Fraud
+1776,28,Not Fraud
+2692,2,Fraud
+412,28,Not Fraud
+5927,28,Fraud
+4894,21,Not Fraud
+785,3,Fraud
+3605,4,Not Fraud
+3166,18,Fraud
+3924,1,Not Fraud
+3556,5,Fraud
+6788,13,Not Fraud
+3571,13,Fraud
+4708,12,Not Fraud
+6558,11,Fraud
+906,30,Not Fraud
+1210,12,Fraud
+431,13,Not Fraud
+4677,6,Fraud
+2383,24,Not Fraud
+6928,2,Fraud
+6547,18,Not Fraud
+6603,24,Fraud
+5418,22,Not Fraud
+5479,27,Fraud
+2894,26,Not Fraud
+5031,1,Fraud
+1522,5,Not Fraud
+5499,17,Fraud
+6073,23,Not Fraud
+6600,8,Fraud
+4841,28,Not Fraud
+2765,2,Fraud
+2151,21,Not Fraud
+2408,18,Fraud
+3714,14,Not Fraud
+3426,9,Fraud
+6199,16,Not Fraud
+4952,22,Fraud
+3072,17,Not Fraud
+879,29,Fraud
+3027,13,Not Fraud
+4396,13,Fraud
+5946,26,Not Fraud
+2238,5,Fraud
+677,9,Not Fraud
+6105,9,Fraud
+4926,23,Not Fraud
+3764,22,Fraud
+4655,26,Not Fraud
+516,18,Fraud
+789,21,Not Fraud
+5664,17,Fraud
+1992,25,Not Fraud
+5880,8,Fraud
+923,11,Not Fraud
+2617,5,Fraud
+1661,8,Not Fraud
+2369,27,Fraud
+4576,29,Not Fraud
+6121,6,Fraud
+3849,23,Not Fraud
+4609,29,Fraud
+2566,8,Not Fraud
+689,5,Fraud
+6010,29,Not Fraud
+4054,12,Fraud
+6280,11,Not Fraud
+5826,18,Fraud
+3404,10,Not Fraud
+4091,5,Fraud
+1441,27,Not Fraud
+1906,27,Fraud
+5767,21,Not Fraud
+2932,9,Fraud
+6130,28,Not Fraud
+4490,12,Fraud
+2450,1,Not Fraud
+4250,7,Fraud
+6793,12,Not Fraud
+2892,25,Fraud
+5134,13,Not Fraud
+2396,2,Fraud
+4742,19,Not Fraud
+414,7,Fraud
+3774,9,Not Fraud
+3191,13,Fraud
+6299,8,Not Fraud
+2262,7,Fraud
+6283,24,Not Fraud
+5064,24,Fraud
+4379,6,Not Fraud
+4945,29,Fraud
+6628,11,Not Fraud
+362,5,Fraud
+6930,9,Not Fraud
+262,27,Fraud
+5570,22,Not Fraud
+5966,18,Fraud
+5277,26,Not Fraud
+3178,8,Fraud
+2579,14,Not Fraud
+674,6,Fraud
+5543,1,Not Fraud
+2041,4,Fraud
+6569,26,Not Fraud
+2212,9,Fraud
+4578,26,Not Fraud
+1060,1,Fraud
+3042,13,Not Fraud
+1608,13,Fraud
+6446,14,Not Fraud
+3701,12,Fraud
+6799,15,Not Fraud
+1334,5,Fraud
+3713,23,Not Fraud
+6079,26,Fraud
+2090,1,Not Fraud
+1067,20,Fraud
+3853,17,Not Fraud
+6518,5,Fraud
+591,4,Not Fraud
+5728,17,Fraud
+6943,29,Not Fraud
+6897,4,Fraud
+4869,10,Not Fraud
+5608,6,Fraud
+4653,22,Not Fraud
+1959,21,Fraud
+2519,14,Not Fraud
+2416,26,Fraud
+5937,19,Not Fraud
+4699,12,Fraud
+993,11,Not Fraud
+6356,19,Fraud
+6123,3,Not Fraud
+2841,18,Fraud
+5158,5,Not Fraud
+6009,24,Fraud
+4630,24,Not Fraud
+5922,29,Fraud
+6603,10,Not Fraud
+6568,8,Fraud
+1499,29,Not Fraud
+5111,14,Fraud
+6685,11,Not Fraud
+3391,4,Fraud
+2777,25,Not Fraud
+5907,24,Fraud
+2613,4,Not Fraud
+1561,28,Fraud
+5425,2,Not Fraud
+1705,20,Fraud
+4572,3,Not Fraud
+946,14,Fraud
+3055,1,Not Fraud
+4625,1,Fraud
+3986,30,Not Fraud
+3127,7,Fraud
+868,15,Not Fraud
+2461,16,Fraud
+6531,23,Not Fraud
+6403,5,Fraud
+2649,18,Not Fraud
+4147,19,Fraud
+3071,24,Not Fraud
+4936,28,Fraud
+1460,16,Not Fraud
+2062,4,Fraud
+4456,6,Not Fraud
+3903,20,Fraud
+4193,17,Not Fraud
+1319,27,Fraud
+6199,2,Not Fraud
+6629,2,Fraud
+6395,17,Not Fraud
+6603,9,Fraud
+5043,21,Not Fraud
+3766,1,Fraud
+4963,9,Not Fraud
+3903,21,Fraud
+4538,2,Not Fraud
+1229,5,Fraud
+2309,20,Not Fraud
+4185,11,Fraud
+5556,26,Not Fraud
+6858,21,Fraud
+994,2,Not Fraud
+6736,6,Fraud
+3345,25,Not Fraud
+3198,26,Fraud
+909,9,Not Fraud
+6716,13,Fraud
+6488,20,Not Fraud
+4342,23,Fraud
+587,21,Not Fraud
+5802,25,Fraud
+4192,10,Not Fraud
+3855,2,Fraud
+2397,2,Not Fraud
+5530,23,Fraud
+2797,12,Not Fraud
+4900,22,Fraud
+4005,30,Not Fraud
+531,7,Fraud
+4913,10,Not Fraud
+2739,12,Fraud
+735,20,Not Fraud
+6244,16,Fraud
+4788,6,Not Fraud
+2274,2,Fraud
+1602,10,Not Fraud
+5134,30,Fraud
+3705,29,Not Fraud
+6785,27,Fraud
+1133,3,Not Fraud
+3212,9,Fraud
+3750,10,Not Fraud
+2014,27,Fraud
+3735,19,Not Fraud
+6373,14,Fraud
+501,13,Not Fraud
+4070,15,Fraud
+639,7,Not Fraud
+6039,9,Fraud
+6317,8,Not Fraud
+6143,14,Fraud
+1287,3,Not Fraud
+2189,7,Fraud
+2912,25,Not Fraud
+4880,25,Fraud
+3021,8,Not Fraud
+6569,24,Fraud
+5859,18,Not Fraud
+5783,4,Fraud
+3437,4,Not Fraud
+1856,22,Fraud
+6708,16,Not Fraud
+2463,17,Fraud
+2477,14,Not Fraud
+6465,21,Fraud
+1160,6,Not Fraud
+5548,2,Fraud
+3946,10,Not Fraud
+4399,7,Fraud
+3099,30,Not Fraud
+2966,7,Fraud
+2818,30,Not Fraud
+2158,30,Fraud
+2073,12,Not Fraud
+5691,20,Fraud
+3058,25,Not Fraud
+4902,30,Fraud
+3889,5,Not Fraud
+2124,23,Fraud
+517,30,Not Fraud
+1563,28,Fraud
+5654,1,Not Fraud
+1250,1,Fraud
+3116,11,Not Fraud
+3392,6,Fraud
+906,1,Not Fraud
+6413,16,Fraud
+3430,29,Not Fraud
+5051,30,Fraud
+6668,14,Not Fraud
+602,9,Fraud
+6097,14,Not Fraud
+2256,19,Fraud
+6490,28,Not Fraud
+4515,23,Fraud
+3627,14,Not Fraud
+4467,17,Fraud
+2968,3,Not Fraud
+3516,19,Fraud
+276,13,Not Fraud
+6859,26,Fraud
+6165,25,Not Fraud
+1155,7,Fraud
+3760,25,Not Fraud
+3643,18,Fraud
+1288,2,Not Fraud
+6439,16,Fraud
+6178,24,Not Fraud
+459,29,Fraud
+5447,29,Not Fraud
+3450,22,Fraud
+6186,13,Not Fraud
+1812,28,Fraud
+5665,5,Not Fraud
+5868,25,Fraud
+3593,24,Not Fraud
+3072,6,Fraud
+397,21,Not Fraud
+3195,1,Fraud
+5021,11,Not Fraud
+5492,3,Fraud
+3865,10,Not Fraud
+2488,18,Fraud
+2739,25,Not Fraud
+712,13,Fraud
+5403,1,Not Fraud
+2005,6,Fraud
+2011,3,Not Fraud
+6956,4,Fraud
+6170,7,Not Fraud
+5332,17,Fraud
+2560,16,Not Fraud
+5300,23,Fraud
+6500,26,Not Fraud
+6215,11,Fraud
+4307,13,Not Fraud
+2314,18,Fraud
+5013,3,Not Fraud
+4025,4,Fraud
+5429,17,Not Fraud
+689,1,Fraud
+4815,19,Not Fraud
+5059,19,Fraud
+1941,20,Not Fraud
+2950,2,Fraud
+4187,2,Not Fraud
+5989,11,Fraud
+3449,8,Not Fraud
+2356,22,Fraud
+4883,6,Not Fraud
+1266,24,Fraud
+1573,5,Not Fraud
+2396,13,Fraud
+1399,17,Not Fraud
+6841,7,Fraud
+2594,19,Not Fraud
+3137,28,Fraud
+2758,8,Not Fraud
+3703,27,Fraud
+1723,1,Not Fraud
+6434,10,Fraud
+2303,26,Not Fraud
+268,25,Fraud
+3677,15,Not Fraud
+406,16,Fraud
+4468,28,Not Fraud
+5952,29,Fraud
+3912,13,Not Fraud
+5831,14,Fraud
+4612,27,Not Fraud
+639,11,Fraud
+6825,17,Not Fraud
+4625,24,Fraud
+6099,4,Not Fraud
+3048,20,Fraud
+4330,27,Not Fraud
+5225,17,Fraud
+5263,12,Not Fraud
+5505,13,Fraud
+4228,13,Not Fraud
+4540,11,Fraud
+2579,19,Not Fraud
+826,22,Fraud
+1899,17,Not Fraud
+3218,21,Fraud
+6152,1,Not Fraud
+3849,6,Fraud
+1465,14,Not Fraud
+6709,16,Fraud
+5308,18,Not Fraud
+5720,11,Fraud
+964,14,Not Fraud
+1160,3,Fraud
+3718,24,Not Fraud
+424,24,Fraud
+2441,7,Not Fraud
+5574,24,Fraud
+2847,13,Not Fraud
+287,29,Fraud
+2081,13,Not Fraud
+1360,28,Fraud
+1703,14,Not Fraud
+4610,27,Fraud
+6309,18,Not Fraud
+405,10,Fraud
+5288,25,Not Fraud
+1729,23,Fraud
+5141,18,Not Fraud
+3664,7,Fraud
+6814,5,Not Fraud
+2076,8,Fraud
+2250,6,Not Fraud
+5558,23,Fraud
+4012,15,Not Fraud
+4773,4,Fraud
+6607,20,Not Fraud
+4888,21,Fraud
+3062,4,Not Fraud
+6522,27,Fraud
+3974,1,Not Fraud
+4476,25,Fraud
+5438,3,Not Fraud
+1554,22,Fraud
+4915,27,Not Fraud
+2280,18,Fraud
+6025,4,Not Fraud
+4832,28,Fraud
+536,12,Not Fraud
+4611,18,Fraud
+1514,10,Not Fraud
+812,20,Fraud
+2679,7,Not Fraud
+3676,7,Fraud
+6243,11,Not Fraud
+1607,2,Fraud
+4384,14,Not Fraud
+5179,27,Fraud
+6500,26,Not Fraud
+2078,1,Fraud
+4866,10,Not Fraud
+3259,16,Fraud
+5560,8,Not Fraud
+2253,29,Fraud
+6183,4,Not Fraud
+5202,21,Fraud
+2566,5,Not Fraud
+3401,17,Fraud
+6924,17,Not Fraud
+2521,22,Fraud
+5101,30,Not Fraud
+4879,4,Fraud
+732,17,Not Fraud
+3475,1,Fraud
+3145,1,Not Fraud
+3877,14,Fraud
+2777,26,Not Fraud
+986,9,Fraud
+5771,14,Not Fraud
+5736,20,Fraud
+2275,27,Not Fraud
+2612,30,Fraud
+470,29,Not Fraud
+5113,6,Fraud
+310,1,Not Fraud
+382,17,Fraud
+5673,5,Not Fraud
+4932,6,Fraud
+6512,13,Not Fraud
+1730,17,Fraud
+2758,25,Not Fraud
+4080,5,Fraud
+4496,12,Not Fraud
+2141,3,Fraud
+2135,23,Not Fraud
+4967,11,Fraud
+671,26,Not Fraud
+5308,8,Fraud
+2010,26,Not Fraud
+243,25,Fraud
+3399,14,Not Fraud
+5447,7,Fraud
+4078,14,Not Fraud
+1732,6,Fraud
+6618,20,Not Fraud
+4142,20,Fraud
+1338,28,Not Fraud
+6076,22,Fraud
+5864,23,Not Fraud
+5543,19,Fraud
+3455,4,Not Fraud
+3566,3,Fraud
+1989,12,Not Fraud
+4390,24,Fraud
+1407,4,Not Fraud
+6847,6,Fraud
+3662,19,Not Fraud
+4970,27,Fraud
+5986,21,Not Fraud
+6460,14,Fraud
+2555,7,Not Fraud
+463,28,Fraud
+1817,29,Not Fraud
+6675,7,Fraud
+5618,5,Not Fraud
+6833,9,Fraud
+587,5,Not Fraud
+2494,2,Fraud
+3288,17,Not Fraud
+6684,8,Fraud
+6542,15,Not Fraud
+4801,1,Fraud
+4405,21,Not Fraud
+3084,7,Fraud
+3200,18,Not Fraud
+6552,18,Fraud
+356,13,Not Fraud
+1923,29,Fraud
+3331,13,Not Fraud
+3905,25,Fraud
+2386,5,Not Fraud
+5099,21,Fraud
+6857,9,Not Fraud
+3862,1,Fraud
+6886,3,Not Fraud
+6248,26,Fraud
+4415,14,Not Fraud
+955,17,Fraud
+3075,1,Not Fraud
+415,30,Fraud
+458,1,Not Fraud
+1036,11,Fraud
+6031,17,Not Fraud
+4962,7,Fraud
+1313,6,Not Fraud
+1330,13,Fraud
+3084,23,Not Fraud
+901,9,Fraud
+1476,30,Not Fraud
+2988,25,Fraud
+769,5,Not Fraud
+1246,19,Fraud
+4339,16,Not Fraud
+4169,8,Fraud
+5775,24,Not Fraud
+6944,3,Fraud
+4929,28,Not Fraud
+3160,28,Fraud
+520,3,Not Fraud
+4007,24,Fraud
+2913,13,Not Fraud
+896,8,Fraud
+4656,8,Not Fraud
+363,1,Fraud
+4148,21,Not Fraud
+4697,4,Fraud
+3145,30,Not Fraud
+6768,8,Fraud
+3610,8,Not Fraud
+4758,22,Fraud
+4016,21,Not Fraud
+5557,30,Fraud
+5147,28,Not Fraud
+723,18,Fraud
+4496,27,Not Fraud
+942,21,Fraud
+979,29,Not Fraud
+5286,15,Fraud
+1713,12,Not Fraud
+5782,12,Fraud
+5504,4,Not Fraud
+582,30,Fraud
+1102,18,Not Fraud
+5337,6,Fraud
+2807,16,Not Fraud
+5342,21,Fraud
+5660,17,Not Fraud
+2825,21,Fraud
+4040,14,Not Fraud
+4553,11,Fraud
+5204,5,Not Fraud
+2165,26,Fraud
+490,2,Not Fraud
+3955,13,Fraud
+560,26,Not Fraud
+1114,27,Fraud
+1240,22,Not Fraud
+6644,24,Fraud
+5165,9,Not Fraud
+2291,27,Fraud
+3551,10,Not Fraud
+2339,19,Fraud
+2784,6,Not Fraud
+5574,16,Fraud
+1801,11,Not Fraud
+2970,6,Fraud
+5096,3,Not Fraud
+1732,5,Fraud
+5367,15,Not Fraud
+6653,17,Fraud
+3750,4,Not Fraud
+5714,17,Fraud
+1501,13,Not Fraud
+2308,12,Fraud
+989,15,Not Fraud
+6522,2,Fraud
+1415,2,Not Fraud
+6629,23,Fraud
+1006,19,Not Fraud
+4489,28,Fraud
+2392,6,Not Fraud
+4359,20,Fraud
+6341,6,Not Fraud
+5157,20,Fraud
+4720,3,Not Fraud
+3474,24,Fraud
+1873,17,Not Fraud
+637,28,Fraud
+6725,24,Not Fraud
+4514,28,Fraud
+4376,19,Not Fraud
+600,21,Fraud
+6166,27,Not Fraud
+407,6,Fraud
+5465,8,Not Fraud
+3199,11,Fraud
+1223,2,Not Fraud
+3936,15,Fraud
+5939,4,Not Fraud
+3950,3,Fraud
+993,21,Not Fraud
+5947,23,Fraud
+3306,5,Not Fraud
+4105,28,Fraud
+6231,16,Not Fraud
+6265,15,Fraud
+806,15,Not Fraud
+5838,21,Fraud
+5320,28,Not Fraud
+861,25,Fraud
+3252,17,Not Fraud
+5427,28,Fraud
+2686,18,Not Fraud
+5925,9,Fraud
+4511,23,Not Fraud
+3662,5,Fraud
+1442,16,Not Fraud
+6661,10,Fraud
+3846,5,Not Fraud
+6481,23,Fraud
+3937,27,Not Fraud
+6230,28,Fraud
+5023,15,Not Fraud
+2440,14,Fraud
+3445,18,Not Fraud
+3279,20,Fraud
+6923,3,Not Fraud
+3691,6,Fraud
+4989,8,Not Fraud
+1553,30,Fraud
+5166,3,Not Fraud
+4865,18,Fraud
+1072,2,Not Fraud
+3234,10,Fraud
+3823,30,Not Fraud
+2496,2,Fraud
+1827,29,Not Fraud
+4005,2,Fraud
+234,7,Not Fraud
+5774,19,Fraud
+5684,18,Not Fraud
+5388,23,Fraud
+5651,5,Not Fraud
+6357,26,Fraud
+6631,30,Not Fraud
+5736,2,Fraud
+268,27,Not Fraud
+2328,1,Fraud
+3999,14,Not Fraud
+360,28,Fraud
+3938,24,Not Fraud
+6643,11,Fraud
+5657,16,Not Fraud
+4755,21,Fraud
+6062,19,Not Fraud
+1572,24,Fraud
+4458,26,Not Fraud
+5530,22,Fraud
+5136,4,Not Fraud
+3137,20,Fraud
+3702,3,Not Fraud
+754,21,Fraud
+2770,22,Not Fraud
+1109,12,Fraud
+3673,20,Not Fraud
+6540,7,Fraud
+5491,6,Not Fraud
+1382,14,Fraud
+3815,11,Not Fraud
+2812,21,Fraud
+568,26,Not Fraud
+3543,30,Fraud
+1958,17,Not Fraud
+3230,2,Fraud
+2840,27,Not Fraud
+6766,13,Fraud
+3649,12,Not Fraud
+821,30,Fraud
+3269,8,Not Fraud
+6324,13,Fraud
+6799,27,Not Fraud
+338,17,Fraud
+813,9,Not Fraud
+1582,7,Fraud
+6479,12,Not Fraud
+1781,8,Fraud
+3739,28,Not Fraud
+1029,9,Fraud
+2162,2,Not Fraud
+3629,15,Fraud
+4224,20,Not Fraud
+252,3,Fraud
+4690,13,Not Fraud
+4826,2,Fraud
+3698,22,Not Fraud
+4213,9,Fraud
+936,22,Not Fraud
+2419,29,Fraud
+5780,17,Not Fraud
+3830,25,Fraud
+4301,4,Not Fraud
+6016,30,Fraud
+762,18,Not Fraud
+2598,22,Fraud
+6588,23,Not Fraud
+6313,16,Fraud
+5889,5,Not Fraud
+5504,17,Fraud
+5217,6,Not Fraud
+4875,30,Fraud
+5734,14,Not Fraud
+1955,18,Fraud
+834,16,Not Fraud
+2218,1,Fraud
+1554,2,Not Fraud
+6772,11,Fraud
+4362,11,Not Fraud
+2323,29,Fraud
+5982,29,Not Fraud
+4728,18,Fraud
+4101,4,Not Fraud
+3610,13,Fraud
+6533,23,Not Fraud
+3536,27,Fraud
+6544,16,Not Fraud
+905,7,Fraud
+4431,17,Not Fraud
+6740,25,Fraud
+6729,11,Not Fraud
+2844,29,Fraud
+5720,21,Not Fraud
+6653,21,Fraud
+691,2,Not Fraud
+1615,14,Fraud
+2243,24,Not Fraud
+2843,10,Fraud
+4704,29,Not Fraud
+3615,18,Fraud
+6213,30,Not Fraud
+1198,16,Fraud
+1376,16,Not Fraud
+1963,7,Fraud
+5985,30,Not Fraud
+6701,18,Fraud
+4332,7,Not Fraud
+6361,17,Fraud
+5988,25,Not Fraud
+3688,4,Fraud
+1615,13,Not Fraud
+4733,13,Fraud
+6622,1,Not Fraud
+6514,5,Fraud
+5995,22,Not Fraud
+4514,14,Fraud
+339,22,Not Fraud
+3270,9,Fraud
+4337,23,Not Fraud
+514,27,Fraud
+3574,19,Not Fraud
+6835,15,Fraud
+4872,18,Not Fraud
+3586,29,Fraud
+2209,28,Not Fraud
+2384,6,Fraud
+3335,15,Not Fraud
+505,11,Fraud
+4935,2,Not Fraud
+6858,7,Fraud
+2674,29,Not Fraud
+2081,11,Fraud
+1187,26,Not Fraud
+4219,14,Fraud
+2246,23,Not Fraud
+2965,10,Fraud
+4001,11,Not Fraud
+4238,7,Fraud
+1211,1,Not Fraud
+6552,7,Fraud
+1234,3,Not Fraud
+1554,18,Fraud
+345,10,Not Fraud
+3136,12,Fraud
+814,3,Not Fraud
+5610,6,Fraud
+4391,25,Not Fraud
+1932,2,Fraud
+1013,26,Not Fraud
+4736,11,Fraud
+2448,23,Not Fraud
+6331,2,Fraud
+5982,5,Not Fraud
+759,2,Fraud
+1681,1,Not Fraud
+399,9,Fraud
+3609,18,Not Fraud
+5807,15,Fraud
+2492,3,Not Fraud
+5960,6,Fraud
+791,13,Not Fraud
+1262,27,Fraud
+1847,17,Not Fraud
+2600,25,Fraud
+2544,20,Not Fraud
+6194,27,Fraud
+3520,30,Not Fraud
+4997,27,Fraud
+3290,2,Not Fraud
+5705,20,Fraud
+2991,2,Not Fraud
+6757,27,Fraud
+3248,5,Not Fraud
+1536,2,Fraud
+6012,12,Not Fraud
+4390,12,Fraud
+5098,28,Not Fraud
+1413,6,Fraud
+2887,27,Not Fraud
+2272,3,Fraud
+1613,14,Not Fraud
+908,11,Fraud
+603,4,Not Fraud
+433,12,Fraud
+4630,1,Not Fraud
+4487,10,Fraud
+5163,16,Not Fraud
+3151,3,Fraud
+6068,4,Not Fraud
+1300,6,Fraud
+4281,19,Not Fraud
+6769,26,Fraud
+1697,2,Not Fraud
+5371,5,Fraud
+3185,17,Not Fraud
+2372,25,Fraud
+2923,8,Not Fraud
+4216,18,Fraud
+2341,9,Not Fraud
+5385,13,Fraud
+2737,26,Not Fraud
+6988,1,Fraud
+4589,8,Not Fraud
+2820,17,Fraud
+926,16,Not Fraud
+3305,22,Fraud
+1511,3,Not Fraud
+4542,22,Fraud
+1741,30,Not Fraud
+5601,14,Fraud
+4965,12,Not Fraud
+1673,1,Fraud
+963,26,Not Fraud
+735,22,Fraud
+6101,10,Not Fraud
+2475,8,Fraud
+1223,20,Not Fraud
+6671,2,Fraud
+6779,8,Not Fraud
+3508,19,Fraud
+6932,18,Not Fraud
+205,6,Fraud
+1719,26,Not Fraud
+6797,28,Fraud
+5741,8,Not Fraud
+1524,3,Fraud
+1560,23,Not Fraud
+274,28,Fraud
+2263,21,Not Fraud
+2975,14,Fraud
+1377,3,Not Fraud
+2039,14,Fraud
+343,10,Not Fraud
+321,3,Fraud
+1917,28,Not Fraud
+3932,21,Fraud
+2430,10,Not Fraud
+5009,13,Fraud
+1729,27,Not Fraud
+5505,3,Fraud
+5938,2,Not Fraud
+3453,21,Fraud
+312,24,Not Fraud
+1704,21,Fraud
+4694,13,Not Fraud
+1679,28,Fraud
+1380,13,Not Fraud
+2259,13,Fraud
+6269,26,Not Fraud
+6327,7,Fraud
+379,2,Not Fraud
+6440,3,Fraud
+5353,10,Not Fraud
+6724,2,Fraud
+2998,13,Not Fraud
+314,28,Fraud
+4833,9,Not Fraud
+1420,11,Fraud
+3107,25,Not Fraud
+303,25,Fraud
+3557,3,Not Fraud
+1197,4,Fraud
+6602,11,Not Fraud
+4171,24,Fraud
+3587,3,Not Fraud
+3467,1,Fraud
+5246,5,Not Fraud
+4314,8,Fraud
+3231,30,Not Fraud
+6126,18,Fraud
+5456,13,Not Fraud
+986,6,Fraud
+6437,13,Not Fraud
+5819,21,Fraud
+4443,4,Not Fraud
+4253,7,Fraud
+5745,3,Not Fraud
+3486,12,Fraud
+1533,10,Not Fraud
+3975,16,Fraud
+2283,15,Not Fraud
+4544,2,Fraud
+558,12,Not Fraud
+5849,29,Fraud
+6305,3,Not Fraud
+4026,19,Fraud
+4229,10,Not Fraud
+5714,26,Fraud
+4185,29,Not Fraud
+5200,21,Fraud
+6862,2,Not Fraud
+6864,16,Fraud
+5761,29,Not Fraud
+6216,11,Fraud
+4328,15,Not Fraud
+6775,29,Fraud
+564,13,Not Fraud
+4293,28,Fraud
+4982,13,Not Fraud
+2268,3,Fraud
+2681,23,Not Fraud
+1999,24,Fraud
+5426,24,Not Fraud
+1064,3,Fraud
+988,28,Not Fraud
+1053,28,Fraud
+6787,9,Not Fraud
+5551,3,Fraud
+5654,11,Not Fraud
+4709,29,Fraud
+2281,16,Not Fraud
+3443,18,Fraud
+5770,21,Not Fraud
+6432,18,Fraud
+6079,17,Not Fraud
+5344,5,Fraud
+926,12,Not Fraud
+3929,28,Fraud
+726,1,Not Fraud
+6756,17,Fraud
+2542,6,Not Fraud
+461,29,Fraud
+3192,10,Not Fraud
+6272,30,Fraud
+2816,8,Not Fraud
+4535,30,Fraud
+4382,15,Not Fraud
+5318,29,Fraud
+3800,12,Not Fraud
+1899,26,Fraud
+224,9,Not Fraud
+6169,15,Fraud
+5869,4,Not Fraud
+2525,15,Fraud
+5887,22,Not Fraud
+2300,8,Fraud
+4542,8,Not Fraud
+6366,13,Fraud
+3205,11,Not Fraud
+5682,27,Fraud
+3951,12,Not Fraud
+3443,30,Fraud
+1966,11,Not Fraud
+5693,26,Fraud
+3586,27,Not Fraud
+6416,20,Fraud
+2781,5,Not Fraud
+2954,30,Fraud
+5005,17,Not Fraud
+2600,27,Fraud
+393,1,Not Fraud
+1514,26,Fraud
+6517,30,Not Fraud
+4167,29,Fraud
+3038,24,Not Fraud
+1725,16,Fraud
+2783,19,Not Fraud
+6062,25,Fraud
+1742,5,Not Fraud
+845,15,Fraud
+3457,9,Not Fraud
+6048,12,Fraud
+655,28,Not Fraud
+2093,5,Fraud
+3303,26,Not Fraud
+6752,19,Fraud
+1049,16,Not Fraud
+3204,9,Fraud
+3955,21,Not Fraud
+292,11,Fraud
+4854,15,Not Fraud
+4527,10,Fraud
+1463,29,Not Fraud
+5458,14,Fraud
+4634,9,Not Fraud
+5889,3,Fraud
+6400,5,Not Fraud
+1806,30,Fraud
+2137,17,Not Fraud
+5535,19,Fraud
+4246,14,Not Fraud
+3913,9,Fraud
+1376,4,Not Fraud
+4318,28,Fraud
+1356,30,Not Fraud
+452,13,Fraud
+3681,26,Not Fraud
+2751,22,Fraud
+4564,2,Not Fraud
+2398,29,Fraud
+776,9,Not Fraud
+5580,9,Fraud
+1090,11,Not Fraud
+772,8,Fraud
+6348,18,Not Fraud
+2870,20,Fraud
+1628,15,Not Fraud
+5351,19,Fraud
+5002,19,Not Fraud
+989,10,Fraud
+5795,3,Not Fraud
+4215,1,Fraud
+232,13,Not Fraud
+6270,26,Fraud
+5683,30,Not Fraud
+3828,8,Fraud
+5624,10,Not Fraud
+1202,3,Fraud
+5690,14,Not Fraud
+5560,8,Fraud
+258,22,Not Fraud
+266,12,Fraud
+2299,28,Not Fraud
+466,5,Fraud
+6007,29,Not Fraud
+981,4,Fraud
+4851,26,Not Fraud
+3782,10,Fraud
+1205,6,Not Fraud
+532,3,Fraud
+558,11,Not Fraud
+1555,8,Fraud
+977,9,Not Fraud
+317,20,Fraud
+2500,1,Not Fraud
+790,12,Fraud
+1590,17,Not Fraud
+2952,23,Fraud
+5460,14,Not Fraud
+2657,15,Fraud
+789,26,Not Fraud
+3618,12,Fraud
+4662,25,Not Fraud
+1386,10,Fraud
+6198,6,Not Fraud
+3812,12,Fraud
+6508,15,Not Fraud
+1877,16,Fraud
+5435,1,Not Fraud
+6644,22,Fraud
+1089,16,Not Fraud
+915,5,Fraud
+2696,1,Not Fraud
+5813,9,Fraud
+1957,5,Not Fraud
+2656,3,Fraud
+4054,25,Not Fraud
+4165,4,Fraud
+2821,9,Not Fraud
+2877,7,Fraud
+6296,6,Not Fraud
+5407,27,Fraud
+259,23,Not Fraud
+1257,14,Fraud
+6505,26,Not Fraud
+1920,1,Fraud
+4750,11,Not Fraud
+1367,5,Fraud
+6255,8,Not Fraud
+1131,26,Fraud
+3327,14,Not Fraud
+5943,4,Fraud
+6218,25,Not Fraud
+5530,4,Fraud
+5852,21,Not Fraud
+3942,17,Fraud
+2316,23,Not Fraud
+4113,18,Fraud
+2280,17,Not Fraud
+3446,4,Fraud
+454,25,Not Fraud
+2035,6,Fraud
+449,11,Not Fraud
+5709,10,Fraud
+5979,9,Not Fraud
+2779,13,Fraud
+5282,26,Not Fraud
+2570,22,Fraud
+5396,15,Not Fraud
+2198,2,Fraud
+2476,13,Not Fraud
+743,17,Fraud
+4937,20,Not Fraud
+1455,4,Fraud
+6804,2,Not Fraud
+578,12,Fraud
+1523,1,Not Fraud
+1871,20,Fraud
+2582,8,Not Fraud
+3716,29,Fraud
+2069,3,Not Fraud
+5344,14,Fraud
+3468,26,Not Fraud
+5661,7,Fraud
+425,10,Not Fraud
+1701,6,Fraud
+3582,25,Not Fraud
+3012,21,Fraud
+6434,19,Not Fraud
+1774,29,Fraud
+6023,12,Not Fraud
+3905,1,Fraud
+3901,11,Not Fraud
+3246,5,Fraud
+5810,16,Not Fraud
+1222,14,Fraud
+5294,25,Not Fraud
+3645,2,Fraud
+4808,7,Not Fraud
+1312,28,Fraud
+2374,23,Not Fraud
+5094,22,Fraud
+5040,6,Not Fraud
+4019,16,Fraud
+1999,23,Not Fraud
+5946,7,Fraud
+3420,16,Not Fraud
+693,29,Fraud
+1840,16,Not Fraud
+3309,9,Fraud
+6029,10,Not Fraud
+2675,11,Fraud
+4986,17,Not Fraud
+507,11,Fraud
+1514,10,Not Fraud
+1092,14,Fraud
+4225,19,Not Fraud
+2658,3,Fraud
+265,4,Not Fraud
+6669,18,Fraud
+4069,19,Not Fraud
+5434,22,Fraud
+5677,4,Not Fraud
+4654,25,Fraud
+5870,30,Not Fraud
+5844,3,Fraud
+4227,19,Not Fraud
+1273,30,Fraud
+2646,14,Not Fraud
+204,25,Fraud
+4163,3,Not Fraud
+5446,3,Fraud
+3289,24,Not Fraud
+2755,29,Fraud
+6385,2,Not Fraud
+977,5,Fraud
+5078,6,Not Fraud
+5953,9,Fraud
+4325,4,Not Fraud
+670,17,Fraud
+3471,25,Not Fraud
+1445,11,Fraud
+5824,10,Not Fraud
+3097,7,Fraud
+6565,21,Not Fraud
+233,27,Fraud
+650,11,Not Fraud
+1093,6,Fraud
+1894,24,Not Fraud
+4433,5,Fraud
+1663,10,Not Fraud
+4121,9,Fraud
+2273,30,Not Fraud
+5014,11,Fraud
+6187,10,Not Fraud
+4046,8,Fraud
+2513,27,Not Fraud
+3665,24,Fraud
+2376,1,Not Fraud
+907,30,Fraud
+5066,16,Not Fraud
+3945,20,Fraud
+3799,2,Not Fraud
+6457,20,Fraud
+4912,28,Not Fraud
+4867,3,Fraud
+3137,29,Not Fraud
+2065,26,Fraud
+5530,9,Not Fraud
+919,29,Fraud
+333,13,Not Fraud
+5482,20,Fraud
+2927,5,Not Fraud
+2092,8,Fraud
+811,12,Not Fraud
+6863,16,Fraud
+1658,9,Not Fraud
+3220,17,Fraud
+3864,23,Not Fraud
+5942,13,Fraud
+4878,7,Not Fraud
+2075,21,Fraud
+3333,21,Not Fraud
+3341,1,Fraud
+2195,18,Not Fraud
+6201,15,Fraud
+4801,29,Not Fraud
+4952,19,Fraud
+6785,14,Not Fraud
+1502,3,Fraud
+2231,22,Not Fraud
+1817,4,Fraud
+4606,7,Not Fraud
+3097,16,Fraud
+2098,18,Not Fraud
+3890,12,Fraud
+2814,9,Not Fraud
+886,27,Fraud
+3801,23,Not Fraud
+814,29,Fraud
+5188,23,Not Fraud
+3433,23,Fraud
+2362,14,Not Fraud
+765,11,Fraud
+1891,23,Not Fraud
+5710,14,Fraud
+4309,17,Not Fraud
+1784,14,Fraud
+6289,28,Not Fraud
+1967,5,Fraud
+4536,13,Not Fraud
+577,8,Fraud
+4825,27,Not Fraud
+1273,16,Fraud
+493,5,Not Fraud
+4048,14,Fraud
+6520,9,Not Fraud
+2796,30,Fraud
+4207,20,Not Fraud
+5782,25,Fraud
+573,14,Not Fraud
+6993,30,Fraud
+4526,17,Not Fraud
+4854,23,Fraud
+6453,22,Not Fraud
+1236,22,Fraud
+3808,21,Not Fraud
+1012,14,Fraud
+942,22,Not Fraud
+5998,16,Fraud
+601,12,Not Fraud
+4139,22,Fraud
+6310,16,Not Fraud
+3547,29,Fraud
+3620,4,Not Fraud
+3999,1,Fraud
+5581,5,Not Fraud
+3925,29,Fraud
+222,17,Not Fraud
+3173,19,Fraud
+284,4,Not Fraud
+4845,29,Fraud
+1905,30,Not Fraud
+3309,12,Fraud
+6375,18,Not Fraud
+3751,19,Fraud
+2824,19,Not Fraud
+2679,9,Fraud
+5675,8,Not Fraud
+6190,6,Fraud
+3504,5,Not Fraud
+5905,10,Fraud
+2681,26,Not Fraud
+1726,16,Fraud
+2433,3,Not Fraud
+1608,11,Fraud
+5852,16,Not Fraud
+6535,9,Fraud
+2868,26,Not Fraud
+2284,25,Fraud
+4765,7,Not Fraud
+2755,21,Fraud
+6056,16,Not Fraud
+3024,5,Fraud
+501,5,Not Fraud
+3581,26,Fraud
+2140,19,Not Fraud
+2758,4,Fraud
+1931,16,Not Fraud
+4389,1,Fraud
+5675,19,Not Fraud
+4819,20,Fraud
+6782,19,Not Fraud
+5038,23,Fraud
+5856,5,Not Fraud
+1059,2,Fraud
+2529,14,Not Fraud
+6650,5,Fraud
+542,8,Not Fraud
+2222,29,Fraud
+808,3,Not Fraud
+386,8,Fraud
+929,8,Not Fraud
+5601,5,Fraud
+1439,28,Not Fraud
+6832,1,Fraud
+500,8,Not Fraud
+476,1,Fraud
+2655,26,Not Fraud
+4938,28,Fraud
+1298,29,Not Fraud
+1547,26,Fraud
+1526,18,Not Fraud
+4394,7,Fraud
+1975,6,Not Fraud
+3874,12,Fraud
+3765,27,Not Fraud
+5779,1,Fraud
+5113,8,Not Fraud
+875,26,Fraud
+1193,11,Not Fraud
+4614,21,Fraud
+1151,7,Not Fraud
+4834,17,Fraud
+5094,24,Not Fraud
+5561,17,Fraud
+2265,3,Not Fraud
+4928,20,Fraud
+1903,3,Not Fraud
+3176,18,Fraud
+5463,24,Not Fraud
+4431,5,Fraud
+5552,29,Not Fraud
+2907,25,Fraud
+6748,9,Not Fraud
+5109,21,Fraud
+6851,11,Not Fraud
+2309,5,Fraud
+2137,17,Not Fraud
+4086,25,Fraud
+1755,26,Not Fraud
+6804,16,Fraud
+3006,27,Not Fraud
+3887,19,Fraud
+1188,14,Not Fraud
+3383,30,Fraud
+1120,4,Not Fraud
+6646,23,Fraud
+6259,30,Not Fraud
+2486,1,Fraud
+2136,23,Not Fraud
+6934,12,Fraud
+458,8,Not Fraud
+1309,14,Fraud
+1560,18,Not Fraud
+2028,21,Fraud
+4117,8,Not Fraud
+4706,21,Fraud
+2864,9,Not Fraud
+6714,23,Fraud
+3561,22,Not Fraud
+6265,28,Fraud
+3967,22,Not Fraud
+3286,13,Fraud
+3309,9,Not Fraud
+6820,21,Fraud
+5132,19,Not Fraud
+4355,20,Fraud
+6990,16,Not Fraud
+2804,3,Fraud
+4242,14,Not Fraud
+5467,11,Fraud
+4537,21,Not Fraud
+4315,5,Fraud
+655,20,Not Fraud
+264,6,Fraud
+5259,21,Not Fraud
+5866,27,Fraud
+2717,24,Not Fraud
+5807,1,Fraud
+2120,14,Not Fraud
+1507,3,Fraud
+3404,5,Not Fraud
+5767,3,Fraud
+335,3,Not Fraud
+1160,4,Fraud
+4843,21,Not Fraud
+6582,2,Fraud
+1222,10,Not Fraud
+3335,30,Fraud
+5841,5,Not Fraud
+965,7,Fraud
+583,15,Not Fraud
+3645,22,Fraud
+5950,15,Not Fraud
+4944,4,Fraud
+6536,28,Not Fraud
+2397,10,Fraud
+1268,25,Not Fraud
+1101,29,Fraud
+1613,2,Not Fraud
+3659,23,Fraud
+3195,11,Not Fraud
+3173,2,Fraud
+4024,16,Not Fraud
+205,24,Fraud
+1778,9,Not Fraud
+5497,19,Fraud
+435,28,Not Fraud
+4833,15,Fraud
+1537,20,Not Fraud
+2944,3,Fraud
+3817,8,Not Fraud
+1770,10,Fraud
+6439,29,Not Fraud
+2180,17,Fraud
+4022,1,Not Fraud
+5365,28,Fraud
+1199,6,Not Fraud
+3566,20,Fraud
+5862,9,Not Fraud
+4508,3,Fraud
+3643,11,Not Fraud
+583,5,Fraud
+1554,16,Not Fraud
+3952,23,Fraud
+5063,11,Not Fraud
+3446,1,Fraud
+3256,8,Not Fraud
+5513,21,Fraud
+6990,8,Not Fraud
+1565,27,Fraud
+6497,30,Not Fraud
+2106,19,Fraud
+2673,25,Not Fraud
+1580,26,Fraud
+857,7,Not Fraud
+2875,27,Fraud
+2236,7,Not Fraud
+6120,19,Fraud
+2608,4,Not Fraud
+1281,7,Fraud
+849,22,Not Fraud
+1989,26,Fraud
+4235,23,Not Fraud
+3415,16,Fraud
+2106,6,Not Fraud
+6929,22,Fraud
+808,9,Not Fraud
+443,20,Fraud
+4313,21,Not Fraud
+6872,1,Fraud
+1443,20,Not Fraud
+1605,19,Fraud
+6049,21,Not Fraud
+4749,13,Fraud
+927,21,Not Fraud
+4296,10,Fraud
+6177,18,Not Fraud
+1847,16,Fraud
+900,23,Not Fraud
+1102,3,Fraud
+3249,22,Not Fraud
+2999,10,Fraud
+6372,21,Not Fraud
+4456,3,Fraud
+6013,20,Not Fraud
+1637,19,Fraud
+2098,22,Not Fraud
+6875,15,Fraud
+1279,29,Not Fraud
+1244,3,Fraud
+5928,4,Not Fraud
+5032,8,Fraud
+3946,21,Not Fraud
+1153,4,Fraud
+1738,7,Not Fraud
+2945,20,Fraud
+2855,24,Not Fraud
+1322,5,Fraud
+1792,16,Not Fraud
+5838,13,Fraud
+2135,2,Not Fraud
+2904,25,Fraud
+2113,29,Not Fraud
+4836,13,Fraud
+3197,20,Not Fraud
+3057,4,Fraud
+1350,17,Not Fraud
+2231,29,Fraud
+1654,15,Not Fraud
+4285,20,Fraud
+6388,30,Not Fraud
+6430,14,Fraud
+3295,25,Not Fraud
+6702,16,Fraud
+2239,9,Not Fraud
+3688,9,Fraud
+6865,8,Not Fraud
+2976,17,Fraud
+6617,21,Not Fraud
+1124,14,Fraud
+2450,2,Not Fraud
+6671,29,Fraud
+4337,23,Not Fraud
+2980,23,Fraud
+4395,27,Not Fraud
+4959,8,Fraud
+6528,28,Not Fraud
+2364,8,Fraud
+3105,23,Not Fraud
+2066,24,Fraud
+4562,17,Not Fraud
+3549,21,Fraud
+5616,10,Not Fraud
+2335,13,Fraud
+5834,29,Not Fraud
+6163,12,Fraud
+2065,21,Not Fraud
+2345,21,Fraud
+1411,22,Not Fraud
+2026,3,Fraud
+5247,5,Not Fraud
+1120,20,Fraud
+6870,13,Not Fraud
+5709,13,Fraud
+6825,15,Not Fraud
+6907,18,Fraud
+5961,19,Not Fraud
+2209,17,Fraud
+5982,16,Not Fraud
+2529,7,Fraud
+3163,19,Not Fraud
+2734,22,Fraud
+1943,24,Not Fraud
+2429,28,Fraud
+6135,10,Not Fraud
+5662,30,Fraud
+4667,10,Not Fraud
+3311,24,Fraud
+5994,12,Not Fraud
+5728,14,Fraud
+3109,19,Not Fraud
+5699,18,Fraud
+5919,19,Not Fraud
+826,12,Fraud
+3041,9,Not Fraud
+1518,24,Fraud
+3108,24,Not Fraud
+5974,3,Fraud
+4628,16,Not Fraud
+6776,21,Fraud
+344,27,Not Fraud
+5875,10,Fraud
+3449,12,Not Fraud
+5543,20,Fraud
+2055,1,Not Fraud
+3583,21,Fraud
+3774,20,Not Fraud
+6755,15,Fraud
+4919,17,Not Fraud
+2279,29,Fraud
+2967,28,Not Fraud
+3292,24,Fraud
+4149,7,Not Fraud
+4951,13,Fraud
+5472,16,Not Fraud
+4129,6,Fraud
+1517,15,Not Fraud
+6559,18,Fraud
+3506,25,Not Fraud
+4105,23,Fraud
+3064,24,Not Fraud
+3513,5,Fraud
+5945,2,Not Fraud
+4272,20,Fraud
+6516,11,Not Fraud
+512,8,Fraud
+3234,21,Not Fraud
+1424,21,Fraud
+6050,14,Not Fraud
+3013,1,Fraud
+493,14,Not Fraud
+4725,27,Fraud
+1683,8,Not Fraud
+5681,3,Fraud
+3880,21,Not Fraud
+2595,14,Fraud
+2913,7,Not Fraud
+3508,30,Fraud
+4260,12,Not Fraud
+3549,14,Fraud
+1987,4,Not Fraud
+6416,17,Fraud
+2426,9,Not Fraud
+6915,7,Fraud
+5858,1,Not Fraud
+3154,7,Fraud
+6841,22,Not Fraud
+1849,20,Fraud
+5766,21,Not Fraud
+1228,25,Fraud
+5286,9,Not Fraud
+767,3,Fraud
+587,10,Not Fraud
+4064,1,Fraud
+2425,13,Not Fraud
+6168,20,Fraud
+6858,28,Not Fraud
+3033,10,Fraud
+4275,3,Not Fraud
+1893,4,Fraud
+1100,7,Not Fraud
+540,28,Fraud
+5074,21,Not Fraud
+2018,21,Fraud
+5941,3,Not Fraud
+2475,26,Fraud
+1784,11,Not Fraud
+2323,2,Fraud
+4701,2,Not Fraud
+6469,29,Fraud
+6845,7,Not Fraud
+6914,16,Fraud
+2828,24,Not Fraud
+5707,11,Fraud
+1516,7,Not Fraud
+5152,6,Fraud
+2062,17,Not Fraud
+6015,10,Fraud
+3826,13,Not Fraud
+3090,21,Fraud
+4803,24,Not Fraud
+4417,29,Fraud
+5315,10,Not Fraud
+4390,14,Fraud
+3595,29,Not Fraud
+4213,12,Fraud
+958,14,Not Fraud
+5928,22,Fraud
+2818,1,Not Fraud
+6298,1,Fraud
+2000,12,Not Fraud
+1454,26,Fraud
+6777,3,Not Fraud
+340,2,Fraud
+6641,17,Not Fraud
+6360,28,Fraud
+3860,15,Not Fraud
+2906,17,Fraud
+3905,22,Not Fraud
+2955,24,Fraud
+5661,28,Not Fraud
+6119,5,Fraud
+1175,4,Not Fraud
+786,24,Fraud
+1940,8,Not Fraud
+4821,6,Fraud
+3985,17,Not Fraud
+4608,27,Fraud
+1770,11,Not Fraud
+4209,13,Fraud
+4573,28,Not Fraud
+3386,24,Fraud
+1064,17,Not Fraud
+2684,9,Fraud
+2592,28,Not Fraud
+1517,13,Fraud
+6793,7,Not Fraud
+407,18,Fraud
+1106,10,Not Fraud
+909,12,Fraud
+2314,17,Not Fraud
+2851,17,Fraud
+6772,23,Not Fraud
+1768,18,Fraud
+2833,18,Not Fraud
+6818,28,Fraud
+1807,17,Not Fraud
+6326,9,Fraud
+4287,30,Not Fraud
+3431,7,Fraud
+4912,17,Not Fraud
+1572,21,Fraud
+6750,16,Not Fraud
+4864,21,Fraud
+1357,20,Not Fraud
+3391,29,Fraud
+6644,10,Not Fraud
+6912,19,Fraud
+2857,3,Not Fraud
+2614,9,Fraud
+6452,14,Not Fraud
+6566,28,Fraud
+1580,6,Not Fraud
+6610,14,Fraud
+1270,19,Not Fraud
+6457,29,Fraud
+6048,25,Not Fraud
+1665,11,Fraud
+5128,4,Not Fraud
+4360,27,Fraud
+5436,25,Not Fraud
+3582,26,Fraud
+6565,26,Not Fraud
+2007,28,Fraud
+269,1,Not Fraud
+2805,12,Fraud
+2522,15,Not Fraud
+4026,20,Fraud
+1051,8,Not Fraud
+6459,6,Fraud
+814,24,Not Fraud
+5270,18,Fraud
+1680,2,Not Fraud
+384,9,Fraud
+5698,2,Not Fraud
+2583,1,Fraud
+809,23,Not Fraud
+3693,30,Fraud
+4480,1,Not Fraud
+6238,16,Fraud
+3067,10,Not Fraud
+534,18,Fraud
+5437,1,Not Fraud
+3456,9,Fraud
+4515,28,Not Fraud
+1547,3,Fraud
+5741,4,Not Fraud
+2440,3,Fraud
+5788,3,Not Fraud
+6788,20,Fraud
+2794,11,Not Fraud
+6597,12,Fraud
+5241,12,Not Fraud
+3210,28,Fraud
+606,24,Not Fraud
+2073,4,Fraud
+3657,5,Not Fraud
+6281,19,Fraud
+855,19,Not Fraud
+1890,8,Fraud
+2797,19,Not Fraud
+3565,17,Fraud
+5274,19,Not Fraud
+783,8,Fraud
+4637,25,Not Fraud
+2389,18,Fraud
+4265,16,Not Fraud
+3036,24,Fraud
+460,30,Not Fraud
+677,18,Fraud
+3229,1,Not Fraud
+4935,26,Fraud
+1982,16,Not Fraud
+5564,23,Fraud
+408,4,Not Fraud
+2305,6,Fraud
+4649,1,Not Fraud
+1874,30,Fraud
+4575,13,Not Fraud
+3107,9,Fraud
+293,22,Not Fraud
+5286,24,Fraud
+6794,29,Not Fraud
+1596,30,Fraud
+780,3,Not Fraud
+3130,12,Fraud
+991,22,Not Fraud
+756,24,Fraud
+2904,9,Not Fraud
+872,8,Fraud
+5832,24,Not Fraud
+4476,26,Fraud
+3009,12,Not Fraud
+1551,23,Fraud
+2732,26,Not Fraud
+6330,18,Fraud
+4935,4,Not Fraud
+4199,30,Fraud
+5721,28,Not Fraud
+1626,17,Fraud
+1367,9,Not Fraud
+3279,1,Fraud
+4467,29,Not Fraud
+5832,7,Fraud
+2012,14,Not Fraud
+6466,25,Fraud
+3424,11,Not Fraud
+3345,10,Fraud
+1113,15,Not Fraud
+2771,12,Fraud
+536,10,Not Fraud
+3989,18,Fraud
+6427,30,Not Fraud
+5212,1,Fraud
+2195,27,Not Fraud
+1905,4,Fraud
+3913,13,Not Fraud
+3798,24,Fraud
+2618,22,Not Fraud
+5459,7,Fraud
+5049,19,Not Fraud
+3117,14,Fraud
+5558,26,Not Fraud
+4363,26,Fraud
+1131,28,Not Fraud
+3736,12,Fraud
+5595,22,Not Fraud
+1348,6,Fraud
+4445,27,Not Fraud
+5238,24,Fraud
+4181,26,Not Fraud
+3367,11,Fraud
+5093,5,Not Fraud
+2422,17,Fraud
+6320,6,Not Fraud
+3391,18,Fraud
+6004,14,Not Fraud
+433,14,Fraud
+377,2,Not Fraud
+2777,26,Fraud
+5116,5,Not Fraud
+6984,12,Fraud
+5860,5,Not Fraud
+3590,17,Fraud
+792,29,Not Fraud
+5091,14,Fraud
+2340,3,Not Fraud
+1851,22,Fraud
+5927,27,Not Fraud
+1260,3,Fraud
+3973,28,Not Fraud
+6551,2,Fraud
+325,20,Not Fraud
+6488,11,Fraud
+1182,23,Not Fraud
+1507,1,Fraud
+5477,8,Not Fraud
+4305,1,Fraud
+4591,22,Not Fraud
+3515,15,Fraud
+6670,15,Not Fraud
+5997,4,Fraud
+6084,16,Not Fraud
+3435,29,Fraud
+3968,2,Not Fraud
+4182,1,Fraud
+1882,16,Not Fraud
+2450,5,Fraud
+4106,29,Not Fraud
+1597,22,Fraud
+6888,8,Not Fraud
+6653,25,Fraud
+1824,29,Not Fraud
+1057,4,Fraud
+1198,30,Not Fraud
+2183,7,Fraud
+5038,6,Not Fraud
+5164,21,Fraud
+2818,12,Not Fraud
+5597,7,Fraud
+274,7,Not Fraud
+6980,14,Fraud
+4424,3,Not Fraud
+6350,11,Fraud
+1428,21,Not Fraud
+1915,12,Fraud
+269,29,Not Fraud
+1391,27,Fraud
+1315,16,Not Fraud
+6800,29,Fraud
+888,26,Not Fraud
+2145,20,Fraud
+3414,1,Not Fraud
+349,24,Fraud
+3393,11,Not Fraud
+2776,1,Fraud
+1102,4,Not Fraud
+3630,22,Fraud
+6365,16,Not Fraud
+729,16,Fraud
+2394,16,Not Fraud
+650,13,Fraud
+6680,28,Not Fraud
+3123,1,Fraud
+517,16,Not Fraud
+397,15,Fraud
+1650,8,Not Fraud
+5794,24,Fraud
+3591,9,Not Fraud
+2205,1,Fraud
+3317,27,Not Fraud
+3355,28,Fraud
+1413,29,Not Fraud
+5391,19,Fraud
+2342,15,Not Fraud
+314,21,Fraud
+6909,29,Not Fraud
+628,29,Fraud
+1189,1,Not Fraud
+6919,25,Fraud
+4291,13,Not Fraud
+2671,13,Fraud
+1565,13,Not Fraud
+981,12,Fraud
+6981,6,Not Fraud
+2785,10,Fraud
+1747,9,Not Fraud
+2511,13,Fraud
+6297,30,Not Fraud
+4923,9,Fraud
+5334,18,Not Fraud
+4765,29,Fraud
+784,14,Not Fraud
+5833,18,Fraud
+522,19,Not Fraud
+4827,22,Fraud
+4347,8,Not Fraud
+733,16,Fraud
+307,17,Not Fraud
+5019,26,Fraud
+3967,25,Not Fraud
+5907,12,Fraud
+1988,24,Not Fraud
+4955,3,Fraud
+6321,13,Not Fraud
+894,13,Fraud
+4158,18,Not Fraud
+1573,14,Fraud
+2161,9,Not Fraud
+6154,18,Fraud
+6211,20,Not Fraud
+5754,19,Fraud
+3416,4,Not Fraud
+4705,23,Fraud
+1323,29,Not Fraud
+2481,20,Fraud
+1662,29,Not Fraud
+3745,29,Fraud
+3058,21,Not Fraud
+6508,16,Fraud
+1017,24,Not Fraud
+2461,6,Fraud
+5015,30,Not Fraud
+6242,24,Fraud
+5082,29,Not Fraud
+5112,24,Fraud
+2409,23,Not Fraud
+821,3,Fraud
+5404,25,Not Fraud
+1890,23,Fraud
+1340,17,Not Fraud
+5817,7,Fraud
+4238,18,Not Fraud
+6881,12,Fraud
+1489,17,Not Fraud
+3421,18,Fraud
+653,7,Not Fraud
+2562,28,Fraud
+4167,15,Not Fraud
+1237,22,Fraud
+1575,11,Not Fraud
+1560,4,Fraud
+2198,24,Not Fraud
+754,14,Fraud
+6690,9,Not Fraud
+6416,21,Fraud
+6991,15,Not Fraud
+362,9,Fraud
+5084,30,Not Fraud
+6758,1,Fraud
+4923,11,Not Fraud
+6637,15,Fraud
+6602,22,Not Fraud
+2145,13,Fraud
+4501,2,Not Fraud
+703,7,Fraud
+1967,11,Not Fraud
+2859,24,Fraud
+6293,1,Not Fraud
+3325,20,Fraud
+2183,8,Not Fraud
+2370,6,Fraud
+6121,17,Not Fraud
+2651,9,Fraud
+4542,3,Not Fraud
+3801,23,Fraud
+2898,25,Not Fraud
+6446,8,Fraud
+6855,1,Not Fraud
+2944,13,Fraud
+2995,13,Not Fraud
+4086,9,Fraud
+2452,4,Not Fraud
+3268,8,Fraud
+4958,19,Not Fraud
+6919,15,Fraud
+6024,27,Not Fraud
+3373,3,Fraud
+1049,10,Not Fraud
+6005,27,Fraud
+6947,5,Not Fraud
+2788,22,Fraud
+546,22,Not Fraud
+4641,5,Fraud
+5491,13,Not Fraud
+2307,24,Fraud
+2468,11,Not Fraud
+4128,5,Fraud
+1661,9,Not Fraud
+3129,9,Fraud
+2320,12,Not Fraud
+4495,21,Fraud
+3851,23,Not Fraud
+2959,11,Fraud
+6353,2,Not Fraud
+5330,29,Fraud
+3530,22,Not Fraud
+6717,1,Fraud
+1856,9,Not Fraud
+3898,14,Fraud
+3293,25,Not Fraud
+5020,17,Fraud
+1628,23,Not Fraud
+1961,4,Fraud
+5790,24,Not Fraud
+863,28,Fraud
+209,15,Not Fraud
+5902,10,Fraud
+385,1,Not Fraud
+6420,11,Fraud
+2412,28,Not Fraud
+6067,4,Fraud
+4793,1,Not Fraud
+5973,19,Fraud
+1120,25,Not Fraud
+4893,19,Fraud
+5136,6,Not Fraud
+2971,12,Fraud
+6634,23,Not Fraud
+3288,30,Fraud
+2766,11,Not Fraud
+5759,18,Fraud
+2614,7,Not Fraud
+5239,30,Fraud
+2586,6,Not Fraud
+6350,15,Fraud
+3478,14,Not Fraud
+3766,9,Fraud
+5963,22,Not Fraud
+503,27,Fraud
+4353,3,Not Fraud
+6019,18,Fraud
+3536,8,Not Fraud
+6580,19,Fraud
+5946,5,Not Fraud
+4303,24,Fraud
+5900,14,Not Fraud
+6995,9,Fraud
+7000,18,Not Fraud
+4533,23,Fraud
+4923,24,Not Fraud
+3340,2,Fraud
+4228,18,Not Fraud
+2790,7,Fraud
+5616,4,Not Fraud
+2676,5,Fraud
+2123,5,Not Fraud
+5194,25,Fraud
+2806,4,Not Fraud
+4425,19,Fraud
+3392,18,Not Fraud
+3562,7,Fraud
+6092,6,Not Fraud
+4330,6,Fraud
+4746,25,Not Fraud
+3643,9,Fraud
+303,1,Not Fraud
+6787,29,Fraud
+6959,9,Not Fraud
+1642,18,Fraud
+3968,26,Not Fraud
+5366,29,Fraud
+4526,17,Not Fraud
+6589,9,Fraud
+6223,30,Not Fraud
+1213,20,Fraud
+5907,13,Not Fraud
+857,30,Fraud
+3318,28,Not Fraud
+5840,1,Fraud
+4581,16,Not Fraud
+2392,27,Fraud
+3837,4,Not Fraud
+2230,25,Fraud
+6217,2,Not Fraud
+1602,12,Fraud
+1552,28,Not Fraud
+3628,17,Fraud
+4242,28,Not Fraud
+5906,24,Fraud
+6264,9,Not Fraud
+5134,3,Fraud
+6203,21,Not Fraud
+1418,28,Fraud
+1679,12,Not Fraud
+3255,7,Fraud
+2759,25,Not Fraud
+5930,9,Fraud
+3380,22,Not Fraud
+2157,19,Fraud
+1500,30,Not Fraud
+1692,27,Fraud
+5375,6,Not Fraud
+2552,3,Fraud
+508,7,Not Fraud
+2832,11,Fraud
+6145,8,Not Fraud
+5212,9,Fraud
+4008,4,Not Fraud
+1337,29,Fraud
+1212,23,Not Fraud
+6175,17,Fraud
+4736,24,Not Fraud
+3001,9,Fraud
+1161,5,Not Fraud
+6934,14,Fraud
+1616,4,Not Fraud
+578,13,Fraud
+3225,13,Not Fraud
+6256,24,Fraud
+6190,22,Not Fraud
+4367,26,Fraud
+3731,10,Not Fraud
+4687,13,Fraud
+824,29,Not Fraud
+1180,26,Fraud
+4037,30,Not Fraud
+2920,14,Fraud
+6857,2,Not Fraud
+5267,7,Fraud
+2179,13,Not Fraud
+4192,25,Fraud
+1043,29,Not Fraud
+2529,4,Fraud
+4552,20,Not Fraud
+2441,17,Fraud
+2297,9,Not Fraud
+2712,22,Fraud
+1840,11,Not Fraud
+2604,12,Fraud
+3101,28,Not Fraud
+3613,4,Fraud
+1639,8,Not Fraud
+328,1,Fraud
+5896,10,Not Fraud
+5408,7,Fraud
+3064,11,Not Fraud
+5466,25,Fraud
+5617,25,Not Fraud
+1788,22,Fraud
+5969,16,Not Fraud
+3299,21,Fraud
+5688,29,Not Fraud
+308,3,Fraud
+2768,13,Not Fraud
+1220,2,Fraud
+2562,26,Not Fraud
+5093,10,Fraud
+1751,21,Not Fraud
+1997,29,Fraud
+781,15,Not Fraud
+2396,18,Fraud
+2707,22,Not Fraud
+5368,11,Fraud
+4042,30,Not Fraud
+749,28,Fraud
+3674,12,Not Fraud
+1029,9,Fraud
+1708,26,Not Fraud
+5662,4,Fraud
+3545,25,Not Fraud
+5065,22,Fraud
+1787,14,Not Fraud
+5257,8,Fraud
+6753,20,Not Fraud
+5245,30,Fraud
+850,24,Not Fraud
+2456,16,Fraud
+4622,6,Not Fraud
+684,28,Fraud
+246,26,Not Fraud
+3342,21,Fraud
+3434,14,Not Fraud
+4000,27,Fraud
+6786,11,Not Fraud
+3237,5,Fraud
+3477,4,Not Fraud
+3818,4,Fraud
+5673,16,Not Fraud
+4145,9,Fraud
+4830,14,Not Fraud
+3552,29,Fraud
+4681,12,Not Fraud
+2038,14,Fraud
+6761,6,Not Fraud
+2042,17,Fraud
+6482,12,Not Fraud
+425,27,Fraud
+2726,19,Not Fraud
+1167,1,Fraud
+6799,19,Not Fraud
+5185,22,Fraud
+2471,26,Not Fraud
+716,9,Fraud
+4514,16,Not Fraud
+3701,7,Fraud
+4794,12,Not Fraud
+3748,17,Fraud
+1700,12,Not Fraud
+6841,26,Fraud
+3223,29,Not Fraud
+1091,12,Fraud
+5250,30,Not Fraud
+2503,1,Fraud
+5065,9,Not Fraud
+2856,4,Fraud
+4328,10,Not Fraud
+1625,19,Fraud
+3239,27,Not Fraud
+5533,19,Fraud
+356,5,Not Fraud
+3417,29,Fraud
+313,7,Not Fraud
+4615,20,Fraud
+6890,11,Not Fraud
+4673,19,Fraud
+266,3,Not Fraud
+317,13,Fraud
+5601,24,Not Fraud
+5998,15,Fraud
+5539,13,Not Fraud
+5885,19,Fraud
+4451,21,Not Fraud
+5770,9,Fraud
+5169,18,Not Fraud
+6302,12,Fraud
+2504,4,Not Fraud
+5201,21,Fraud
+2486,23,Not Fraud
+3077,23,Fraud
+5456,14,Not Fraud
+2626,28,Fraud
+3199,9,Not Fraud
+5835,1,Fraud
+4164,19,Not Fraud
+5556,15,Fraud
+4529,6,Not Fraud
+5544,17,Fraud
+4560,6,Not Fraud
+3049,21,Fraud
+5828,10,Not Fraud
+5602,4,Fraud
+1086,3,Not Fraud
+5910,6,Fraud
+2375,28,Not Fraud
+324,2,Fraud
+4721,27,Not Fraud
+6512,12,Fraud
+3654,21,Not Fraud
+4597,21,Fraud
+1488,13,Not Fraud
+2318,24,Fraud
+3562,9,Not Fraud
+4464,5,Fraud
+4538,10,Not Fraud
+2864,4,Fraud
+1000,26,Not Fraud
+2287,7,Fraud
+5950,23,Not Fraud
+6273,10,Fraud
+4853,3,Not Fraud
+6747,16,Fraud
+5741,21,Not Fraud
+2017,25,Fraud
+6681,2,Not Fraud
+6329,11,Fraud
+3234,9,Not Fraud
+3353,6,Fraud
+4415,28,Not Fraud
+930,30,Fraud
+2462,17,Not Fraud
+874,14,Fraud
+6513,4,Not Fraud
+2985,14,Fraud
+3013,10,Not Fraud
+3836,13,Fraud
+3857,5,Not Fraud
+4985,1,Fraud
+6281,25,Not Fraud
+6774,12,Fraud
+4487,22,Not Fraud
+1380,2,Fraud
+5925,22,Not Fraud
+5689,17,Fraud
+5241,1,Not Fraud
+2992,29,Fraud
+669,16,Not Fraud
+3095,11,Fraud
+2337,3,Not Fraud
+6144,26,Fraud
+1200,28,Not Fraud
+3185,7,Fraud
+1518,11,Not Fraud
+2562,27,Fraud
+825,3,Not Fraud
+2112,30,Fraud
+3133,15,Not Fraud
+1205,21,Fraud
+4660,19,Not Fraud
+6641,15,Fraud
+6700,25,Not Fraud
+5432,13,Fraud
+4538,11,Not Fraud
+685,15,Fraud
+4924,3,Not Fraud
+2084,11,Fraud
+1051,19,Not Fraud
+3758,8,Fraud
+5522,26,Not Fraud
+1561,5,Fraud
+4647,13,Not Fraud
+2476,16,Fraud
+2064,5,Not Fraud
+3157,27,Fraud
+6066,29,Not Fraud
+4047,28,Fraud
+5764,27,Not Fraud
+3300,10,Fraud
+5998,12,Not Fraud
+6643,26,Fraud
+4228,19,Not Fraud
+2717,21,Fraud
+1062,12,Not Fraud
+959,5,Fraud
+5719,25,Not Fraud
+5215,10,Fraud
+2576,12,Not Fraud
+3221,5,Fraud
+2281,15,Not Fraud
+6990,15,Fraud
+6890,22,Not Fraud
+2981,10,Fraud
+1671,1,Not Fraud
+5945,22,Fraud
+4375,12,Not Fraud
+637,20,Fraud
+3509,29,Not Fraud
+4629,5,Fraud
+1853,18,Not Fraud
+1068,11,Fraud
+3394,9,Not Fraud
+2214,21,Fraud
+6556,14,Not Fraud
+5799,2,Fraud
+1527,8,Not Fraud
+6943,24,Fraud
+1137,6,Not Fraud
+494,5,Fraud
+5910,8,Not Fraud
+5754,9,Fraud
+1417,22,Not Fraud
+2888,30,Fraud
+2214,17,Not Fraud
+5416,14,Fraud
+2089,5,Not Fraud
+1986,27,Fraud
+1719,26,Not Fraud
+3311,11,Fraud
+286,3,Not Fraud
+2067,22,Fraud
+6747,16,Not Fraud
+589,25,Fraud
+6749,5,Not Fraud
+621,17,Fraud
+1898,29,Not Fraud
+6400,21,Fraud
+5834,5,Not Fraud
+5854,10,Fraud
+3016,18,Not Fraud
+639,2,Fraud
+3102,14,Not Fraud
+5040,18,Fraud
+6212,1,Not Fraud
+4683,11,Fraud
+2441,21,Not Fraud
+3867,21,Fraud
+5647,23,Not Fraud
+4839,13,Fraud
+2219,25,Not Fraud
+4508,25,Fraud
+1329,17,Not Fraud
+3815,21,Fraud
+2762,17,Not Fraud
+5548,20,Fraud
+1389,23,Not Fraud
+6193,2,Fraud
+6091,19,Not Fraud
+6212,15,Fraud
+771,20,Not Fraud
+2687,21,Fraud
+5713,5,Not Fraud
+1353,21,Fraud
+6388,14,Not Fraud
+4624,9,Fraud
+668,7,Not Fraud
+6045,28,Fraud
+5426,28,Not Fraud
+1388,8,Fraud
+3701,27,Not Fraud
+5109,2,Fraud
+4410,11,Not Fraud
+1968,22,Fraud
+6261,13,Not Fraud
+1072,20,Fraud
+6384,26,Not Fraud
+2783,20,Fraud
+1250,20,Not Fraud
+2464,30,Fraud
+1111,2,Not Fraud
+389,2,Fraud
+2386,13,Not Fraud
+5668,10,Fraud
+1640,7,Not Fraud
+3714,28,Fraud
+6491,9,Not Fraud
+6379,12,Fraud
+5176,1,Not Fraud
+254,10,Fraud
+3738,2,Not Fraud
+6371,28,Fraud
+2125,30,Not Fraud
+1341,2,Fraud
+4741,21,Not Fraud
+4683,28,Fraud
+4390,1,Not Fraud
+6603,7,Fraud
+3854,13,Not Fraud
+3310,13,Fraud
+3451,26,Not Fraud
+1311,12,Fraud
+3147,17,Not Fraud
+3677,19,Fraud
+4183,17,Not Fraud
+2068,19,Fraud
+3273,15,Not Fraud
+5805,18,Fraud
+2807,18,Not Fraud
+3893,21,Fraud
+4711,8,Not Fraud
+5708,5,Fraud
+6228,23,Not Fraud
+4526,3,Fraud
+6226,11,Not Fraud
+4181,2,Fraud
+4971,24,Not Fraud
+4502,4,Fraud
+6981,18,Not Fraud
+3186,17,Fraud
+3663,7,Not Fraud
+883,3,Fraud
+5333,14,Not Fraud
+4522,2,Fraud
+3832,22,Not Fraud
+4164,15,Fraud
+3622,26,Not Fraud
+6355,14,Fraud
+5980,28,Not Fraud
+3757,6,Fraud
+4650,24,Not Fraud
+1721,8,Fraud
+2397,8,Not Fraud
+2865,7,Fraud
+6075,29,Not Fraud
+1237,10,Fraud
+288,7,Not Fraud
+1330,14,Fraud
+486,17,Not Fraud
+6303,21,Fraud
+1996,19,Not Fraud
+6169,11,Fraud
+4176,10,Not Fraud
+4580,4,Fraud
+4429,4,Not Fraud
+5803,6,Fraud
+1667,15,Not Fraud
+1479,1,Fraud
+1273,18,Not Fraud
+3649,16,Fraud
+4155,2,Not Fraud
+4761,8,Fraud
+3760,15,Not Fraud
+4054,11,Fraud
+1979,25,Not Fraud
+1357,17,Fraud
+2175,20,Not Fraud
+496,25,Fraud
+3534,29,Not Fraud
+4222,15,Fraud
+4678,13,Not Fraud
+3989,29,Fraud
+2224,4,Not Fraud
+6660,14,Fraud
+2012,23,Not Fraud
+880,9,Fraud
+3928,2,Not Fraud
+6816,25,Fraud
+1414,11,Not Fraud
+865,17,Fraud
+1447,18,Not Fraud
+2290,25,Fraud
+5132,3,Not Fraud
+544,13,Fraud
+3952,1,Not Fraud
+3512,3,Fraud
+349,12,Not Fraud
+6265,28,Fraud
+3474,25,Not Fraud
+1686,11,Fraud
+2344,28,Not Fraud
+1954,29,Fraud
+4589,13,Not Fraud
+1680,10,Fraud
+5814,8,Not Fraud
+2562,7,Fraud
+5444,30,Not Fraud
+1530,10,Fraud
+2123,2,Not Fraud
+4766,23,Fraud
+3102,29,Not Fraud
+6960,20,Fraud
+1578,11,Not Fraud
+3712,19,Fraud
+3606,19,Not Fraud
+5238,3,Fraud
+227,1,Not Fraud
+3151,9,Fraud
+318,30,Not Fraud
+3635,22,Fraud
+1115,12,Not Fraud
+1444,12,Fraud
+4735,2,Not Fraud
+1728,11,Fraud
+1651,9,Not Fraud
+5658,6,Fraud
+2689,8,Not Fraud
+6203,15,Fraud
+1309,11,Not Fraud
+5963,12,Fraud
+2045,27,Not Fraud
+2411,3,Fraud
+3065,30,Not Fraud
+3017,10,Fraud
+3106,16,Not Fraud
+4254,12,Fraud
+2552,9,Not Fraud
+1531,25,Fraud
+1348,25,Not Fraud
+532,10,Fraud
+1123,16,Not Fraud
+4777,2,Fraud
+3185,26,Not Fraud
+3608,29,Fraud
+6920,27,Not Fraud
+3056,9,Fraud
+5644,15,Not Fraud
+3651,27,Fraud
+1619,13,Not Fraud
+3158,8,Fraud
+3594,1,Not Fraud
+4733,12,Fraud
+3761,4,Not Fraud
+3129,7,Fraud
+6494,28,Not Fraud
+5934,4,Fraud
+3876,18,Not Fraud
+2690,18,Fraud
+4704,9,Not Fraud
+1185,3,Fraud
+630,15,Not Fraud
+2316,20,Fraud
+3987,9,Not Fraud
+2523,21,Fraud
+4069,11,Not Fraud
+3156,20,Fraud
+6372,14,Not Fraud
+5662,21,Fraud
+2442,17,Not Fraud
+5918,2,Fraud
+3060,10,Not Fraud
+4598,5,Fraud
+556,2,Not Fraud
+2819,25,Fraud
+933,8,Not Fraud
+2616,26,Fraud
+3892,18,Not Fraud
+4672,7,Fraud
+1256,11,Not Fraud
+6490,18,Fraud
+5481,13,Not Fraud
+6537,11,Fraud
+3760,1,Not Fraud
+771,21,Fraud
+2776,21,Not Fraud
+421,24,Fraud
+1521,3,Not Fraud
+2357,15,Fraud
+2870,3,Not Fraud
+4794,21,Fraud
+2357,23,Not Fraud
+5464,10,Fraud
+4681,13,Not Fraud
+3218,28,Fraud
+5078,5,Not Fraud
+5906,16,Fraud
+4337,7,Not Fraud
+4507,29,Fraud
+2437,29,Not Fraud
+832,16,Fraud
+2290,17,Not Fraud
+5191,14,Fraud
+3353,2,Not Fraud
+4390,23,Fraud
+1933,7,Not Fraud
+6820,26,Fraud
+6898,20,Not Fraud
+3128,4,Fraud
+1739,18,Not Fraud
+1984,26,Fraud
+566,20,Not Fraud
+5176,19,Fraud
+6240,4,Not Fraud
+4848,26,Fraud
+1903,28,Not Fraud
+394,10,Fraud
+4534,8,Not Fraud
+3071,10,Fraud
+2801,27,Not Fraud
+5042,27,Fraud
+5375,11,Not Fraud
+4227,9,Fraud
+1116,30,Not Fraud
+799,11,Fraud
+247,12,Not Fraud
+4660,7,Fraud
+2221,20,Not Fraud
+3660,26,Fraud
+2368,23,Not Fraud
+5248,21,Fraud
+5715,21,Not Fraud
+1262,11,Fraud
+455,6,Not Fraud
+4230,12,Fraud
+5571,28,Not Fraud
+5276,8,Fraud
+6805,24,Not Fraud
+5665,28,Fraud
+5998,12,Not Fraud
+1862,21,Fraud
+436,29,Not Fraud
+3552,19,Fraud
+2442,13,Not Fraud
+1246,6,Fraud
+4014,23,Not Fraud
+6869,30,Fraud
+591,16,Not Fraud
+4178,11,Fraud
+2383,2,Not Fraud
+2822,6,Fraud
+3839,3,Not Fraud
+2798,19,Fraud
+1779,1,Not Fraud
+1741,20,Fraud
+958,11,Not Fraud
+4425,7,Fraud
+2112,30,Not Fraud
+929,10,Fraud
+4900,10,Not Fraud
+5581,4,Fraud
+3784,30,Not Fraud
+2798,4,Fraud
+4598,5,Not Fraud
+3414,5,Fraud
+2138,30,Not Fraud
+1829,26,Fraud
+4334,1,Not Fraud
+3531,10,Fraud
+3867,21,Not Fraud
+6643,2,Fraud
+238,11,Not Fraud
+768,18,Fraud
+370,29,Not Fraud
+4874,23,Fraud
+2335,23,Not Fraud
+606,24,Fraud
+2150,13,Not Fraud
+1888,25,Fraud
+3974,26,Not Fraud
+5003,14,Fraud
+5787,20,Not Fraud
+1613,26,Fraud
+6839,13,Not Fraud
+2820,18,Fraud
+3008,18,Not Fraud
+4342,9,Fraud
+4287,15,Not Fraud
+3798,23,Fraud
+5929,27,Not Fraud
+2427,22,Fraud
+4585,6,Not Fraud
+5460,24,Fraud
+663,9,Not Fraud
+3823,3,Fraud
+3196,8,Not Fraud
+2111,6,Fraud
+2015,26,Not Fraud
+1331,6,Fraud
+1097,26,Not Fraud
+6462,22,Fraud
+5167,18,Not Fraud
+2861,5,Fraud
+1020,6,Not Fraud
+514,17,Fraud
+1798,23,Not Fraud
+6520,7,Fraud
+2919,23,Not Fraud
+6515,7,Fraud
+5249,10,Not Fraud
+3475,15,Fraud
+1941,8,Not Fraud
+5728,14,Fraud
+2178,19,Not Fraud
+6823,3,Fraud
+2153,24,Not Fraud
+5990,15,Fraud
+6420,30,Not Fraud
+1162,7,Fraud
+2199,7,Not Fraud
+2087,19,Fraud
+3426,13,Not Fraud
+3892,2,Fraud
+5777,20,Not Fraud
+5309,7,Fraud
+6890,10,Not Fraud
+2280,24,Fraud
+2344,8,Not Fraud
+5308,10,Fraud
+1497,27,Not Fraud
+1729,7,Fraud
+1004,17,Not Fraud
+5576,9,Fraud
+656,16,Not Fraud
+6427,20,Fraud
+2914,8,Not Fraud
+495,9,Fraud
+1528,7,Not Fraud
+4750,5,Fraud
+3004,4,Not Fraud
+2316,5,Fraud
+5719,23,Not Fraud
+2117,1,Fraud
+1392,21,Not Fraud
+5848,24,Fraud
+5150,3,Not Fraud
+5759,9,Fraud
+294,30,Not Fraud
+4237,1,Fraud
+5955,6,Not Fraud
+676,11,Fraud
+5515,18,Not Fraud
+5895,1,Fraud
+4928,30,Not Fraud
+3857,3,Fraud
+865,23,Not Fraud
+2781,23,Fraud
+4973,16,Not Fraud
+3352,30,Fraud
+1748,19,Not Fraud
+5788,21,Fraud
+5289,7,Not Fraud
+3405,9,Fraud
+4159,14,Not Fraud
+6282,24,Fraud
+3359,3,Not Fraud
+4752,11,Fraud
+3209,17,Not Fraud
+2400,23,Fraud
+773,29,Not Fraud
+4382,28,Fraud
+6386,2,Not Fraud
+1987,1,Fraud
+796,25,Not Fraud
+6278,22,Fraud
+5179,30,Not Fraud
+6220,25,Fraud
+495,11,Not Fraud
+205,1,Fraud
+5412,1,Not Fraud
+2076,23,Fraud
+6429,11,Not Fraud
+1582,8,Fraud
+2689,9,Not Fraud
+5610,10,Fraud
+3510,1,Not Fraud
+5108,15,Fraud
+6000,20,Not Fraud
+2877,27,Fraud
+5431,26,Not Fraud
+3299,4,Fraud
+2786,16,Not Fraud
+6485,30,Fraud
+4534,19,Not Fraud
+5668,7,Fraud
+1336,26,Not Fraud
+5218,15,Fraud
+1761,14,Not Fraud
+6107,28,Fraud
+590,15,Not Fraud
+5463,28,Fraud
+2951,21,Not Fraud
+3195,20,Fraud
+1166,20,Not Fraud
+461,19,Fraud
+6787,23,Not Fraud
+6591,8,Fraud
+998,16,Not Fraud
+4745,2,Fraud
+2643,28,Not Fraud
+572,5,Fraud
+2024,29,Not Fraud
+2864,14,Fraud
+5552,18,Not Fraud
+3156,23,Fraud
+5780,1,Not Fraud
+6827,10,Fraud
+6797,14,Not Fraud
+501,7,Fraud
+2152,27,Not Fraud
+5838,8,Fraud
+559,17,Not Fraud
+4174,7,Fraud
+5605,25,Not Fraud
+4338,26,Fraud
+4362,16,Not Fraud
+6256,7,Fraud
+2126,19,Not Fraud
+6740,4,Fraud
+5942,14,Not Fraud
+4945,16,Fraud
+4211,12,Not Fraud
+5149,17,Fraud
+421,10,Not Fraud
+3341,24,Fraud
+1664,2,Not Fraud
+1303,16,Fraud
+2927,28,Not Fraud
+552,15,Fraud
+606,8,Not Fraud
+401,1,Fraud
+4327,5,Not Fraud
+2660,24,Fraud
+2929,18,Not Fraud
+1634,15,Fraud
+6990,10,Not Fraud
+6247,27,Fraud
+2076,14,Not Fraud
+4694,14,Fraud
+1400,11,Not Fraud
+4731,10,Fraud
+6581,14,Not Fraud
+5849,5,Fraud
+3887,12,Not Fraud
+1103,19,Fraud
+5551,23,Not Fraud
+6847,3,Fraud
+1855,3,Not Fraud
+943,25,Fraud
+6635,9,Not Fraud
+6201,25,Fraud
+358,22,Not Fraud
+1190,6,Fraud
+2434,13,Not Fraud
+5523,27,Fraud
+465,22,Not Fraud
+2344,26,Fraud
+3282,14,Not Fraud
+824,27,Fraud
+6215,12,Not Fraud
+2049,24,Fraud
+536,29,Not Fraud
+648,25,Fraud
+6027,15,Not Fraud
+932,29,Fraud
+2578,23,Not Fraud
+1924,1,Fraud
+211,2,Not Fraud
+1729,6,Fraud
+6992,18,Not Fraud
+5452,19,Fraud
+3712,24,Not Fraud
+4899,20,Fraud
+1275,24,Not Fraud
+6215,9,Fraud
+1097,22,Not Fraud
+4082,8,Fraud
+3323,20,Not Fraud
+588,3,Fraud
+2388,4,Not Fraud
+4282,7,Fraud
+4813,15,Not Fraud
+1465,26,Fraud
+4659,24,Not Fraud
+6104,16,Fraud
+4146,4,Not Fraud
+4316,12,Fraud
+3221,9,Not Fraud
+4480,9,Fraud
+3556,5,Not Fraud
+2537,15,Fraud
+4576,30,Not Fraud
+1682,21,Fraud
+433,17,Not Fraud
+6317,1,Fraud
+1387,23,Not Fraud
+5923,6,Fraud
+5891,28,Not Fraud
+2598,10,Fraud
+2469,12,Not Fraud
+6523,1,Fraud
+4401,12,Not Fraud
+2038,14,Fraud
+2268,29,Not Fraud
+2393,8,Fraud
+4964,27,Not Fraud
+3690,12,Fraud
+1202,19,Not Fraud
+1544,11,Fraud
+2522,25,Not Fraud
+6904,30,Fraud
+4924,1,Not Fraud
+5661,19,Fraud
+2073,18,Not Fraud
+5688,15,Fraud
+6768,13,Not Fraud
+5278,3,Fraud
+4407,11,Not Fraud
+5965,28,Fraud
+5668,1,Not Fraud
+3034,22,Fraud
+866,8,Not Fraud
+4408,1,Fraud
+5882,29,Not Fraud
+2525,21,Fraud
+374,30,Not Fraud
+1398,2,Fraud
+1137,30,Not Fraud
+5037,5,Fraud
+4941,3,Not Fraud
+2975,14,Fraud
+691,27,Not Fraud
+6146,10,Fraud
+6499,29,Not Fraud
+6489,15,Fraud
+5984,20,Not Fraud
+2964,30,Fraud
+694,3,Not Fraud
+5281,3,Fraud
+4506,29,Not Fraud
+4253,14,Fraud
+823,8,Not Fraud
+5934,27,Fraud
+3391,6,Not Fraud
+625,2,Fraud
+933,27,Not Fraud
+3311,27,Fraud
+1114,5,Not Fraud
+6263,19,Fraud
+2637,25,Not Fraud
+386,18,Fraud
+3603,3,Not Fraud
+2867,26,Fraud
+1730,15,Not Fraud
+3722,1,Fraud
+5296,3,Not Fraud
+6981,25,Fraud
+2399,12,Not Fraud
+4014,11,Fraud
+4725,7,Not Fraud
+2579,15,Fraud
+5969,5,Not Fraud
+6817,8,Fraud
+5542,23,Not Fraud
+3707,17,Fraud
+5493,18,Not Fraud
+5775,21,Fraud
+699,13,Not Fraud
+1793,28,Fraud
+799,24,Not Fraud
+4717,29,Fraud
+2390,24,Not Fraud
+4363,17,Fraud
+4108,25,Not Fraud
+5317,21,Fraud
+942,18,Not Fraud
+1919,7,Fraud
+5418,24,Not Fraud
+430,27,Fraud
+2528,20,Not Fraud
+5184,30,Fraud
+4280,17,Not Fraud
+6313,21,Fraud
+5078,10,Not Fraud
+2236,23,Fraud
+3661,4,Not Fraud
+1408,16,Fraud
+6733,23,Not Fraud
+6355,17,Fraud
+3849,12,Not Fraud
+6606,17,Fraud
+5432,16,Not Fraud
+5020,1,Fraud
+754,26,Not Fraud
+3518,16,Fraud
+5579,9,Not Fraud
+3938,30,Fraud
+4150,27,Not Fraud
+1623,9,Fraud
+523,1,Not Fraud
+4865,18,Fraud
+1020,5,Not Fraud
+2134,19,Fraud
+6395,30,Not Fraud
+1234,26,Fraud
+6098,21,Not Fraud
+1933,24,Fraud
+2447,14,Not Fraud
+3417,23,Fraud
+2878,28,Not Fraud
+2667,17,Fraud
+281,14,Not Fraud
+638,14,Fraud
+2708,23,Not Fraud
+3566,28,Fraud
+3759,14,Not Fraud
+5711,15,Fraud
+5696,30,Not Fraud
+1880,9,Fraud
+6460,1,Not Fraud
+621,28,Fraud
+3072,14,Not Fraud
+2015,22,Fraud
+4543,21,Not Fraud
+2625,24,Fraud
+5540,19,Not Fraud
+285,12,Fraud
+2728,13,Not Fraud
+5771,28,Fraud
+4089,14,Not Fraud
+5290,7,Fraud
+5882,23,Not Fraud
+5104,16,Fraud
+6284,12,Not Fraud
+294,7,Fraud
+1656,22,Not Fraud
+3735,4,Fraud
+1216,5,Not Fraud
+2426,28,Fraud
+2759,10,Not Fraud
+2869,26,Fraud
+2125,27,Not Fraud
+2042,1,Fraud
+3699,29,Not Fraud
+5239,11,Fraud
+574,25,Not Fraud
+3131,12,Fraud
+6513,22,Not Fraud
+5683,28,Fraud
+6399,3,Not Fraud
+3936,24,Fraud
+5697,24,Not Fraud
+2617,19,Fraud
+3562,12,Not Fraud
+5203,25,Fraud
+376,18,Not Fraud
+2151,17,Fraud
+656,1,Not Fraud
+611,8,Fraud
+253,2,Not Fraud
+5229,15,Fraud
+6818,5,Not Fraud
+5475,17,Fraud
+1066,4,Not Fraud
+2964,17,Fraud
+3950,14,Not Fraud
+1196,8,Fraud
+4560,5,Not Fraud
+474,22,Fraud
+2983,4,Not Fraud
+2689,18,Fraud
+2440,26,Not Fraud
+1695,29,Fraud
+1920,3,Not Fraud
+6314,25,Fraud
+4126,21,Not Fraud
+2478,9,Fraud
+6521,13,Not Fraud
+4993,17,Fraud
+6157,15,Not Fraud
+4635,1,Fraud
+2295,21,Not Fraud
+3106,23,Fraud
+2211,4,Not Fraud
+458,24,Fraud
+1027,20,Not Fraud
+4486,4,Fraud
+1103,1,Not Fraud
+339,7,Fraud
+6756,17,Not Fraud
+6128,12,Fraud
+1143,1,Not Fraud
+2388,21,Fraud
+2352,8,Not Fraud
+6684,30,Fraud
+1650,2,Not Fraud
+2702,26,Fraud
+5564,29,Not Fraud
+1149,14,Fraud
+670,20,Not Fraud
+2182,26,Fraud
+1406,4,Not Fraud
+5912,11,Fraud
+5801,22,Not Fraud
+4507,12,Fraud
+4862,14,Not Fraud
+5860,4,Fraud
+4314,17,Not Fraud
+1679,28,Fraud
+664,25,Not Fraud
+2810,25,Fraud
+2716,25,Not Fraud
+5301,1,Fraud
+1931,3,Not Fraud
+2919,26,Fraud
+5779,10,Not Fraud
+2922,19,Fraud
+4168,27,Not Fraud
+2694,30,Fraud
+6260,8,Not Fraud
+6239,1,Fraud
+202,15,Not Fraud
+5336,28,Fraud
+3720,4,Not Fraud
+1539,1,Fraud
+6485,15,Not Fraud
+2258,21,Fraud
+4254,20,Not Fraud
+2955,11,Fraud
+3510,9,Not Fraud
+6395,13,Fraud
+5679,19,Not Fraud
+2829,25,Fraud
+3729,5,Not Fraud
+3510,24,Fraud
+1662,12,Not Fraud
+2832,25,Fraud
+4157,28,Not Fraud
+2704,19,Fraud
+897,11,Not Fraud
+2670,27,Fraud
+2870,29,Not Fraud
+6578,24,Fraud
+5006,29,Not Fraud
+1878,26,Fraud
+3015,24,Not Fraud
+4790,1,Fraud
+4104,23,Not Fraud
+6857,20,Fraud
+4549,22,Not Fraud
+5765,23,Fraud
+6260,2,Not Fraud
+6661,14,Fraud
+2719,19,Not Fraud
+1527,22,Fraud
+6336,25,Not Fraud
+2059,2,Fraud
+6917,7,Not Fraud
+4163,6,Fraud
+4496,16,Not Fraud
+1469,12,Fraud
+1065,3,Not Fraud
+4645,8,Fraud
+973,22,Not Fraud
+2861,25,Fraud
+3767,8,Not Fraud
+2594,19,Fraud
+720,3,Not Fraud
+5259,25,Fraud
+4989,6,Not Fraud
+5107,8,Fraud
+5214,8,Not Fraud
+772,11,Fraud
+850,13,Not Fraud
+3715,3,Fraud
+1559,30,Not Fraud
+217,12,Fraud
+460,5,Not Fraud
+1425,30,Fraud
+3417,28,Not Fraud
+6506,14,Fraud
+4863,22,Not Fraud
+6138,22,Fraud
+4923,2,Not Fraud
+6894,28,Fraud
+6396,19,Not Fraud
+2833,3,Fraud
+2255,13,Not Fraud
+2614,27,Fraud
+392,25,Not Fraud
+1987,20,Fraud
+4281,28,Not Fraud
+6473,22,Fraud
+1651,4,Not Fraud
+4172,28,Fraud
+6611,8,Not Fraud
+4928,4,Fraud
+6758,25,Not Fraud
+4239,19,Fraud
+5086,26,Not Fraud
+2436,16,Fraud
+3705,3,Not Fraud
+2976,25,Fraud
+4179,18,Not Fraud
+1476,18,Fraud
+2419,17,Not Fraud
+1253,1,Fraud
+4290,16,Not Fraud
+3881,17,Fraud
+3328,27,Not Fraud
+2139,26,Fraud
+3804,2,Not Fraud
+5094,18,Fraud
+3250,13,Not Fraud
+4769,29,Fraud
+833,22,Not Fraud
+6721,20,Fraud
+6914,19,Not Fraud
+4926,24,Fraud
+5180,27,Not Fraud
+769,21,Fraud
+383,3,Not Fraud
+6382,28,Fraud
+1382,13,Not Fraud
+2089,24,Fraud
+3835,18,Not Fraud
+3503,3,Fraud
+3691,2,Not Fraud
+521,30,Fraud
+2176,14,Not Fraud
+4445,22,Fraud
+1511,13,Not Fraud
+6395,25,Fraud
+4959,14,Not Fraud
+4010,10,Fraud
+4932,12,Not Fraud
+5368,26,Fraud
+5257,14,Not Fraud
+5135,9,Fraud
+4751,25,Not Fraud
+966,26,Fraud
+735,6,Not Fraud
+6539,12,Fraud
+6883,14,Not Fraud
+3369,3,Fraud
+5001,2,Not Fraud
+862,10,Fraud
+1233,21,Not Fraud
+1608,3,Fraud
+2544,13,Not Fraud
+3639,11,Fraud
+338,15,Not Fraud
+3029,28,Fraud
+3867,19,Not Fraud
+3226,11,Fraud
+6514,15,Not Fraud
+236,12,Fraud
+2975,23,Not Fraud
+3376,26,Fraud
+2068,12,Not Fraud
+2506,17,Fraud
+5665,22,Not Fraud
+2866,21,Fraud
+1631,16,Not Fraud
+5806,24,Fraud
+6336,10,Not Fraud
+6507,19,Fraud
+6947,30,Not Fraud
+6055,13,Fraud
+3736,1,Not Fraud
+3462,16,Fraud
+6541,12,Not Fraud
+5769,4,Fraud
+1789,22,Not Fraud
+5317,25,Fraud
+782,10,Not Fraud
+1640,24,Fraud
+4023,24,Not Fraud
+2677,18,Fraud
+6666,22,Not Fraud
+6439,18,Fraud
+4824,12,Not Fraud
+1970,9,Fraud
+6120,18,Not Fraud
+6609,6,Fraud
+5441,13,Not Fraud
+6866,9,Fraud
+4313,30,Not Fraud
+4635,5,Fraud
+323,12,Not Fraud
+6087,4,Fraud
+4137,12,Not Fraud
+2794,10,Fraud
+3295,29,Not Fraud
+4218,22,Fraud
+1008,29,Not Fraud
+5465,20,Fraud
+2934,9,Not Fraud
+4317,28,Fraud
+1659,15,Not Fraud
+1024,16,Fraud
+813,29,Not Fraud
+6961,23,Fraud
+6457,6,Not Fraud
+1978,2,Fraud
+4185,11,Not Fraud
+5739,16,Fraud
+5262,12,Not Fraud
+5437,5,Fraud
+4020,22,Not Fraud
+950,14,Fraud
+957,26,Not Fraud
+4080,20,Fraud
+4485,9,Not Fraud
+931,17,Fraud
+6324,25,Not Fraud
+6263,17,Fraud
+779,10,Not Fraud
+1705,7,Fraud
+5260,5,Not Fraud
+6329,28,Fraud
+2670,8,Not Fraud
+1885,6,Fraud
+4226,22,Not Fraud
+3872,16,Fraud
+6153,5,Not Fraud
+3206,28,Fraud
+3107,12,Not Fraud
+6568,11,Fraud
+1726,12,Not Fraud
+2058,14,Fraud
+1969,14,Not Fraud
+1889,7,Fraud
+3163,16,Not Fraud
+5949,27,Fraud
+3575,17,Not Fraud
+4303,11,Fraud
+1314,28,Not Fraud
+4634,18,Fraud
+6981,18,Not Fraud
+1441,7,Fraud
+5347,28,Not Fraud
+2528,8,Fraud
+4975,24,Not Fraud
+787,7,Fraud
+1064,23,Not Fraud
+5475,16,Fraud
+6828,26,Not Fraud
+467,24,Fraud
+6236,26,Not Fraud
+1213,11,Fraud
+889,6,Not Fraud
+6732,25,Fraud
+3939,27,Not Fraud
+1228,17,Fraud
+1646,4,Not Fraud
+3077,18,Fraud
+3245,13,Not Fraud
+3994,16,Fraud
+6972,30,Not Fraud
+203,30,Fraud
+3102,15,Not Fraud
+430,12,Fraud
+6837,25,Not Fraud
+1127,25,Fraud
+601,10,Not Fraud
+3068,12,Fraud
+6237,6,Not Fraud
+2869,24,Fraud
+4011,4,Not Fraud
+4586,15,Fraud
+4571,22,Not Fraud
+4211,26,Fraud
+6153,29,Not Fraud
+1144,8,Fraud
+5533,11,Not Fraud
+4948,20,Fraud
+3876,1,Not Fraud
+823,2,Fraud
+3921,9,Not Fraud
+3131,11,Fraud
+4912,24,Not Fraud
+1609,10,Fraud
+6040,17,Not Fraud
+1065,2,Fraud
+2388,13,Not Fraud
+1830,9,Fraud
+259,16,Not Fraud
+1210,14,Fraud
+3265,23,Not Fraud
+4261,20,Fraud
+827,18,Not Fraud
+1129,13,Fraud
+2369,18,Not Fraud
+2925,6,Fraud
+899,21,Not Fraud
+6446,29,Fraud
+6669,28,Not Fraud
+5989,17,Fraud
+3705,9,Not Fraud
+4340,23,Fraud
+1072,12,Not Fraud
+6093,2,Fraud
+2925,12,Not Fraud
+6141,16,Fraud
+335,2,Not Fraud
+3164,9,Fraud
+4042,6,Not Fraud
+2368,15,Fraud
+5759,13,Not Fraud
+5342,1,Fraud
+2352,16,Not Fraud
+4135,24,Fraud
+3548,7,Not Fraud
+1462,16,Fraud
+4122,5,Not Fraud
+5156,5,Fraud
+522,14,Not Fraud
+5145,25,Fraud
+1992,27,Not Fraud
+5008,21,Fraud
+5921,13,Not Fraud
+1556,30,Fraud
+1699,22,Not Fraud
+6310,8,Fraud
+2073,26,Not Fraud
+6910,19,Fraud
+6667,9,Not Fraud
+2227,4,Fraud
+4583,11,Not Fraud
+1595,19,Fraud
+3670,28,Not Fraud
+3042,16,Fraud
+4322,14,Not Fraud
+570,2,Fraud
+2266,27,Not Fraud
+4239,30,Fraud
+537,25,Not Fraud
+1765,29,Fraud
+854,14,Not Fraud
+2800,6,Fraud
+3781,13,Not Fraud
+1241,27,Fraud
+2247,23,Not Fraud
+5504,13,Fraud
+6932,10,Not Fraud
+2765,29,Fraud
+2089,18,Not Fraud
+2464,20,Fraud
+3995,24,Not Fraud
+6602,3,Fraud
+3024,4,Not Fraud
+4670,25,Fraud
+609,21,Not Fraud
+411,26,Fraud
+3666,15,Not Fraud
+4582,15,Fraud
+1714,3,Not Fraud
+4740,22,Fraud
+3646,12,Not Fraud
+1034,18,Fraud
+1449,10,Not Fraud
+4484,9,Fraud
+6518,13,Not Fraud
+6213,15,Fraud
+6033,12,Not Fraud
+574,29,Fraud
+295,21,Not Fraud
+5698,26,Fraud
+747,27,Not Fraud
+3938,21,Fraud
+4970,21,Not Fraud
+6891,3,Fraud
+1703,7,Not Fraud
+1140,30,Fraud
+2569,19,Not Fraud
+5297,4,Fraud
+1229,6,Not Fraud
+4039,17,Fraud
+5460,20,Not Fraud
+3197,22,Fraud
+1618,1,Not Fraud
+1818,16,Fraud
+2759,1,Not Fraud
+1131,11,Fraud
+1358,7,Not Fraud
+6197,20,Fraud
+4885,16,Not Fraud
+2490,21,Fraud
+6593,14,Not Fraud
+3301,24,Fraud
+5614,10,Not Fraud
+4746,8,Fraud
+4092,3,Not Fraud
+1015,18,Fraud
+2166,9,Not Fraud
+5382,2,Fraud
+2413,6,Not Fraud
+2429,17,Fraud
+6577,13,Not Fraud
+1566,4,Fraud
+1141,16,Not Fraud
+3118,25,Fraud
+5862,14,Not Fraud
+3493,26,Fraud
+696,20,Not Fraud
+5586,16,Fraud
+2250,24,Not Fraud
+1153,5,Fraud
+956,21,Not Fraud
+1764,11,Fraud
+3320,5,Not Fraud
+5055,29,Fraud
+5948,5,Not Fraud
+4634,12,Fraud
+235,11,Not Fraud
+4689,21,Fraud
+6543,11,Not Fraud
+3341,27,Fraud
+210,25,Not Fraud
+2424,29,Fraud
+4781,6,Not Fraud
+298,2,Fraud
+3100,18,Not Fraud
+2551,18,Fraud
+5724,3,Not Fraud
+1879,11,Fraud
+3726,30,Not Fraud
+3020,6,Fraud
+599,21,Not Fraud
+2070,22,Fraud
+5326,13,Not Fraud
+3477,28,Fraud
+4444,13,Not Fraud
+2355,15,Fraud
+6320,11,Not Fraud
+392,10,Fraud
+1007,15,Not Fraud
+5901,2,Fraud
+4043,29,Not Fraud
+2036,6,Fraud
+2251,5,Not Fraud
+6464,29,Fraud
+5091,2,Not Fraud
+4928,22,Fraud
+1422,18,Not Fraud
+5097,25,Fraud
+1230,26,Not Fraud
+1056,24,Fraud
+6395,26,Not Fraud
+3478,29,Fraud
+4057,9,Not Fraud
+957,8,Fraud
+4786,2,Not Fraud
+6301,18,Fraud
+5640,6,Not Fraud
+4243,23,Fraud
+6994,7,Not Fraud
+3623,20,Fraud
+5804,17,Not Fraud
+6893,6,Fraud
+3711,1,Not Fraud
+6437,7,Fraud
+311,21,Not Fraud
+966,24,Fraud
+5292,15,Not Fraud
+5010,15,Fraud
+1667,17,Not Fraud
+635,16,Fraud
+4337,29,Not Fraud
+1992,19,Fraud
+3697,2,Not Fraud
+3967,30,Fraud
+3260,15,Not Fraud
+243,8,Fraud
+1233,19,Not Fraud
+6661,8,Fraud
+6653,10,Not Fraud
+5158,30,Fraud
+1986,5,Not Fraud
+4225,20,Fraud
+4546,9,Not Fraud
+4352,22,Fraud
+3149,7,Not Fraud
+2901,17,Fraud
+6716,16,Not Fraud
+458,10,Fraud
+3050,19,Not Fraud
+470,1,Fraud
+2345,20,Not Fraud
+5017,10,Fraud
+465,22,Not Fraud
+3301,13,Fraud
+4912,1,Not Fraud
+1174,12,Fraud
+438,17,Not Fraud
+1820,12,Fraud
+2520,12,Not Fraud
+2968,11,Fraud
+4769,20,Not Fraud
+6338,4,Fraud
+3473,1,Not Fraud
+4445,22,Fraud
+5904,19,Not Fraud
+4536,9,Fraud
+300,18,Not Fraud
+1996,2,Fraud
+620,19,Not Fraud
+1937,7,Fraud
+4170,27,Not Fraud
+3665,14,Fraud
+5666,13,Not Fraud
+5019,22,Fraud
+2129,17,Not Fraud
+3225,26,Fraud
+5412,12,Not Fraud
+2456,26,Fraud
+6464,27,Not Fraud
+1250,12,Fraud
+3121,29,Not Fraud
+2130,15,Fraud
+5704,19,Not Fraud
+3690,20,Fraud
+5278,11,Not Fraud
+1027,4,Fraud
+4293,23,Not Fraud
+6421,24,Fraud
+1082,25,Not Fraud
+964,23,Fraud
+5840,5,Not Fraud
+5814,12,Fraud
+610,13,Not Fraud
+5329,2,Fraud
+1479,11,Not Fraud
+3259,19,Fraud
+3967,26,Not Fraud
+6104,15,Fraud
+4400,2,Not Fraud
+5288,9,Fraud
+4436,9,Not Fraud
+2560,6,Fraud
+6201,21,Not Fraud
+5982,14,Fraud
+2078,24,Not Fraud
+1634,7,Fraud
+2892,29,Not Fraud
+3276,10,Fraud
+4017,20,Not Fraud
+6495,16,Fraud
+4403,24,Not Fraud
+6088,3,Fraud
+5644,3,Not Fraud
+1960,14,Fraud
+2531,30,Not Fraud
+3849,17,Fraud
+5052,15,Not Fraud
+2716,1,Fraud
+1779,5,Not Fraud
+427,6,Fraud
+4181,27,Not Fraud
+1567,16,Fraud
+6820,27,Not Fraud
+588,15,Fraud
+5188,11,Not Fraud
+1187,12,Fraud
+6036,12,Not Fraud
+1544,23,Fraud
+2407,27,Not Fraud
+3217,19,Fraud
+1896,6,Not Fraud
+5512,26,Fraud
+3266,28,Not Fraud
+2011,6,Fraud
+2649,19,Not Fraud
+6487,10,Fraud
+1543,13,Not Fraud
+3911,20,Fraud
+6116,20,Not Fraud
+6077,21,Fraud
+4236,27,Not Fraud
+4883,12,Fraud
+993,3,Not Fraud
+3840,22,Fraud
+906,14,Not Fraud
+1550,22,Fraud
+3519,15,Not Fraud
+3425,2,Fraud
+3773,21,Not Fraud
+436,5,Fraud
+2307,7,Not Fraud
+3494,19,Fraud
+2264,2,Not Fraud
+3868,20,Fraud
+4232,19,Not Fraud
+741,6,Fraud
+4179,28,Not Fraud
+6474,27,Fraud
+5281,6,Not Fraud
+4101,11,Fraud
+1522,15,Not Fraud
+6310,1,Fraud
+4426,17,Not Fraud
+6719,20,Fraud
+360,24,Not Fraud
+6886,30,Fraud
+2263,28,Not Fraud
+4138,27,Fraud
+2735,12,Not Fraud
+4208,16,Fraud
+1704,25,Not Fraud
+460,25,Fraud
+281,21,Not Fraud
+4282,16,Fraud
+222,18,Not Fraud
+320,11,Fraud
+1561,12,Not Fraud
+3035,29,Fraud
+3130,15,Not Fraud
+3332,13,Fraud
+4965,13,Not Fraud
+1458,28,Fraud
+2567,15,Not Fraud
+3793,25,Fraud
+1354,15,Not Fraud
+4434,16,Fraud
+3795,8,Not Fraud
+775,1,Fraud
+3832,7,Not Fraud
+1122,17,Fraud
+6716,27,Not Fraud
+2821,2,Fraud
+5848,14,Not Fraud
+5041,6,Fraud
+3021,28,Not Fraud
+638,17,Fraud
+1713,29,Not Fraud
+3734,16,Fraud
+271,10,Not Fraud
+2434,3,Fraud
+3538,2,Not Fraud
+1894,29,Fraud
+764,21,Not Fraud
+477,14,Fraud
+1969,5,Not Fraud
+3038,28,Fraud
+5426,13,Not Fraud
+1773,22,Fraud
+565,29,Not Fraud
+4571,29,Fraud
+5449,19,Not Fraud
+3299,16,Fraud
+3362,20,Not Fraud
+259,25,Fraud
+362,29,Not Fraud
+4740,23,Fraud
+371,26,Not Fraud
+3655,7,Fraud
+5921,2,Not Fraud
+202,20,Fraud
+4000,6,Not Fraud
+944,3,Fraud
+4060,11,Not Fraud
+5551,9,Fraud
+5137,22,Not Fraud
+2270,5,Fraud
+3059,17,Not Fraud
+2125,7,Fraud
+2598,18,Not Fraud
+6190,30,Fraud
+6693,14,Not Fraud
+4184,19,Fraud
+3612,14,Not Fraud
+1917,1,Fraud
+6457,19,Not Fraud
+2375,22,Fraud
+5426,8,Not Fraud
+5039,28,Fraud
+3226,18,Not Fraud
+4824,27,Fraud
+5781,28,Not Fraud
+1019,29,Fraud
+2197,10,Not Fraud
+6254,12,Fraud
+1166,26,Not Fraud
+1489,11,Fraud
+1360,26,Not Fraud
+6722,20,Fraud
+1857,6,Not Fraud
+2189,12,Fraud
+3759,18,Not Fraud
+644,1,Fraud
+3835,16,Not Fraud
+3759,18,Fraud
+5139,4,Not Fraud
+2383,18,Fraud
+6618,1,Not Fraud
+3082,3,Fraud
+3282,19,Not Fraud
+3242,3,Fraud
+938,26,Not Fraud
+3176,25,Fraud
+1618,30,Not Fraud
+402,26,Fraud
+5682,6,Not Fraud
+524,18,Fraud
+4037,2,Not Fraud
+2182,6,Fraud
+3534,18,Not Fraud
+4987,21,Fraud
+6110,5,Not Fraud
+582,1,Fraud
+1900,30,Not Fraud
+1425,22,Fraud
+3929,25,Not Fraud
+5836,19,Fraud
+6424,14,Not Fraud
+6897,23,Fraud
+6880,27,Not Fraud
+5017,22,Fraud
+1130,20,Not Fraud
+1115,16,Fraud
+4321,6,Not Fraud
+2997,14,Fraud
+6106,23,Not Fraud
+2332,17,Fraud
+1050,22,Not Fraud
+1392,15,Fraud
+3232,20,Not Fraud
+3673,17,Fraud
+760,22,Not Fraud
+4423,15,Fraud
+2480,25,Not Fraud
+1096,20,Fraud
+5188,19,Not Fraud
+4518,7,Fraud
+3219,28,Not Fraud
+4326,3,Fraud
+498,20,Not Fraud
+1174,14,Fraud
+5105,12,Not Fraud
+6845,1,Fraud
+5525,18,Not Fraud
+2673,3,Fraud
+4855,25,Not Fraud
+1991,18,Fraud
+3095,25,Not Fraud
+2338,29,Fraud
+2685,11,Not Fraud
+5386,23,Fraud
+5708,7,Not Fraud
+602,11,Fraud
+6952,16,Not Fraud
+3587,2,Fraud
+3995,8,Not Fraud
+624,26,Fraud
+1118,17,Not Fraud
+3048,28,Fraud
+3274,15,Not Fraud
+239,1,Fraud
+2647,16,Not Fraud
+2731,9,Fraud
+4605,17,Not Fraud
+2915,17,Fraud
+325,13,Not Fraud
+3022,3,Fraud
+5591,19,Not Fraud
+4231,9,Fraud
+860,12,Not Fraud
+1269,17,Fraud
+4359,7,Not Fraud
+6982,27,Fraud
+1145,1,Not Fraud
+4188,6,Fraud
+1413,7,Not Fraud
+3785,11,Fraud
+2928,8,Not Fraud
+4560,5,Fraud
+2522,12,Not Fraud
+4750,29,Fraud
+215,8,Not Fraud
+4162,4,Fraud
+2058,1,Not Fraud
+284,19,Fraud
+597,16,Not Fraud
+6159,27,Fraud
+4656,19,Not Fraud
+1696,12,Fraud
+6379,29,Not Fraud
+3758,4,Fraud
+4479,3,Not Fraud
+3322,21,Fraud
+1016,26,Not Fraud
+2991,10,Fraud
+310,2,Not Fraud
+3953,27,Fraud
+910,30,Not Fraud
+5440,1,Fraud
+836,27,Not Fraud
+3702,16,Fraud
+5847,27,Not Fraud
+3633,27,Fraud
+6585,1,Not Fraud
+292,26,Fraud
+4440,3,Not Fraud
+6454,30,Fraud
+3339,24,Not Fraud
+4519,4,Fraud
+3783,1,Not Fraud
+1083,10,Fraud
+6179,14,Not Fraud
+3859,8,Fraud
+5262,21,Not Fraud
+6173,28,Fraud
+946,2,Not Fraud
+4964,23,Fraud
+5637,2,Not Fraud
+2204,9,Fraud
+4875,16,Not Fraud
+5596,15,Fraud
+2635,12,Not Fraud
+4001,26,Fraud
+4613,19,Not Fraud
+3167,15,Fraud
+1170,28,Not Fraud
+871,5,Fraud
+756,4,Not Fraud
+2103,7,Fraud
+438,5,Not Fraud
+3643,5,Fraud
+6530,14,Not Fraud
+4901,16,Fraud
+6366,27,Not Fraud
+6624,8,Fraud
+6815,3,Not Fraud
+5288,26,Fraud
+1217,12,Not Fraud
+933,28,Fraud
+3669,19,Not Fraud
+3878,21,Fraud
+3985,30,Not Fraud
+4057,6,Fraud
+1868,6,Not Fraud
+3939,23,Fraud
+298,14,Not Fraud
+950,24,Fraud
+1529,21,Not Fraud
+2046,22,Fraud
+3110,10,Not Fraud
+3239,23,Fraud
+1847,1,Not Fraud
+885,8,Fraud
+5085,7,Not Fraud
+703,17,Fraud
+5510,17,Not Fraud
+6583,25,Fraud
+4739,16,Not Fraud
+4136,7,Fraud
+1157,23,Not Fraud
+2770,24,Fraud
+2203,11,Not Fraud
+4552,13,Fraud
+4870,14,Not Fraud
+275,25,Fraud
+5901,23,Not Fraud
+390,12,Fraud
+6366,20,Not Fraud
+2168,4,Fraud
+6929,25,Not Fraud
+2684,29,Fraud
+2611,30,Not Fraud
+5694,20,Fraud
+502,20,Not Fraud
+5711,12,Fraud
+6916,1,Not Fraud
+6769,2,Fraud
+4947,20,Not Fraud
+5032,22,Fraud
+4641,19,Not Fraud
+6143,6,Fraud
+6675,14,Not Fraud
+3144,3,Fraud
+3477,22,Not Fraud
+6243,28,Fraud
+4658,21,Not Fraud
+1018,24,Fraud
+6417,21,Not Fraud
+6276,23,Fraud
+3270,9,Not Fraud
+914,25,Fraud
+1349,22,Not Fraud
+6063,8,Fraud
+5432,28,Not Fraud
+3284,27,Fraud
+1887,14,Not Fraud
+3939,26,Fraud
+1347,21,Not Fraud
+2540,11,Fraud
+4285,7,Not Fraud
+2598,17,Fraud
+1755,29,Not Fraud
+1127,3,Fraud
+919,18,Not Fraud
+3515,11,Fraud
+4191,6,Not Fraud
+3016,30,Fraud
+285,12,Not Fraud
+6932,30,Fraud
+2425,6,Not Fraud
+6779,2,Fraud
+2063,26,Not Fraud
+6162,19,Fraud
+4144,25,Not Fraud
+5455,11,Fraud
+614,22,Not Fraud
+2580,7,Fraud
+1902,16,Not Fraud
+2628,2,Fraud
+6457,29,Not Fraud
+894,10,Fraud
+4765,8,Not Fraud
+5479,3,Fraud
+425,18,Not Fraud
+5828,21,Fraud
+5702,1,Not Fraud
+5449,19,Fraud
+1039,3,Not Fraud
+759,17,Fraud
+2696,24,Not Fraud
+1643,18,Fraud
+6980,28,Not Fraud
+4457,4,Fraud
+2183,15,Not Fraud
+2170,27,Fraud
+251,9,Not Fraud
+4697,27,Fraud
+5851,23,Not Fraud
+4061,30,Fraud
+746,7,Not Fraud
+5077,21,Fraud
+4751,9,Not Fraud
+5982,10,Fraud
+5431,29,Not Fraud
+1664,24,Fraud
+2092,11,Not Fraud
+5715,1,Fraud
+516,12,Not Fraud
+2801,16,Fraud
+5895,20,Not Fraud
+1981,1,Fraud
+6771,5,Not Fraud
+4559,24,Fraud
+296,9,Not Fraud
+1507,2,Fraud
+888,28,Not Fraud
+550,20,Fraud
+4897,9,Not Fraud
+2904,26,Fraud
+2019,27,Not Fraud
+5985,8,Fraud
+5116,28,Not Fraud
+4675,1,Fraud
+6242,8,Not Fraud
+1045,22,Fraud
+1912,7,Not Fraud
+1952,26,Fraud
+4424,8,Not Fraud
+1791,9,Fraud
+6313,14,Not Fraud
+1547,10,Fraud
+6105,3,Not Fraud
+2009,3,Fraud
+2786,24,Not Fraud
+1354,4,Fraud
+2053,18,Not Fraud
+5305,23,Fraud
+3694,24,Not Fraud
+6995,9,Fraud
+2076,16,Not Fraud
+1827,8,Fraud
+2494,8,Not Fraud
+1602,18,Fraud
+6408,4,Not Fraud
+5038,13,Fraud
+1919,6,Not Fraud
+1782,28,Fraud
+5970,13,Not Fraud
+1077,20,Fraud
+428,18,Not Fraud
+2345,6,Fraud
+5559,25,Not Fraud
+3785,16,Fraud
+3171,8,Not Fraud
+667,4,Fraud
+2630,16,Not Fraud
+5109,9,Fraud
+5378,7,Not Fraud
+2870,16,Fraud
+4919,20,Not Fraud
+2156,30,Fraud
+953,21,Not Fraud
+1879,5,Fraud
+735,3,Not Fraud
+6394,16,Fraud
+6228,10,Not Fraud
+2839,24,Fraud
+4107,19,Not Fraud
+3826,26,Fraud
+4766,25,Not Fraud
+5911,16,Fraud
+2863,5,Not Fraud
+634,18,Fraud
+2551,11,Not Fraud
+6131,10,Fraud
+1108,5,Not Fraud
+6477,4,Fraud
+3650,23,Not Fraud
+5672,3,Fraud
+5850,3,Not Fraud
+1865,10,Fraud
+1788,26,Not Fraud
+4075,16,Fraud
+5740,17,Not Fraud
+6254,4,Fraud
+4629,18,Not Fraud
+6451,11,Fraud
+761,29,Not Fraud
+1816,12,Fraud
+480,15,Not Fraud
+1830,16,Fraud
+547,17,Not Fraud
+1256,23,Fraud
+821,29,Not Fraud
+1586,1,Fraud
+5367,6,Not Fraud
+6709,17,Fraud
+2907,4,Not Fraud
+787,17,Fraud
+1037,12,Not Fraud
+2507,14,Fraud
+887,28,Not Fraud
+6545,3,Fraud
+5645,18,Not Fraud
+5603,7,Fraud
+2138,21,Not Fraud
+5770,9,Fraud
+2673,4,Not Fraud
+4324,4,Fraud
+6904,11,Not Fraud
+256,8,Fraud
+1751,25,Not Fraud
+6866,24,Fraud
+1479,27,Not Fraud
+6698,14,Fraud
+2853,15,Not Fraud
+2079,15,Fraud
+2109,26,Not Fraud
+1849,11,Fraud
+5946,29,Not Fraud
+2106,10,Fraud
+919,14,Not Fraud
+6868,17,Fraud
+6727,25,Not Fraud
+945,19,Fraud
+3338,7,Not Fraud
+1985,1,Fraud
+4884,10,Not Fraud
+2572,22,Fraud
+3970,8,Not Fraud
+1828,8,Fraud
+2413,21,Not Fraud
+1421,9,Fraud
+5044,8,Not Fraud
+1369,28,Fraud
+4989,11,Not Fraud
+3924,23,Fraud
+1214,5,Not Fraud
+2822,9,Fraud
+2334,27,Not Fraud
+5444,10,Fraud
+1588,29,Not Fraud
+3560,24,Fraud
+6969,26,Not Fraud
+6348,9,Fraud
+6621,19,Not Fraud
+3353,24,Fraud
+6415,7,Not Fraud
+3490,2,Fraud
+6737,4,Not Fraud
+3627,7,Fraud
+3911,4,Not Fraud
+5007,24,Fraud
+1746,26,Not Fraud
+6629,29,Fraud
+4536,25,Not Fraud
+5334,23,Fraud
+5449,8,Not Fraud
+4278,20,Fraud
+5581,7,Not Fraud
+6343,29,Fraud
+6407,24,Not Fraud
+6524,10,Fraud
+2082,12,Not Fraud
+386,19,Fraud
+6929,28,Not Fraud
+4744,26,Fraud
+4384,14,Not Fraud
+2681,29,Fraud
+5336,15,Not Fraud
+1884,13,Fraud
+6533,28,Not Fraud
+2313,13,Fraud
+2669,19,Not Fraud
+920,27,Fraud
+972,10,Not Fraud
+5614,6,Fraud
+6813,12,Not Fraud
+867,8,Fraud
+667,5,Not Fraud
+2633,22,Fraud
+4424,3,Not Fraud
+1184,2,Fraud
+817,18,Not Fraud
+1683,12,Fraud
+4211,30,Not Fraud
+2264,3,Fraud
+3155,8,Not Fraud
+2221,14,Fraud
+1426,17,Not Fraud
+808,4,Fraud
+2152,9,Not Fraud
+4864,27,Fraud
+4396,24,Not Fraud
+691,27,Fraud
+5704,18,Not Fraud
+1084,12,Fraud
+2985,14,Not Fraud
+4129,27,Fraud
+6828,6,Not Fraud
+2222,23,Fraud
+6754,8,Not Fraud
+2116,3,Fraud
+3188,20,Not Fraud
+494,15,Fraud
+3962,23,Not Fraud
+3262,11,Fraud
+5304,29,Not Fraud
+3803,30,Fraud
+4253,24,Not Fraud
+5387,24,Fraud
+6867,27,Not Fraud
+6513,7,Fraud
+2932,3,Not Fraud
+3473,27,Fraud
+1643,18,Not Fraud
+2365,27,Fraud
+6510,6,Not Fraud
+6164,28,Fraud
+4133,5,Not Fraud
+5095,22,Fraud
+5830,19,Not Fraud
+925,3,Fraud
+3888,13,Not Fraud
+6448,7,Fraud
+5193,16,Not Fraud
+6008,27,Fraud
+2790,22,Not Fraud
+1030,24,Fraud
+4606,15,Not Fraud
+6355,23,Fraud
+4546,6,Not Fraud
+4017,9,Fraud
+1457,19,Not Fraud
+5044,19,Fraud
+1368,13,Not Fraud
+1245,10,Fraud
+5915,2,Not Fraud
+4662,26,Fraud
+6581,23,Not Fraud
+5930,23,Fraud
+1886,7,Not Fraud
+2869,21,Fraud
+1328,21,Not Fraud
+6213,16,Fraud
+2668,5,Not Fraud
+3696,7,Fraud
+2397,27,Not Fraud
+3893,27,Fraud
+3086,7,Not Fraud
+2017,13,Fraud
+4534,23,Not Fraud
+5860,17,Fraud
+3444,5,Not Fraud
+4553,15,Fraud
+2100,12,Not Fraud
+3192,23,Fraud
+2597,7,Not Fraud
+3882,12,Fraud
+1535,4,Not Fraud
+6072,8,Fraud
+6462,18,Not Fraud
+4468,4,Fraud
+290,18,Not Fraud
+6593,12,Fraud
+1899,1,Not Fraud
+4900,13,Fraud
+5267,15,Not Fraud
+4121,25,Fraud
+4351,27,Not Fraud
+3637,8,Fraud
+5421,22,Not Fraud
+2691,26,Fraud
+2277,1,Not Fraud
+1834,17,Fraud
+2647,30,Not Fraud
+5988,13,Fraud
+2336,9,Not Fraud
+259,27,Fraud
+4306,13,Not Fraud
+6132,14,Fraud
+4966,11,Not Fraud
+3882,6,Fraud
+1264,2,Not Fraud
+5472,29,Fraud
+1529,13,Not Fraud
+1690,30,Fraud
+2204,8,Not Fraud
+2196,2,Fraud
+2039,13,Not Fraud
+421,23,Fraud
+2687,5,Not Fraud
+1898,22,Fraud
+6172,20,Not Fraud
+2196,8,Fraud
+6131,26,Not Fraud
+3464,19,Fraud
+1314,6,Not Fraud
+2767,30,Fraud
+6970,2,Not Fraud
+2915,20,Fraud
+3066,25,Not Fraud
+3658,1,Fraud
+405,2,Not Fraud
+355,14,Fraud
+2338,7,Not Fraud
+6432,12,Fraud
+4037,8,Not Fraud
+6584,2,Fraud
+2500,16,Not Fraud
+3160,26,Fraud
+3662,25,Not Fraud
+974,29,Fraud
+5526,26,Not Fraud
+2683,28,Fraud
+4945,19,Not Fraud
+5138,13,Fraud
+6856,27,Not Fraud
+207,4,Fraud
+2166,16,Not Fraud
+5048,4,Fraud
+4380,30,Not Fraud
+3336,24,Fraud
+5228,21,Not Fraud
+3063,15,Fraud
+4473,19,Not Fraud
+1724,19,Fraud
+287,4,Not Fraud
+5327,10,Fraud
+6993,17,Not Fraud
+1991,25,Fraud
+755,5,Not Fraud
+642,6,Fraud
+684,4,Not Fraud
+6963,5,Fraud
+5196,24,Not Fraud
+6412,27,Fraud
+3849,22,Not Fraud
+2898,15,Fraud
+4613,19,Not Fraud
+5694,14,Fraud
+3877,21,Not Fraud
+5120,28,Fraud
+6723,1,Not Fraud
+3669,18,Fraud
+6881,3,Not Fraud
+3826,18,Fraud
+4133,4,Not Fraud
+3153,21,Fraud
+4437,17,Not Fraud
+6786,10,Fraud
+875,1,Not Fraud
+6387,8,Fraud
+5253,1,Not Fraud
+6788,15,Fraud
+5800,30,Not Fraud
+3796,1,Fraud
+4525,5,Not Fraud
+3812,26,Fraud
+1283,24,Not Fraud
+4691,6,Fraud
+1719,18,Not Fraud
+3402,3,Fraud
+4789,25,Not Fraud
+5672,29,Fraud
+3928,18,Not Fraud
+2768,21,Fraud
+2434,2,Not Fraud
+6547,16,Fraud
+3665,15,Not Fraud
+2438,15,Fraud
+3291,21,Not Fraud
+5952,27,Fraud
+2864,12,Not Fraud
+6362,24,Fraud
+6415,7,Not Fraud
+676,12,Fraud
+5035,25,Not Fraud
+794,4,Fraud
+5194,30,Not Fraud
+4751,4,Fraud
+6301,7,Not Fraud
+5722,18,Fraud
+1714,2,Not Fraud
+4563,6,Fraud
+6473,2,Not Fraud
+5924,19,Fraud
+342,14,Not Fraud
+3950,29,Fraud
+2440,15,Not Fraud
+5197,28,Fraud
+6994,18,Not Fraud
+3284,6,Fraud
+2435,2,Not Fraud
+6808,16,Fraud
+2896,16,Not Fraud
+6869,9,Fraud
+3944,27,Not Fraud
+6509,25,Fraud
+3754,4,Not Fraud
+839,22,Fraud
+6399,3,Not Fraud
+550,4,Fraud
+680,13,Not Fraud
+1909,19,Fraud
+6415,7,Not Fraud
+3033,20,Fraud
+6121,29,Not Fraud
+4644,15,Fraud
+2183,8,Not Fraud
+3949,30,Fraud
+1692,20,Not Fraud
+1362,10,Fraud
+1341,21,Not Fraud
+6660,30,Fraud
+5384,26,Not Fraud
+1446,2,Fraud
+4331,24,Not Fraud
+428,28,Fraud
+1063,3,Not Fraud
+701,12,Fraud
+5133,2,Not Fraud
+3805,23,Fraud
+405,9,Not Fraud
+2341,23,Fraud
+6322,27,Not Fraud
+6850,6,Fraud
+1285,19,Not Fraud
+1840,29,Fraud
+400,19,Not Fraud
+2419,2,Fraud
+201,20,Not Fraud
+2197,9,Fraud
+5474,14,Not Fraud
+6775,5,Fraud
+1282,14,Not Fraud
+4012,26,Fraud
+5049,13,Not Fraud
+6086,17,Fraud
+5777,8,Not Fraud
+2587,9,Fraud
+4169,29,Not Fraud
+5096,14,Fraud
+1985,16,Not Fraud
+6305,10,Fraud
+2788,4,Not Fraud
+613,6,Fraud
+1951,17,Not Fraud
+2798,18,Fraud
+1478,10,Not Fraud
+6339,21,Fraud
+2189,17,Not Fraud
+2296,30,Fraud
+5482,23,Not Fraud
+665,30,Fraud
+5596,17,Not Fraud
+3031,5,Fraud
+967,20,Not Fraud
+3002,9,Fraud
+3588,8,Not Fraud
+6698,10,Fraud
+2432,22,Not Fraud
+2974,11,Fraud
+4517,16,Not Fraud
+4779,20,Fraud
+4362,7,Not Fraud
+3828,29,Fraud
+5452,11,Not Fraud
+682,6,Fraud
+5809,10,Not Fraud
+4505,1,Fraud
+4648,9,Not Fraud
+2139,4,Fraud
+431,8,Not Fraud
+5174,10,Fraud
+3301,21,Not Fraud
+2918,6,Fraud
+746,12,Not Fraud
+4504,12,Fraud
+2023,18,Not Fraud
+1159,15,Fraud
+4258,21,Not Fraud
+4021,17,Fraud
+6646,6,Not Fraud
+3030,8,Fraud
+2906,8,Not Fraud
+6150,24,Fraud
+2127,13,Not Fraud
+261,6,Fraud
+5959,9,Not Fraud
+2856,28,Fraud
+6073,7,Not Fraud
+4548,19,Fraud
+3368,11,Not Fraud
+4619,26,Fraud
+6540,9,Not Fraud
+2233,15,Fraud
+4073,7,Not Fraud
+1975,18,Fraud
+4260,5,Not Fraud
+5154,18,Fraud
+989,21,Not Fraud
+399,2,Fraud
+3712,9,Not Fraud
+4772,3,Fraud
+803,29,Not Fraud
+6952,15,Fraud
+2827,25,Not Fraud
+4505,27,Fraud
+5406,8,Not Fraud
+4771,1,Fraud
+1373,22,Not Fraud
+6680,8,Fraud
+5251,21,Not Fraud
+1685,6,Fraud
+5026,2,Not Fraud
+3138,21,Fraud
+507,24,Not Fraud
+1471,23,Fraud
+6239,16,Not Fraud
+6042,18,Fraud
+2010,2,Not Fraud
+1855,18,Fraud
+5322,26,Not Fraud
+6584,24,Fraud
+1132,20,Not Fraud
+3147,7,Fraud
+5995,4,Not Fraud
+4824,5,Fraud
+227,4,Not Fraud
+800,24,Fraud
+5125,18,Not Fraud
+4775,21,Fraud
+5342,27,Not Fraud
+5628,19,Fraud
+2189,4,Not Fraud
+4150,5,Fraud
+3702,18,Not Fraud
+297,21,Fraud
+3602,29,Not Fraud
+4956,28,Fraud
+5834,1,Not Fraud
+4535,28,Fraud
+6672,19,Not Fraud
+1242,19,Fraud
+6038,14,Not Fraud
+754,4,Fraud
+4765,29,Not Fraud
+3097,7,Fraud
+1415,6,Not Fraud
+2632,20,Fraud
+3696,20,Not Fraud
+1977,12,Fraud
+5040,1,Not Fraud
+5386,9,Fraud
+5761,18,Not Fraud
+3884,10,Fraud
+5982,24,Not Fraud
+3613,20,Fraud
+4380,6,Not Fraud
+3018,2,Fraud
+4175,9,Not Fraud
+5480,11,Fraud
+487,12,Not Fraud
+6346,20,Fraud
+4674,17,Not Fraud
+3371,8,Fraud
+1381,27,Not Fraud
+3567,28,Fraud
+3282,30,Not Fraud
+6063,30,Fraud
+3352,26,Not Fraud
+6283,21,Fraud
+3542,30,Not Fraud
+6954,26,Fraud
+5214,6,Not Fraud
+1493,13,Fraud
+2860,16,Not Fraud
+1193,9,Fraud
+5042,30,Not Fraud
+2658,13,Fraud
+738,27,Not Fraud
+6733,26,Fraud
+996,14,Not Fraud
+4357,17,Fraud
+706,22,Not Fraud
+6130,16,Fraud
+6712,20,Not Fraud
+3354,11,Fraud
+6543,5,Not Fraud
+753,3,Fraud
+1153,7,Not Fraud
+1781,23,Fraud
+3332,22,Not Fraud
+3622,25,Fraud
+1781,15,Not Fraud
+953,22,Fraud
+3625,10,Not Fraud
+3190,22,Fraud
+1656,19,Not Fraud
+1689,16,Fraud
+2442,24,Not Fraud
+5210,21,Fraud
+6437,30,Not Fraud
+2018,13,Fraud
+5453,16,Not Fraud
+1176,22,Fraud
+6560,18,Not Fraud
+3278,21,Fraud
+3040,13,Not Fraud
+2209,24,Fraud
+4423,14,Not Fraud
+3384,9,Fraud
+519,30,Not Fraud
+4742,8,Fraud
+2541,2,Not Fraud
+2352,20,Fraud
+2407,21,Not Fraud
+4033,5,Fraud
+5631,8,Not Fraud
+786,23,Fraud
+3208,14,Not Fraud
+3481,27,Fraud
+892,25,Not Fraud
+5976,22,Fraud
+223,16,Not Fraud
+1217,17,Fraud
+5842,9,Not Fraud
+2739,7,Fraud
+2040,9,Not Fraud
+4727,23,Fraud
+6428,3,Not Fraud
+1518,9,Fraud
+4346,6,Not Fraud
+1732,3,Fraud
+5782,13,Not Fraud
+1759,21,Fraud
+960,27,Not Fraud
+2937,8,Fraud
+439,19,Not Fraud
+1639,2,Fraud
+3485,14,Not Fraud
+6246,23,Fraud
+6227,18,Not Fraud
+4515,6,Fraud
+3711,8,Not Fraud
+6636,27,Fraud
+5392,28,Not Fraud
+1264,10,Fraud
+4242,9,Not Fraud
+3819,28,Fraud
+5632,29,Not Fraud
+1005,21,Fraud
+6637,28,Not Fraud
+1583,17,Fraud
+4616,15,Not Fraud
+2515,24,Fraud
+6941,10,Not Fraud
+6849,20,Fraud
+920,23,Not Fraud
