@@ -13,7 +13,6 @@ import random
 from random import randint,choice
 import flask_uploads
 from flask_uploads import UploadSet, configure_uploads, IMAGES,UploadNotAllowed
-#Encryption Credentials
 
 UPLOAD_FOLDER = '/models'
 ALLOWED_EXTENSIONS = set(['txt', 'csv'])
@@ -21,10 +20,6 @@ ALLOWED_EXTENSIONS = set(['txt', 'csv'])
 app = FlaskAPI(__name__)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 app.config['MAX_CONTENT_LENGTH'] = 0.0016 * 1024 * 1024
-#api = Api(app)
-
-#allchar = string.ascii_letters + string.digits
-#model = "".join(choice(allchar) for x in range(randint(50, 50)))
 	
 files = UploadSet('files', extensions="csv")
 
