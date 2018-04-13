@@ -4,7 +4,7 @@ datetime
 turicreate
 pandas
 requests
-werkzeug.utils
+werkzeug
 string
 random
 flask_uploads
