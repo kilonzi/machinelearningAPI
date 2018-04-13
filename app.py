@@ -24,7 +24,7 @@ app.config['MAX_CONTENT_LENGTH'] = 0.0016 * 1024 * 1024
 files = UploadSet('files', extensions="csv")
 
 @app.route('/',methods=['GET'])
-def hello_world:
+def hello_world():
 	return "Hello World"
 
 @app.route('/upload',methods=['POST'])
