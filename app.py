@@ -5,45 +5,29 @@ from datetime import datetime
 import turicreate as tc
 import pandas as pd
 import requests
-import os
+#import os
 from flask import Flask, request, redirect, url_for
-from werkzeug.utils import secure_filename
-import string
-import random
-from random import randint,choice
+#from werkzeug.utils import secure_filename
+#import string
+#import random
+#from random import randint,choice
 import flask_uploads
-from flask_uploads import UploadSet, configure_uploads, IMAGES,UploadNotAllowed
+#from flask_uploads import UploadSet, configure_uploads, IMAGES,UploadNotAllowed
 
-UPLOAD_FOLDER = '/models'
-ALLOWED_EXTENSIONS = set(['txt', 'csv'])
+#UPLOAD_FOLDER = '/models'
+#ALLOWED_EXTENSIONS = set(['txt', 'csv'])
 
 app = FlaskAPI(__name__)
-app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
-app.config['MAX_CONTENT_LENGTH'] = 0.0016 * 1024 * 1024
+#app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
+#app.config['MAX_CONTENT_LENGTH'] = 0.0016 * 1024 * 1024
 	
-files = UploadSet('files', extensions="csv")
+#files = UploadSet('files', extensions="csv")
 
-@app.route('/',methods=['GET'])
-def hello_world():
-	return "Hello World"
-
-@app.route('/upload',methods=['POST'])
-def upload_files():
-	allchar = string.ascii_letters + string.digits
-	model = "".join(choice(allchar) for x in range(randint(50, 50)))
-	
-	if request.method == 'POST':
-	    f = request.files['file']
-	    f.save(secure_filename(model+".csv"))
-	    return model
-	else:
-		pass    
-#Creates or gets a user based of an ID
 @app.route('/identify',methods=['POST'])
 def identify():
 	#Loading of train data
-	model_id = request.headers['model']
-	sf_train   = tc.SFrame.read_csv(model_id+".csv",error_bad_lines=True)
+	url = "https://bireum.com/version-test/fileupload/f1523461200006x770887485239654800/x323ScHhf5zrpvBvSHmNwqLW2KW9ezhyosf8QrZ1cmXBZIIcKv.csv"
+	sf_train   = tc.SFrame.read_csv(url,error_bad_lines=True)
 
 	#input_post_json
 	json_data = request.get_json(force = True)
