@@ -5,6 +5,5 @@ turicreate
 pandas
 requests
 werkzeug
-string
-random
+python-string-utils
 flask_uploads
