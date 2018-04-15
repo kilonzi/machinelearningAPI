@@ -1,27 +1,12 @@
 from flask_api import FlaskAPI
 from flask import Flask, request, json, jsonify
 import datetime
-from datetime import datetime
 import turicreate as tc
 import pandas as pd
 import requests
-#import os
-from flask import Flask, request, redirect, url_for
-#from werkzeug.utils import secure_filename
-#import string
-#import random
-#from random import randint,choice
 import flask_uploads
-#from flask_uploads import UploadSet, configure_uploads, IMAGES,UploadNotAllowed
-
-#UPLOAD_FOLDER = '/models'
-#ALLOWED_EXTENSIONS = set(['txt', 'csv'])
 
 app = FlaskAPI(__name__)
-#app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
-#app.config['MAX_CONTENT_LENGTH'] = 0.0016 * 1024 * 1024
-	
-#files = UploadSet('files', extensions="csv")
 
 @app.route('/identify',methods=['POST'])
 def identify():
