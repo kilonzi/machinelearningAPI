@@ -15,3 +15,7 @@ libpython3.4-minimal
 libpython3.4-stdlib 
 libpython3.5-minimal
 libpython3.5-stdlib
+libblas3
+liblapack3
+python-setuptools
+libstdc++
