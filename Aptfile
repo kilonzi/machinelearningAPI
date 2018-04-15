@@ -1,4 +1,7 @@
 python3.6-dev
+python2.7-dev
+python3.6
+python2.7
 libpython3.6-dev
 libatlas3-base
 libpython-dev
