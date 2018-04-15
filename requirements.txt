@@ -8,3 +8,7 @@ requests
 werkzeug
 python-string-utils
 flask_uploads
+libblas3
+liblapack3
+python-setuptools
+libstdc++6
