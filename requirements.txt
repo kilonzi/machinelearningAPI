@@ -8,4 +8,3 @@ requests
 werkzeug
 python-string-utils
 flask_uploads
---upgrade --no-cache-dir https://get.graphlab.com/GraphLab-Create/2.1/jkitonyo@sbs.ac.ke/C53E-7684-77FE-3EDE-967B-A927-6301-AF72/GraphLab-Create-License.tar.gz
